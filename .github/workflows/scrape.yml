@@ -1,7 +1,6 @@
 name: Scrape LeekDuck
 
 on:
-  workflow_dispatch:
   schedule:
     - cron: '*/10 * * * *'
 
