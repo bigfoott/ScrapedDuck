@@ -1,3 +1,4 @@
+const fs = require('fs');
 const moment = require('moment');
 const jsd = require('jsdom');
 const { JSDOM } = jsd;
