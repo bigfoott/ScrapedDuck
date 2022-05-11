@@ -26,10 +26,10 @@ jobs:
       
       - name: Delete repo files
         run: |
-          find ./ -maxdepth 1 -type f -delete
-          rm -r .github
-          cp -a files/. .
-          rm -r files
+          mv files ..
+          rm -rf *
+          cp -a ../files/. .
+          rm -r ../files
         
       - name: Commit
         run: |
