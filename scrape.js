@@ -1,13 +1,8 @@
-var fs = require('fs');
-var dir = 'files'
+const fs = require('fs');
+import { getEvents } from 'pages/events.js'
 
-if (!fs.existsSync(dir)){
-    fs.mkdirSync(dir);
+if (!fs.existsSync('files')){
+    fs.mkdirSync('files');
 }
 
-fs.writeFile(dir + '/test.txt', (new Date()).toString(), err => {
-    if (err) {
-        console.error(err)
-        return
-    }
-})
+await getEvents();

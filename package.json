@@ -6,14 +6,10 @@
   "scripts": {
     "scrape": "node ./scrape.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/bigfoott/ScrapedDuck.git"
-  },
   "author": "bigfoott",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/bigfoott/ScrapedDuck/issues"
-  },
-  "homepage": "https://github.com/bigfoott/ScrapedDuck#readme"
+  "dependencies": {
+    "jsdom": "latest",
+    "moment": "latest"
+  }
 }
