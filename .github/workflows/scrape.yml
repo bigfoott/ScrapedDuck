@@ -1,0 +1,47 @@
+name: Scrape LeekDuck
+
+#on:
+#  schedule:
+#    - cron: '*/10 * * * *'
+on: workflow_dispatch
+
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+            persist-credentials: false
+            fetch-depth: 0
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 14
+
+      - name: Install dependencies
+        run: npm install
+      
+      - name: Run script
+        run: npm run scrape
+      
+      - name: Delete repo files
+        run: |
+          find ./ -maxdepth 1 -type f -delete
+          rm -r .github
+          cp -a files/. .
+          rm -r files
+        
+      - name: Commit
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git checkout --orphan data
+          git add --all
+          git commit -m 'Pushed data'
+      
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: data
+          force: true
