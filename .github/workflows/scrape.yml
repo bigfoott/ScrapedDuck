@@ -1,9 +1,9 @@
 name: Scrape LeekDuck
 
-#on:
-#  schedule:
-#    - cron: '*/10 * * * *'
-on: workflow_dispatch
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '*/10 * * * *'
 
 jobs:
   build:
