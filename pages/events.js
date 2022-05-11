@@ -72,18 +72,18 @@ function getEvents()
 
             fs.writeFile('files/events.json', JSON.stringify(allEvents, null, 4), err => {
                 if (err) {
-                    console.error(err)
-                    return
+                    console.error(err);
+                    return;
                 }
-            })
+            });
             fs.writeFile('files/events.min.json', JSON.stringify(allEvents), err => {
                 if (err) {
-                    console.error(err)
-                    return
+                    console.error(err);
+                    return;
                 }
-            })
+            });
         });
     })
 }
 
-export { getEvents }
+module.exports = { getEvents }

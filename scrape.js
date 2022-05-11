@@ -1,8 +1,8 @@
 const fs = require('fs');
-import { getEvents } from 'pages/events.js'
+const events = require('pages/events')
 
 if (!fs.existsSync('files')){
     fs.mkdirSync('files');
 }
 
-await getEvents();
+await events.getEvents();
