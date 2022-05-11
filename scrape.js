@@ -5,4 +5,9 @@ if (!fs.existsSync('files')){
     fs.mkdirSync('files');
 }
 
-await events.getEvents();
+async function main()
+{
+    await events.getEvents();
+}
+
+main();
