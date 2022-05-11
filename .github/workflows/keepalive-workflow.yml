@@ -1,0 +1,16 @@
+name: Keepalive Workflow
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  keepalive-workflow:
+    name: Keepalive
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/keepalive-workflow@master
+        with:
+          committer_email: github-actions[bot]@users.noreply.github.com
+          committer_username: github-actions[bot]
+          commit_message: Automated dummy commit by Keepalive Workflow
