@@ -3,7 +3,7 @@ const moment = require('moment');
 const jsd = require('jsdom');
 const { JSDOM } = jsd;
 
-function getEvents()
+function get()
 {
     return new Promise(resolve => {
         JSDOM.fromURL("https://www.leekduck.com/events/")
@@ -88,4 +88,4 @@ function getEvents()
     })
 }
 
-module.exports = { getEvents }
+module.exports = { get }
