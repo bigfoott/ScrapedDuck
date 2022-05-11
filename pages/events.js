@@ -20,7 +20,8 @@ function getEvents()
                     var heading = e.querySelector(":scope > .event-item-wrapper > p").innerHTML;
                     var name = e.querySelector(":scope > .event-item-wrapper > .event-item > .event-text-container > .event-text > h2").innerHTML;
                     var image = e.querySelector(":scope > .event-item-wrapper > .event-item > .event-img-wrapper > img").src;
-                    var eventID = e.href.substring(32, e.href.length - 1)
+                    var link = e.href;
+                    var eventID = link.substring(32, link.length - 1)
                     
                     var eventItemWrapper = e.querySelector(":scope > .event-item-wrapper");
                     eventItemWrapper.classList
@@ -57,7 +58,7 @@ function getEvents()
                         {
                             if (revealCountdown == null || reveal <= Date.now())
                             {
-                                allEvents.push({ "heading": heading, "name": name, "state": category, "eventType": eventType, "eventID": eventID, "image": image, "start": start, "end": end });
+                                allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "state": category, "start": start, "end": end });
                             }
                         }
                     }
@@ -65,7 +66,7 @@ function getEvents()
                     {
                         if (start > Date.now())
                         {
-                            allEvents.push({ "heading": heading, "name": name, "state": category, "eventType": eventType, "eventID": eventID, "image": image, "start": start, "end": end });
+                            allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "state": category, "start": start, "end": end });
                         }
                     }
                 });
