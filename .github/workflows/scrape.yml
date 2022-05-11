@@ -27,6 +27,7 @@ jobs:
       - name: Delete repo files
         run: |
           mv files ..
+          rm -r .github
           rm -rf *
           cp -a ../files/. .
           rm -r ../files
