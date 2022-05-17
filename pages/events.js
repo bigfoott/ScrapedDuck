@@ -5,6 +5,7 @@ const { JSDOM } = jsd;
 const tzd = require('timezoned-date');
 const https = require('https');
 const { resolve } = require('path');
+const { exec } = require('child_process');
 
 async function get()
 {
@@ -14,10 +15,14 @@ async function get()
 
     var events = [], first = [], last = [], activeEvents = [];
 
-    getData(12).then((allEvents) => {
+    exec('sudo timedatectl set-timezone Pacific/Kiritimati');
+    exec('date');
+    getData().then((allEvents) => {
         first = allEvents;
 
-        getData(-9).then((allEvents2) => {
+        exec('sudo timedatectl set-timezone Pacific/Gambier');
+        exec('date');
+        getData().then((allEvents2) => {
             last = allEvents2;
 
             last.forEach(eventL =>
@@ -191,9 +196,6 @@ function getData(offset)
 {
     return new Promise(resolve => {
         JSDOM.fromURL("https://www.leekduck.com/events/", {
-            beforeParse(window) {
-                window.Date = tzd.makeConstructor(offset * 60);
-            }
         })
         .then((dom) => {
 
@@ -233,10 +235,11 @@ function getData(offset)
                     var timeRaw = timeRaw = countdownNode.dataset.countdown;
                     var countdownTo = countdownNode.dataset.countdownTo;
                     var isLocalTime = ['start', 'end'].includes(countdownTo) ? !/^\d+$/.test(timeRaw) : null;
-                    var time = isLocalTime ? moment(timeRaw, 'MM/DD/YYYY HH:mm:ss').toISOString() : moment.unix(parseInt(timeRaw) / 1000).toISOString();
+                    var time = isLocalTime ? moment.utc(timeRaw, 'MM/DD/YYYY HH:mm:ss').toISOString() : moment.unix(parseInt(timeRaw) / 1000).toISOString();
                     var startTime = countdownTo === 'start' ? time : null;
                     var endTime = countdownTo === 'end' ? time : null;
 
+                    
                     var start = Date.parse(startTime);
                     var end = Date.parse(endTime);
 
@@ -246,6 +249,13 @@ function getData(offset)
                         {
                             if (revealCountdown == null || reveal <= Date.now())
                             {
+                                if (eventID == "pokemonspotlighthour2022-05-17")
+                                {
+                                    console.log("current ---")
+                                    console.log(start)
+                                    console.log(end);
+                                }
+
                                 allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "start": startTime, "end": endTime, "isLocalTime": isLocalTime });
                             }
                         }
@@ -254,6 +264,15 @@ function getData(offset)
                     {
                         if (start > Date.now())
                         {
+                            if (eventID == "pokemonspotlighthour2022-05-17")
+                            {
+                                console.log("upcoming ---")
+                                console.log(start)
+                                console.log(end);
+
+                                console.log((tzd.makeConstructor(offset * 60))())
+                            }
+
                             allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "start": startTime, "end": endTime, "isLocalTime": isLocalTime });
                         }
                     }
