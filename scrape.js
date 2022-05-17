@@ -10,6 +10,10 @@ async function main()
     {
         fs.mkdirSync('files');
     }
+    if (!fs.existsSync('files/cache'))
+    {
+        fs.mkdirSync('files/cache');
+    }
 
     await events.get();
     // await raids.get();

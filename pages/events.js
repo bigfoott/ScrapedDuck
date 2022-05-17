@@ -3,10 +3,16 @@ const moment = require('moment');
 const jsd = require('jsdom');
 const { JSDOM } = jsd;
 const tzd = require('timezoned-date');
+const https = require('https');
+const { resolve } = require('path');
 
 async function get()
 {
-    var first = [], last = [];
+    var cache = await loadCache();
+
+    console.log("CACHE SIZE: " + cache.length);
+
+    var events = [], first = [], last = [], activeEvents = [];
 
     getData(14).then((allEvents) => {
         first = allEvents;
@@ -14,15 +20,15 @@ async function get()
         getData(-9).then((allEvents2) => {
             last = allEvents2;
 
-            var events = [];
-
-            first.forEach(eventF =>
+            last.forEach(eventL =>
             {
-                last.forEach(eventL =>
+                var hasFirst = false;
+                first.forEach(eventF =>
                 {
-                    if (eventF.eventID == eventL.eventID)
+                    if (!hasFirst && eventF.eventID == eventL.eventID)
                     {
                         var event = eventF;
+                        activeEvents.push(event.eventID);
                         event.start = eventL.start;
 
                         if (event.isLocalTime)
@@ -36,12 +42,60 @@ async function get()
                                 event.end = event.end.substr(0, event.end.length - 1)
                             }
                         }
+
+                        if (!event.start)
+                        {
+                            if (cache.some(e => e.id == event.eventID))
+                                event.start = cache.filter(e => e.id == event.eventID)[0].start;
+                        }
+
+                        if (!cache.some(e => e.id == event.eventID))
+                        {
+                            cache.push({ "id": event.eventID, "start": event.start, "end": event.end });
+                        }
+
                         delete event.isLocalTime;
 
                         events.push(event);
+                        
+                        hasFirst = true;
                     }
                 });
+                if (!hasFirst)
+                {
+                    var event = eventL;
+                    activeEvents.push(event.eventID);
+
+                    if (event.isLocalTime)
+                    {
+                        if (event.start)
+                        {
+                            event.start = event.start.substr(0, event.start.length - 1);
+                        }
+                        if (event.end)
+                        {
+                            event.end = event.end.substr(0, event.end.length - 1)
+                        }
+                    }
+
+                    if (!event.start)
+                    {
+                        if (cache.some(e => e.id == event.eventID))
+                            event.start = cache.filter(e => e.id == event.eventID)[0].start;
+                    }
+
+                    if (!cache.some(e => e.id == event.eventID))
+                    {
+                        cache.push({ "id": event.eventID, "start": event.start, "end": event.end });
+                    }
+
+                    delete event.isLocalTime;
+
+                    events.push(event);
+                }
             });
+
+            cache = cache.filter(e => activeEvents.includes(e.id));
 
             fs.writeFile('files/events.json', JSON.stringify(events, null, 4), err => {
                 if (err) {
@@ -55,6 +109,46 @@ async function get()
                     return;
                 }
             });
+
+            fs.writeFile('files/cache/eventsCache.json', JSON.stringify(cache), err => {
+                if (err) {
+                    console.error(err);
+                    return;
+                }
+            });
+            fs.writeFile('files/cache/README.md', "# The file(s) in this directory are for internal use. Use the files in the root directory instead :)", err => {
+                if (err) {
+                    console.error(err);
+                    return;
+                }
+            });
+        });
+    });
+}
+
+function loadCache()
+{
+    return new Promise(resolve => {
+        https.get('https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/cache/eventsCache.json', res =>
+        {
+            let data = [];
+
+            res.on('data', chunk => {
+                data.push(chunk);
+            });
+
+            res.on('end', () => {
+                try {
+                    var parse = JSON.parse(Buffer.concat(data).toString());
+                    resolve(parse);
+                }
+                catch (e) {
+                    resolve([]);
+                }
+            });
+        }).on('error', err => {
+            console.log('Error: ', err.message);
+            resolve([]);
         });
     });
 }
