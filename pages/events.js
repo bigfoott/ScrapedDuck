@@ -22,8 +22,8 @@ async function get()
                 {
                     if (eventF.eventID == eventL.eventID)
                     {
-                        var event = eventL;
-                        event.end = eventF.end;
+                        var event = eventF;
+                        event.start = eventL.start;
 
                         if (event.isLocalTime)
                         {
