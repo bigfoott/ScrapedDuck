@@ -14,7 +14,7 @@ async function get()
 
     var events = [], first = [], last = [], activeEvents = [];
 
-    getData(14).then((allEvents) => {
+    getData(12).then((allEvents) => {
         first = allEvents;
 
         getData(-9).then((allEvents2) => {
@@ -75,6 +75,23 @@ async function get()
                         if (event.end)
                         {
                             event.end = event.end.substr(0, event.end.length - 1)
+                        }
+                    }
+
+                    if (cache.some(e => e.id == event.eventID))
+                    {
+                        var cachedEvent = cache.filter(e => e.id == event.eventID)[0];
+                        if (!cachedEvent.start && event.start)
+                        {
+                            cachedEvent.start = event.start;
+                            cache = cache.filter(e => e.id != event.eventID);
+                            cache.push(cachedEvent)
+                        }
+                        if (!cachedEvent.end && event.end)
+                        {
+                            cachedEvent.end = event.end;
+                            cache = cache.filter(e => e.id != event.eventID);
+                            cache.push(cachedEvent)
                         }
                     }
 
