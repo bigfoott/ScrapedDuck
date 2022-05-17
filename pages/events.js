@@ -28,9 +28,9 @@ async function get()
                         if (event.isLocalTime)
                         {
                             if (event.start)
-                                event.start = event.start.substr(0, event.start.length - 1) + "-9:00";
+                                event.start = event.start.substr(0, event.start.length - 1);
                             if (event.end)
-                                event.end = event.end.substr(0, event.end.length - 1) + "+14:00"
+                                event.end = event.end.substr(0, event.end.length - 1)
                         }
 
                         events.push(event);
@@ -113,7 +113,7 @@ function getData(offset)
                         {
                             if (revealCountdown == null || reveal <= Date.now())
                             {
-                                allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "start": startTime, "end": endTime, "isLocalTime": isLocalTime });
+                                allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "start": startTime, "end": endTime });
                             }
                         }
                     }
@@ -121,7 +121,7 @@ function getData(offset)
                     {
                         if (start > Date.now())
                         {
-                            allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "start": startTime, "end": endTime, "isLocalTime": isLocalTime });
+                            allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "start": startTime, "end": endTime });
                         }
                     }
                 });
