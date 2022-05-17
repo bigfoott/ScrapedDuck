@@ -2,11 +2,51 @@ const fs = require('fs');
 const moment = require('moment');
 const jsd = require('jsdom');
 const { JSDOM } = jsd;
+const tzd = require('timezoned-date');
 
-function get()
+async function get()
+{
+    var first = await getData(14);
+    var last = await getData(-9);
+
+    var events = [];
+
+    first.forEach(eventF =>
+    {
+        last.forEach(eventL =>
+        {
+            if (eventF.eventID == eventL.eventID)
+            {
+                var event = eventL;
+                event.end = eventF.end;
+
+                events.push(event);
+            }
+        });
+    });
+
+    fs.writeFile('files/events.json', JSON.stringify(events, null, 4), err => {
+        if (err) {
+            console.error(err);
+            return;
+        }
+    });
+    fs.writeFile('files/events.min.json', JSON.stringify(events), err => {
+        if (err) {
+            console.error(err);
+            return;
+        }
+    });
+}
+
+function getData(offset)
 {
     return new Promise(resolve => {
-        JSDOM.fromURL("https://www.leekduck.com/events/")
+        JSDOM.fromURL("https://www.leekduck.com/events/", {
+            beforeParse(window) {
+                window.Date = tzd.makeConstructor(offset * 60);
+            }
+        })
         .then((dom) => {
 
             var allEvents = [];
@@ -44,8 +84,8 @@ function get()
                     var countdownNode = e.querySelector(":scope > .event-item-wrapper > .event-item > .event-text-container > .event-countdown-container > .event-countdown");
                     var timeRaw = timeRaw = countdownNode.dataset.countdown;
                     var countdownTo = countdownNode.dataset.countdownTo;
-                    var isLocaleTime = ['start', 'end'].includes(countdownTo) ? !/^\d+$/.test(timeRaw) : null;
-                    var time = isLocaleTime ? moment(timeRaw, 'MM/DD/YYYY HH:mm:ss').toISOString() : moment.unix(parseInt(timeRaw) / 1000).toISOString();
+                    var isLocalTime = ['start', 'end'].includes(countdownTo) ? !/^\d+$/.test(timeRaw) : null;
+                    var time = isLocalTime ? moment(timeRaw, 'MM/DD/YYYY HH:mm:ss').toISOString() : moment.unix(parseInt(timeRaw) / 1000).toISOString();
                     var startTime = countdownTo === 'start' ? time : null;
                     var endTime = countdownTo === 'end' ? time : null;
 
@@ -58,7 +98,7 @@ function get()
                         {
                             if (revealCountdown == null || reveal <= Date.now())
                             {
-                                allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "state": category, "start": start, "end": end });
+                                allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "state": category, "start": startTime, "end": endTime, "isLocalTime": isLocalTime });
                             }
                         }
                     }
@@ -66,24 +106,13 @@ function get()
                     {
                         if (start > Date.now())
                         {
-                            allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "state": category, "start": start, "end": end });
+                            allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "state": category, "start": startTime, "end": endTime, "isLocalTime": isLocalTime });
                         }
                     }
                 });
             });
 
-            fs.writeFile('files/events.json', JSON.stringify(allEvents, null, 4), err => {
-                if (err) {
-                    console.error(err);
-                    return;
-                }
-            });
-            fs.writeFile('files/events.min.json', JSON.stringify(allEvents), err => {
-                if (err) {
-                    console.error(err);
-                    return;
-                }
-            });
+            return allEvents;
         });
     })
 }

@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "jsdom": "latest",
-    "moment": "latest"
+    "moment": "latest",
+    "timezoned-date": "latest"
   }
 }
