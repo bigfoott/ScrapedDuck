@@ -15,12 +15,14 @@ async function get()
 
     var events = [], first = [], last = [], activeEvents = [];
 
-    //exec('sudo timedatectl set-timezone Pacific/Kiritimati');
+    var UTCplus14 = tzd.makeConstructor(840).toISOString().substr(0, 19).replace('T', ' ');
+    exec('sudo timedatectl set-time ' + UTCplus14);
     exec('date');
     getData().then((allEvents) => {
         first = allEvents;
 
-        //exec('sudo timedatectl set-timezone Pacific/Gambier');
+        var UTCplus14 = tzd.makeConstructor(-540).toISOString().substr(0, 19).replace('T', ' ');
+        exec('sudo timedatectl set-time ' + UTCplus14);
         exec('date');
         getData().then((allEvents2) => {
             last = allEvents2;
