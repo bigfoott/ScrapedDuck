@@ -6,36 +6,51 @@ const tzd = require('timezoned-date');
 
 async function get()
 {
-    var first = await getData(14);
-    var last = await getData(-9);
+    var first = [], last = [];
 
-    var events = [];
+    getData(14).then((allEvents) => {
+        first = allEvents;
 
-    first.forEach(eventF =>
-    {
-        last.forEach(eventL =>
-        {
-            if (eventF.eventID == eventL.eventID)
+        getData(-9).then((allEvents2) => {
+            last = allEvents2;
+
+            var events = [];
+
+            first.forEach(eventF =>
             {
-                var event = eventL;
-                event.end = eventF.end;
+                last.forEach(eventL =>
+                {
+                    if (eventF.eventID == eventL.eventID)
+                    {
+                        var event = eventL;
+                        event.end = eventF.end;
 
-                events.push(event);
-            }
+                        if (event.isLocalTime)
+                        {
+                            if (event.start)
+                                event.start = event.start.substr(0, event.start.length - 1) + "-9:00";
+                            if (event.end)
+                                event.end = event.end.substr(0, event.end.length - 1) + "+14:00"
+                        }
+
+                        events.push(event);
+                    }
+                });
+            });
+
+            fs.writeFile('files/events.json', JSON.stringify(events, null, 4), err => {
+                if (err) {
+                    console.error(err);
+                    return;
+                }
+            });
+            fs.writeFile('files/events.min.json', JSON.stringify(events), err => {
+                if (err) {
+                    console.error(err);
+                    return;
+                }
+            });
         });
-    });
-
-    fs.writeFile('files/events.json', JSON.stringify(events, null, 4), err => {
-        if (err) {
-            console.error(err);
-            return;
-        }
-    });
-    fs.writeFile('files/events.min.json', JSON.stringify(events), err => {
-        if (err) {
-            console.error(err);
-            return;
-        }
     });
 }
 
@@ -98,7 +113,7 @@ function getData(offset)
                         {
                             if (revealCountdown == null || reveal <= Date.now())
                             {
-                                allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "state": category, "start": startTime, "end": endTime, "isLocalTime": isLocalTime });
+                                allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "start": startTime, "end": endTime, "isLocalTime": isLocalTime });
                             }
                         }
                     }
@@ -106,13 +121,13 @@ function getData(offset)
                     {
                         if (start > Date.now())
                         {
-                            allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "state": category, "start": startTime, "end": endTime, "isLocalTime": isLocalTime });
+                            allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "start": startTime, "end": endTime, "isLocalTime": isLocalTime });
                         }
                     }
                 });
             });
 
-            return allEvents;
+            resolve(allEvents);
         });
     })
 }
