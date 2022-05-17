@@ -15,12 +15,12 @@ async function get()
 
     var events = [], first = [], last = [], activeEvents = [];
 
-    exec('sudo timedatectl set-timezone Pacific/Kiritimati');
+    //exec('sudo timedatectl set-timezone Pacific/Kiritimati');
     exec('date');
     getData().then((allEvents) => {
         first = allEvents;
 
-        exec('sudo timedatectl set-timezone Pacific/Gambier');
+        //exec('sudo timedatectl set-timezone Pacific/Gambier');
         exec('date');
         getData().then((allEvents2) => {
             last = allEvents2;
