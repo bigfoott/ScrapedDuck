@@ -2,199 +2,8 @@ const fs = require('fs');
 const moment = require('moment');
 const jsd = require('jsdom');
 const { JSDOM } = jsd;
-const tzd = require('timezoned-date');
-const https = require('https');
-const { resolve } = require('path');
-const { exec } = require('child_process');
 
-async function get()
-{
-    var cache = await loadCache();
-
-    console.log("CACHE SIZE: " + cache.length);
-
-    var events = [], first = [], last = [], activeEvents = [];
-
-    var UTCplus14 = tzd.makeConstructor(840);
-    exec('sudo timedatectl set-time ' + (new UTCplus14().toISOString().substr(0, 19).replace('T', ' ')));
-    exec('date');
-    getData().then((allEvents) => {
-        first = allEvents;
-
-        var UTCmin9 = tzd.makeConstructor(-540);
-        exec('sudo timedatectl set-time ' + (new UTCmin9().toISOString().substr(0, 19).replace('T', ' ')));
-        exec('date');
-        getData().then((allEvents2) => {
-            last = allEvents2;
-
-            last.forEach(eventL =>
-            {
-                var hasFirst = false;
-                first.forEach(eventF =>
-                {
-                    if (!hasFirst && eventF.eventID == eventL.eventID)
-                    {
-                        var event = eventF;
-                        activeEvents.push(event.eventID);
-                        event.start = eventL.start;
-
-                        if (event.isLocalTime)
-                        {
-                            if (event.start)
-                            {
-                                event.start = event.start.substr(0, event.start.length - 1);
-                            }
-                            if (event.end)
-                            {
-                                event.end = event.end.substr(0, event.end.length - 1)
-                            }
-                        }
-
-                        if (cache.some(e => e.id == event.eventID))
-                        {
-                            var cachedEvent = cache.filter(e => e.id == event.eventID)[0];
-                            if (!cachedEvent.start && event.start)
-                            {
-                                cachedEvent.start = event.start;
-                                cache = cache.filter(e => e.id != event.eventID);
-                                cache.push(cachedEvent)
-                            }
-                            if (!cachedEvent.end && event.end)
-                            {
-                                cachedEvent.end = event.end;
-                                cache = cache.filter(e => e.id != event.eventID);
-                                cache.push(cachedEvent)
-                            }
-                        }
-
-                        if (!event.start)
-                        {
-                            if (cache.some(e => e.id == event.eventID))
-                                event.start = cache.filter(e => e.id == event.eventID)[0].start;
-                        }
-
-                        if (!cache.some(e => e.id == event.eventID))
-                        {
-                            cache.push({ "id": event.eventID, "start": event.start, "end": event.end });
-                        }
-
-                        delete event.isLocalTime;
-
-                        events.push(event);
-                        
-                        hasFirst = true;
-                    }
-                });
-                if (!hasFirst)
-                {
-                    var event = eventL;
-                    activeEvents.push(event.eventID);
-
-                    if (event.isLocalTime)
-                    {
-                        if (event.start)
-                        {
-                            event.start = event.start.substr(0, event.start.length - 1);
-                        }
-                        if (event.end)
-                        {
-                            event.end = event.end.substr(0, event.end.length - 1)
-                        }
-                    }
-
-                    if (cache.some(e => e.id == event.eventID))
-                    {
-                        var cachedEvent = cache.filter(e => e.id == event.eventID)[0];
-                        if (!cachedEvent.start && event.start)
-                        {
-                            cachedEvent.start = event.start;
-                            cache = cache.filter(e => e.id != event.eventID);
-                            cache.push(cachedEvent)
-                        }
-                        if (!cachedEvent.end && event.end)
-                        {
-                            cachedEvent.end = event.end;
-                            cache = cache.filter(e => e.id != event.eventID);
-                            cache.push(cachedEvent)
-                        }
-                    }
-
-                    if (!event.start)
-                    {
-                        if (cache.some(e => e.id == event.eventID))
-                            event.start = cache.filter(e => e.id == event.eventID)[0].start;
-                    }
-
-                    if (!cache.some(e => e.id == event.eventID))
-                    {
-                        cache.push({ "id": event.eventID, "start": event.start, "end": event.end });
-                    }
-
-                    delete event.isLocalTime;
-
-                    events.push(event);
-                }
-            });
-
-            cache = cache.filter(e => activeEvents.includes(e.id));
-
-            fs.writeFile('files/events.json', JSON.stringify(events, null, 4), err => {
-                if (err) {
-                    console.error(err);
-                    return;
-                }
-            });
-            fs.writeFile('files/events.min.json', JSON.stringify(events), err => {
-                if (err) {
-                    console.error(err);
-                    return;
-                }
-            });
-
-            fs.writeFile('files/cache/eventsCache.json', JSON.stringify(cache), err => {
-                if (err) {
-                    console.error(err);
-                    return;
-                }
-            });
-            fs.writeFile('files/cache/README.md', "# The file(s) in this directory are for internal use. Use the files in the root directory instead :)", err => {
-                if (err) {
-                    console.error(err);
-                    return;
-                }
-            });
-        });
-    });
-}
-
-function loadCache()
-{
-    return new Promise(resolve => {
-        https.get('https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/cache/eventsCache.json', res =>
-        {
-            let data = [];
-
-            res.on('data', chunk => {
-                data.push(chunk);
-            });
-
-            res.on('end', () => {
-                try {
-                    var parse = JSON.parse(Buffer.concat(data).toString());
-                    resolve(parse);
-                }
-                catch (e) {
-                    resolve([]);
-                }
-            });
-        }).on('error', err => {
-            console.log('Error: ', err.message);
-            resolve([]);
-        });
-    });
-}
-
-function getData(offset)
+function get()
 {
     return new Promise(resolve => {
         JSDOM.fromURL("https://www.leekduck.com/events/", {
@@ -241,47 +50,54 @@ function getData(offset)
                     var startTime = countdownTo === 'start' ? time : null;
                     var endTime = countdownTo === 'end' ? time : null;
 
-                    
-                    var start = Date.parse(startTime);
-                    var end = Date.parse(endTime);
-
-                    if (category == "current")
+                    if (isLocalTime)
                     {
-                        if ((startTime == null || start < Date.now()) && end > Date.now())
-                        {
-                            if (revealCountdown == null || reveal <= Date.now())
-                            {
-                                if (eventID == "pokemonspotlighthour2022-05-17")
-                                {
-                                    console.log("current ---")
-                                    console.log(start)
-                                    console.log(end);
-                                }
-
-                                allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "start": startTime, "end": endTime, "isLocalTime": isLocalTime });
-                            }
-                        }
+                        if (startTime) startTime = startTime.substr(0, startTime.length - 1);
+                        if (endTime) endTime = endTime.substr(0, endTime.length - 1);
                     }
-                    else if (category == "upcoming")
-                    {
-                        if (start > Date.now())
-                        {
-                            if (eventID == "pokemonspotlighthour2022-05-17")
-                            {
-                                console.log("upcoming ---")
-                                console.log(start)
-                                console.log(end);
 
-                                console.log((tzd.makeConstructor(offset * 60))())
-                            }
-
-                            allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "start": startTime, "end": endTime, "isLocalTime": isLocalTime });
-                        }
-                    }
+                    allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "start": startTime, "end": endTime });
                 });
             });
 
-            resolve(allEvents);
+            for (var i = 0; i < allEvents.length; i++)
+            {
+                console.log(i);
+                var event = allEvents[i];
+                if (allEvents.filter(e => e.eventID == event.eventID).length > 1)
+                {
+                    var allWithID = allEvents.filter(_e => _e.eventID == event.eventID);
+
+                    if (allWithID[0].start)
+                    {
+                        event.start = allWithID[0].start;
+                        event.end = allWithID[1].end;
+                    }
+                    else
+                    {
+                        event.start = allWithID[1].start;
+                        event.end = allWithID[0].end;
+                    }
+
+                    allEvents = allEvents.filter(e => e.eventID != event.eventID);
+                    allEvents.splice(i, 0, event);
+
+                    i--;
+                }
+            }
+
+            fs.writeFile('files/events.json', JSON.stringify(allEvents, null, 4), err => {
+                if (err) {
+                    console.error(err);
+                    return;
+                }
+            });
+            fs.writeFile('files/events.min.json', JSON.stringify(allEvents), err => {
+                if (err) {
+                    console.error(err);
+                    return;
+                }
+            });
         });
     })
 }
