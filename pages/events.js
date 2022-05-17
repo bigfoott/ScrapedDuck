@@ -43,6 +43,23 @@ async function get()
                             }
                         }
 
+                        if (cache.some(e => e.id == event.eventID))
+                        {
+                            var cachedEvent = cache.filter(e => e.id == event.eventID)[0];
+                            if (!cachedEvent.start && event.start)
+                            {
+                                cachedEvent.start = event.start;
+                                cache = cache.filter(e => e.id != event.eventID);
+                                cache.push(cachedEvent)
+                            }
+                            if (!cachedEvent.end && event.end)
+                            {
+                                cachedEvent.end = event.end;
+                                cache = cache.filter(e => e.id != event.eventID);
+                                cache.push(cachedEvent)
+                            }
+                        }
+
                         if (!event.start)
                         {
                             if (cache.some(e => e.id == event.eventID))
