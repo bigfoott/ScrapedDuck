@@ -62,7 +62,6 @@ function get()
 
             for (var i = 0; i < allEvents.length; i++)
             {
-                console.log(i);
                 var event = allEvents[i];
                 if (allEvents.filter(e => e.eventID == event.eventID).length > 1)
                 {
