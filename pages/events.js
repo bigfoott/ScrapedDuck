@@ -15,14 +15,14 @@ async function get()
 
     var events = [], first = [], last = [], activeEvents = [];
 
-    var UTCplus14 = tzd.makeConstructor(840).toISOString().substr(0, 19).replace('T', ' ');
-    exec('sudo timedatectl set-time ' + UTCplus14);
+    var UTCplus14 = tzd.makeConstructor(840);
+    exec('sudo timedatectl set-time ' + (new UTCplus14().toISOString().substr(0, 19).replace('T', ' ')));
     exec('date');
     getData().then((allEvents) => {
         first = allEvents;
 
-        var UTCplus14 = tzd.makeConstructor(-540).toISOString().substr(0, 19).replace('T', ' ');
-        exec('sudo timedatectl set-time ' + UTCplus14);
+        var UTCmin9 = tzd.makeConstructor(-540);
+        exec('sudo timedatectl set-time ' + (new UTCmin9().toISOString().substr(0, 19).replace('T', ' ')));
         exec('date');
         getData().then((allEvents2) => {
             last = allEvents2;
