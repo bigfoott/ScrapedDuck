@@ -12,7 +12,8 @@ ScrapedDuck routinely scrapes [LeekDuck.com](https://leekduck.com) and pushes th
 
 ### Raids
 
-`// TODO`
+- Formatted: [/data/raids.json](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/raids.json)
+- Minimized: [/data/raids.min.json](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/raids.min.json)
 
 
 ### Research
