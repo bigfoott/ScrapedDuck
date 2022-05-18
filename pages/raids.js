@@ -29,15 +29,17 @@ function get()
                         canBeShiny: false,
                         types: [],
                         combatPower: {
-                            normalMin: -1,
-                            normalMax: -1,
-                            boostMin: -1,
-                            boostMax: -1
+                            normal: {
+                                min: -1,
+                                max: -1
+                            },
+                            boosted: {
+                                min: -1,
+                                max: -1
+                            }
                         },
-                        boostWeather: [],
-                        image: "",
-                        typesAssets: [],
-                        boostWeatherAssets: []
+                        boostedWeather: [],
+                        image: ""
                     }
 
                     boss.name = e.getElementsByClassName("boss-1")[0].getElementsByClassName("boss-name")[0].textContent;
@@ -58,27 +60,25 @@ function get()
                     {
                         if (img && img.className && img.className.startsWith("type"))
                         {
-                            boss.types.push(img.getAttribute("title").toLowerCase());
-                            boss.typesAssets.push(img.src);
+                            boss.types.push({ name: img.getAttribute("title").toLowerCase(), image: img.src });
                         }
                     });
 
                     var tempPower = e.getElementsByClassName("boss-2")[0].textContent.trim().substring(3);
-                    boss.combatPower.normalMin = parseInt(tempPower.split(" - ")[0]);
-                    boss.combatPower.normalMax = parseInt(tempPower.split(" - ")[1]);
+                    boss.combatPower.normal.min = parseInt(tempPower.split(" - ")[0]);
+                    boss.combatPower.normal.max = parseInt(tempPower.split(" - ")[1]);
 
                     var tempBoost = e.getElementsByClassName("boss-3")[0];
                     tempBoost.getElementsByClassName("boss-weather")[0].childNodes.forEach(img =>
                     {
                         if (img && img.className && img.className.startsWith("weather"))
                         {
-                            boss.boostWeather.push(img.getAttribute("title").toLowerCase());
-                            boss.boostWeatherAssets.push(img.src);
+                            boss.boostedWeather.push({ name: img.getAttribute("title").toLowerCase(), image: img.src });
                         }
                     });
                     var tempBoostPower = tempBoost.getElementsByClassName("boosted-cp")[0].textContent.trim().substring(3);
-                    boss.combatPower.boostedMin = parseInt(tempBoostPower.split(" - ")[0]);
-                    boss.combatPower.boostedMax = parseInt(tempBoostPower.split(" - ")[1]);
+                    boss.combatPower.boosted.min = parseInt(tempBoostPower.split(" - ")[0]);
+                    boss.combatPower.boosted.max = parseInt(tempBoostPower.split(" - ")[1]);
 
                     bosses.push(boss);
                 }
