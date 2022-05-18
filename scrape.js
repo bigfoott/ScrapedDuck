@@ -4,17 +4,17 @@ const raids = require('./pages/raids')
 // const research = require('./pages/research')
 // const eggs = require('./pages/eggs')
 
-async function main()
+function main()
 {
     if (!fs.existsSync('files'))
     {
         fs.mkdirSync('files');
     }
 
-    await events.get();
-    await raids.get();
-    // await research.get();
-    // await eggs.get();
+    events.get();
+    raids.get();
+    // research.get();
+    // eggs.get();
 }
 
 main();
