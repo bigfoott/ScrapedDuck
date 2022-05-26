@@ -2,7 +2,7 @@ const fs = require('fs');
 const events = require('./pages/events')
 const raids = require('./pages/raids')
 const research = require('./pages/research')
-// const eggs = require('./pages/eggs')
+const eggs = require('./pages/eggs')
 
 function main()
 {
@@ -14,7 +14,7 @@ function main()
     events.get();
     raids.get();
     research.get();
-    // eggs.get();
+    eggs.get();
 }
 
 main();

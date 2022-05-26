@@ -24,4 +24,5 @@ ScrapedDuck routinely scrapes [LeekDuck.com](https://leekduck.com) and pushes th
 
 ### Eggs
 
-`// TODO`
+- Formatted: [/data/eggs.json](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/eggs.json)
+- Minimized: [/data/eggs.min.json](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/eggs.min.json)

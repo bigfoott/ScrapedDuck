@@ -10,7 +10,7 @@ function get()
         })
         .then((dom) => {
 
-            var list = dom.window.document.querySelectorAll(`.task-item`);
+            var list = dom.window.document.querySelectorAll('.task-item');
 
             var research = [] 
             
