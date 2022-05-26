@@ -2,6 +2,7 @@ const fs = require('fs');
 const moment = require('moment');
 const jsd = require('jsdom');
 const { JSDOM } = jsd;
+const https = require('https');
 
 function get()
 {
@@ -95,6 +96,40 @@ function get()
                     console.error(err);
                     return;
                 }
+            });
+        }).catch(_err =>
+        {
+            https.get("https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.min.json", (res) =>
+            {
+                let body = "";
+                res.on("data", (chunk) => { body += chunk; });
+            
+                res.on("end", () => {
+                    try
+                    {
+                        let json = JSON.parse(body);
+
+                        fs.writeFile('files/events.json', JSON.stringify(json, null, 4), err => {
+                            if (err) {
+                                console.error(err);
+                                return;
+                            }
+                        });
+                        fs.writeFile('files/events.min.json', JSON.stringify(json), err => {
+                            if (err) {
+                                console.error(err);
+                                return;
+                            }
+                        });
+                    }
+                    catch (error)
+                    {
+                        console.error(error.message);
+                    };
+                });
+            
+            }).on("error", (error) => {
+                console.error(error.message);
             });
         });
     })

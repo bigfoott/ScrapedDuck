@@ -1,6 +1,7 @@
 const fs = require('fs');
 const jsd = require('jsdom');
 const { JSDOM } = jsd;
+const https = require('https');
 
 function get()
 {
@@ -96,7 +97,41 @@ function get()
                     return;
                 }
             });
-        });
+        }).catch(_err =>
+            {
+                https.get("https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/raids.min.json", (res) =>
+                {
+                    let body = "";
+                    res.on("data", (chunk) => { body += chunk; });
+                
+                    res.on("end", () => {
+                        try
+                        {
+                            let json = JSON.parse(body);
+    
+                            fs.writeFile('files/raids.json', JSON.stringify(json, null, 4), err => {
+                                if (err) {
+                                    console.error(err);
+                                    return;
+                                }
+                            });
+                            fs.writeFile('files/raids.min.json', JSON.stringify(json), err => {
+                                if (err) {
+                                    console.error(err);
+                                    return;
+                                }
+                            });
+                        }
+                        catch (error)
+                        {
+                            console.error(error.message);
+                        };
+                    });
+                
+                }).on("error", (error) => {
+                    console.error(error.message);
+                });
+            });
     })
 }
 
