@@ -68,6 +68,7 @@ function get()
             });
         }).catch(_err =>
             {
+                console.log(_err);
                 https.get("https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/eggs.min.json", (res) =>
                 {
                     let body = "";
