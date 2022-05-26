@@ -25,7 +25,6 @@ function get()
                     var eventID = link.substring(32, link.length - 1)
                     
                     var eventItemWrapper = e.querySelector(":scope > .event-item-wrapper");
-                    eventItemWrapper.classList
                     var eventType = (eventItemWrapper.classList + "").replace("event-item-wrapper ", "");
                     eventType = eventType.replace("é", "e");
 
@@ -56,7 +55,7 @@ function get()
                         if (endTime) endTime = endTime.substr(0, endTime.length - 1);
                     }
 
-                    allEvents.push({ "heading": heading, "name": name, "eventType": eventType, "eventID": eventID, "link": link, "image": image, "start": startTime, "end": endTime });
+                    allEvents.push({ "eventID": eventID, "name": name, "eventType": eventType, "heading": heading, "link": link, "image": image, "start": startTime, "end": endTime });
                 });
             });
 
