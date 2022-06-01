@@ -13,15 +13,21 @@ ScrapedDuck routinely scrapes [LeekDuck.com](https://leekduck.com) and pushes th
 
 ### Raids
 
+[**Documentation**](/docs/RAIDS.md)
+
 - Formatted: [`GET /data/raids.json`](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/raids.json)
 - Minimized: [`GET /data/raids.min.json`](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/raids.min.json)
 
 ### Research
 
+[**Documentation**](/docs/RESEARCH.md)
+
 - Formatted: [`GET /data/research.json`](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/research.json)
 - Minimized: [`GET /data/research.min.json`](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/research.min.json)
 
 ### Eggs
+
+[**Documentation**](/docs/EGGS.md)
 
 - Formatted: [`GET /data/eggs.json`](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/eggs.json)
 - Minimized: [`GET /data/eggs.min.json`](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/eggs.min.json)
