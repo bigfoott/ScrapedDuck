@@ -1,11 +1,9 @@
-# EVENTS
-
-## Endpoints
+# Endpoints
 
 - Formatted: [`GET /data/events.json`](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.json)
 - Minimized: [`GET /data/events.min.json`](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.min.json)
 
-## Event Object
+# Example Event Object
 
 ```
 {
@@ -19,10 +17,10 @@
     "end": "2022-09-01T10:00:00.000"
 }
 ```
-### Fields
+# Fields
 
 | Field           | Type     | Description
-|-----------------|--------- |---------------------
+|---------------- |--------- |---------------------
 | **`eventID`**   | `string` | The ID of the event. Also the last part of the event page's URL.
 | **`name`**      | `string` | The name of the event.
 | **`eventType`** | `string` | The type of the event.
@@ -32,7 +30,7 @@
 | **`start`**     | `string` | The start date of the event.*
 | **`end`**       | `string` | The end date of the event.*
 
-### Note for Start/End dates
+## Note for Start/End dates
 
 The `start` and `end` fields are DateTime objects encoded in [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601).
 
