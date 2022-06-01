@@ -6,23 +6,22 @@ ScrapedDuck routinely scrapes [LeekDuck.com](https://leekduck.com) and pushes th
 
 ### Events
 
-- Formatted: [/data/events.json](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.json)
-- Minimized: [/data/events.min.json](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.min.json)
+[**Documentation**](/docs/EVENTS.md)
 
+- Formatted: [`GET /data/events.json`](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.json)
+- Minimized: [`GET /data/events.min.json`](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.min.json)
 
 ### Raids
 
-- Formatted: [/data/raids.json](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/raids.json)
-- Minimized: [/data/raids.min.json](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/raids.min.json)
-
+- Formatted: [`GET /data/raids.json`](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/raids.json)
+- Minimized: [`GET /data/raids.min.json`](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/raids.min.json)
 
 ### Research
 
-- Formatted: [/data/research.json](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/research.json)
-- Minimized: [/data/research.min.json](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/research.min.json)
-
+- Formatted: [`GET /data/research.json`](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/research.json)
+- Minimized: [`GET /data/research.min.json`](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/research.min.json)
 
 ### Eggs
 
-- Formatted: [/data/eggs.json](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/eggs.json)
-- Minimized: [/data/eggs.min.json](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/eggs.min.json)
+- Formatted: [`GET /data/eggs.json`](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/eggs.json)
+- Minimized: [`GET /data/eggs.min.json`](https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/eggs.min.json)
