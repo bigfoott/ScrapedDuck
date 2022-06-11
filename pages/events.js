@@ -56,7 +56,7 @@ function get()
                         if (endTime) endTime = endTime.substr(0, endTime.length - 1);
                     }
 
-                    allEvents.push({ "eventID": eventID, "name": name, "eventType": eventType, "heading": heading, "link": link, "image": image, "start": startTime, "end": endTime });
+                    allEvents.push({ "eventID": eventID, "name": name, "eventType": eventType, "heading": heading, "link": link, "image": image, "start": startTime, "end": endTime, "extraData": null });
                 });
             });
 
