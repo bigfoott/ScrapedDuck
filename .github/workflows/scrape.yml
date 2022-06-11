@@ -20,8 +20,14 @@ jobs:
       - name: Install dependencies
         run: npm install
       
-      - name: Run script
+      - name: Run scrape.js
         run: npm run scrape
+      
+      - name: Run detailedscrape.js
+        run: npm run detailedscrape
+      
+      - name: Run combinedetails.js
+        run: npm run combinedetails
       
       - name: Delete repo files
         run: |
