@@ -14,7 +14,8 @@
     "link": "https://www.leekduck.com/events/legendaryraidhour20220601/",
     "image": "https://www.leekduck.com/assets/img/events/raidhour.jpg",
     "start": "2022-06-01T18:00:00.000",
-    "end": "2022-06-01T19:00:00.000"
+    "end": "2022-06-01T19:00:00.000",
+    "extraData": null
 }
 ```
 # Fields
@@ -29,6 +30,7 @@
 | **`image`**     | `string` | The header/thumbnail image for the event.
 | **`start`**     | `string` | The start date of the event (Can be null). See [Note for Start/End dates](#note-for-startend-dates)
 | **`end`**       | `string` | The end date of the event (Can be null). See [Note for Start/End dates](#note-for-startend-dates)
+| **`extraData`** | dynamic  | This is a spot for extra data that is unique to the event type. See [Extra Data](#extra-data)
 
 ## List of Event Types
 
@@ -58,3 +60,38 @@ Most events in Pokemon GO occur based around a user's local timezone. However, t
 If an event starts/ends at the same time globally, the `start` and `end` fields will have strings ending with "Z", signifying the DateTime is in UTC. Otherwise, the DateTime displayed is based on the user's local timezone.
 
 Depending on the use case, many parsers (ex: Javascript's `Date.parse()`) will handle this automatically.
+
+## Extra Data
+
+For some event types, it would be useful to have more information that what's provided in the title and heading of an event.
+
+As of now, the following event types have extra data:
+
+### Pokémon Spotlight Hours
+
+Example:
+
+```
+"extraData": {
+    "spotlight": {
+        "name": "Mantine",
+        "canBeShiny": true,
+        "image": "https://www.leekduck.com/assets/img/pokemon_icons/pokemon_icon_226_00.png",
+        "bonus": "2× Transfer Candy"
+    }
+}
+```
+
+### Research Breakthroughs
+
+Example:
+
+```
+"extraData": {
+    "breakthrough": {
+        "name": "Klink",
+        "canBeShiny": true,
+        "image": "https://www.leekduck.com/assets/img/pokemon_icons/pokemon_icon_599_00.png"
+    }
+}
+```
