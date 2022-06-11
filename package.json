@@ -4,7 +4,9 @@
   "description": "Scrape LeekDuck.com for relevant information about Pokemon GO",
   "main": "index.js",
   "scripts": {
-    "scrape": "node ./scrape.js"
+    "scrape": "node ./scrape.js",
+    "detailedscrape": "node ./detailscrape.js",
+    "combinedetails": "node ./combinedetails.js"
   },
   "author": "bigfoott",
   "license": "MIT",
