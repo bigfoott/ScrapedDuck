@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "scrape": "node ./scrape.js",
-    "detailedscrape": "node ./detailscrape.js",
+    "detailedscrape": "node ./detailedscrape.js",
     "combinedetails": "node ./combinedetails.js"
   },
   "author": "bigfoott",
