@@ -1,8 +1,7 @@
 name: Scrape LeekDuck
 
 on:
-  schedule:
-    - cron: '*/10 * * * *'
+  workflow_dispatch
 
 jobs:
   build:
@@ -13,6 +12,11 @@ jobs:
         with:
             persist-credentials: false
             fetch-depth: 0
+          
+      - name: Pull
+        run: |
+          git pull
+      
       - uses: actions/setup-node@v3
         with:
           node-version: 14
