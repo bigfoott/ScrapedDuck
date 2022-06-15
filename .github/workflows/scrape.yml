@@ -44,4 +44,10 @@ jobs:
           git switch --orphan data
           git add --all
           git commit -m 'Pushed data'
-          git push -f origin data
+
+      - name: Push changes
+        uses: ad-m/github-push-action@v0.6.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: data
+          force: true
