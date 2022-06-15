@@ -43,5 +43,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git switch --orphan data
           git add --all
-          git commit -m 'Pushed data
-          git push -u origin data'
+          git commit -m 'Pushed data'
+          git push -u origin data
