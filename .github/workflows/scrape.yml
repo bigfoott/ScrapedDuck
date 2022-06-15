@@ -44,4 +44,4 @@ jobs:
           git switch --orphan data
           git add --all
           git commit -m 'Pushed data'
-          git push -u origin data
+          git push -f origin data
