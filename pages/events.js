@@ -22,6 +22,10 @@ function get()
                     var heading = e.querySelector(":scope > .event-item-wrapper > p").innerHTML;
                     var name = e.querySelector(":scope > .event-item-wrapper > .event-item > .event-text-container > .event-text > h2").innerHTML;
                     var image = e.querySelector(":scope > .event-item-wrapper > .event-item > .event-img-wrapper > img").src;
+                    if (image.includes("cdn-cgi"))
+                    {
+                        image = "https://www.leekduck.com/assets/" + image.split("/assets/")[1];
+                    }
                     var link = e.href;
                     var eventID = link.substring(32, link.length - 1)
                     
