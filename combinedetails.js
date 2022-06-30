@@ -25,6 +25,10 @@ function main()
                     {
                         e.extraData = { spotlight: data.data }
                     }
+                    else if (data.type == "community-day")
+                    {
+                        e.extraData = { communityday: data.data }
+                    }
                 }
             });
         });

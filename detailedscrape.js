@@ -3,9 +3,13 @@ const https = require('https');
 
 const breakthrough = require('./pages/detailed/breakthrough')
 const spotlight = require('./pages/detailed/spotlight')
+const communityday = require('./pages/detailed/communityday')
 
 function main()
 {
+    if (!fs.existsSync('files/temp'))
+        fs.mkdirSync('files/temp');
+
     var events = JSON.parse(fs.readFileSync("./files/events.min.json"));
 
     https.get("https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.min.json", (res) =>
@@ -26,6 +30,10 @@ function main()
                     else if (e.eventType == "pokemon-spotlight-hour")
                     {
                         spotlight.get(e.link, e.eventID, bkp);
+                    }
+                    else if (e.eventType == "community-day")
+                    {
+                        communityday.get(e.link, e.eventID, bkp);
                     }
                 });
             }

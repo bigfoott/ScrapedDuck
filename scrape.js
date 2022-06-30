@@ -7,10 +7,7 @@ const eggs = require('./pages/eggs')
 function main()
 {
     if (!fs.existsSync('files'))
-    {
         fs.mkdirSync('files');
-        fs.mkdirSync('files/temp');
-    }
 
     events.get();
     raids.get();
