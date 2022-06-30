@@ -6,29 +6,30 @@ on:
 
 jobs:
   build:
-    name: Build
+    name: Main Job
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
         with:
             persist-credentials: false
             fetch-depth: 0
+
       - uses: actions/setup-node@v3
         with:
           node-version: 14
 
       - name: Install dependencies
         run: npm install
-      
+
       - name: Run scrape.js
         run: npm run scrape
-      
+
       - name: Run detailedscrape.js
         run: npm run detailedscrape
-      
+
       - name: Run combinedetails.js
         run: npm run combinedetails
-      
+
       - name: Delete repo files
         run: |
           mv files ..
@@ -37,17 +38,17 @@ jobs:
           rm -rf *
           cp -a ../files/. .
           rm -r ../files
-        
+  
       - name: Commit
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git checkout --orphan data
+          git switch --orphan data
           git add --all
-          git commit -m 'Pushed data'
-      
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+          git commit -m 'Data updated'
+
+      - name: Push
+        uses: ad-m/github-push-action@v0.6.0
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: data
