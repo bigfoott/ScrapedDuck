@@ -95,3 +95,77 @@ Example:
     }
 }
 ```
+
+### Community Days
+
+Example:
+
+```
+"extraData": {
+    "communityday": {
+        "spawns": [
+            {
+                "name": "Deino",
+                "image": "https://www.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png"
+            }
+        ],
+        "bonuses": [
+            {
+                "text": "Increased Spawns",
+                "image": "https://www.leekduck.com/assets/img/events/bonuses/wildgrass.png"
+            },
+            {
+                "text": "1/4 Egg Hatch Distance",
+                "image": "https://www.leekduck.com/assets/img/events/bonuses/eggdistance.png"
+            },
+            ...
+        ],
+        "shinies": [
+            {
+                "name": "Deino",
+                "image": "https://www.leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00_shiny.png"
+            },
+            {
+                "name": "Zweilous",
+                "image": "https://www.leekduck.com/assets/img/pokemon_icons/pokemon_icon_634_00_shiny.png"
+            },
+            ...
+        ],
+        "specialresearch": [
+            {
+                "name": "Field Notes: Deino (1/4)",
+                "step": 1,
+                "tasks": [
+                    {
+                        "text": "Earn 3 hearts with your buddy",
+                        "reward": {
+                            "text": "Poké Ball <span>×15</span>",
+                            "image": "https://www.leekduck.com/assets/img/items/Pok%C3%A9%20Ball.png"
+                        }
+                    },
+                    {
+                        "text": "Catch 3 Deino",
+                        "reward": {
+                            "text": "Hyper Potion <span>×3</span>",
+                            "image": "https://www.leekduck.com/assets/img/items/Hyper%20Potion.png"
+                        }
+                    },
+                    ...
+                ],
+                "rewards": [
+                    {
+                        "text": "×2000",
+                        "image": "https://www.leekduck.com/assets/img/items/Stardust.png"
+                    },
+                    {
+                        "text": "Deino",
+                        "image": "https://www.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_633_00.png"
+                    },
+                    ...
+                ]
+            },
+            ...
+        ]
+    }
+}
+```
