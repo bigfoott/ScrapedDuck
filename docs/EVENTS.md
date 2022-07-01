@@ -5,7 +5,7 @@
 
 # Example Event Object
 
-```
+```json
 {
     "eventID": "legendaryraidhour20220601",
     "name": "Kyogre Raid Hour",
@@ -71,7 +71,7 @@ As of now, the following event types have extra data:
 
 Example:
 
-```
+```json
 "extraData": {
     "spotlight": {
         "name": "Mantine",
@@ -86,7 +86,7 @@ Example:
 
 Example:
 
-```
+```json
 "extraData": {
     "breakthrough": {
         "name": "Klink",
@@ -100,7 +100,7 @@ Example:
 
 Example:
 
-```
+```json
 "extraData": {
     "communityday": {
         "spawns": [

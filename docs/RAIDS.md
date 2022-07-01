@@ -5,7 +5,7 @@
 
 # Example Raid Object
 
-```
+```json
 {
     "name": "Alolan Marowak",
     "tier": "Tier 3",
@@ -61,7 +61,7 @@
 
 ### Example Object
 
-```
+```json
 {
     "name": "fire",
     "image": "https://www.leekduck.com/assets/img/types/fire.png"
@@ -79,7 +79,7 @@
 
 ### Example Object
 
-```
+```json
 {
     "normal": {
         "min": 988,
@@ -105,7 +105,7 @@
 
 ### Example Object
 
-```
+```json
 {
     "name": "foggy",
     "image": "https://www.leekduck.com/assets/img/weather/foggy.png"

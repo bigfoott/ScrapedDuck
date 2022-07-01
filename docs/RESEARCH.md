@@ -5,7 +5,7 @@
 
 # Example Research Object
 
-```
+```json
 {
     "text": "Catch 5 Pokémon",
     "type": "catch",
@@ -54,7 +54,7 @@
 
 ### Example Object
 
-```
+```json
 {
     "name": "Misdreavus",
     "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_200_00.png",

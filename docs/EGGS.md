@@ -5,7 +5,7 @@
 
 # Example Egg Object
 
-```
+```json
 {
     "name": "Wailmer",
     "eggType": "2 km",
