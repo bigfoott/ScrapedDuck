@@ -1,6 +1,8 @@
 # ScrapedDuck
 
-ScrapedDuck routinely scrapes [LeekDuck.com](https://leekduck.com) (with permission) and pushes the found data to [a branch](https://github.com/bigfoott/ScrapedDuck/tree/data) on this repository, for use by other external applications.
+ScrapedDuck routinely scrapes [LeekDuck.com](https://leekduck.com) (with permission) and pushes the found data to [a branch](https://github.com/bigfoott/ScrapedDuck/tree/data) on this repository for use by other external applications.
+
+To follow development progress for this tool, check out [the Trello board for PoGOEvents/ScrapedDuck](https://trello.com/b/32UjZbdu/pogoevents-scrapedduck).
 
 ## For Developers
 
