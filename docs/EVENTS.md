@@ -96,6 +96,28 @@ Example:
 }
 ```
 
+### Raid Battles
+
+Example:
+
+```json
+"raidbattles": {
+    "bosses": [
+        {
+            "name": "Mega Charizard Y",
+            "image": "https://www.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_52.png",
+            "canBeShiny": true
+        }
+    ],
+    "shinies": [
+        {
+            "name": "Charizard",
+            "image": "https://www.leekduck.com/assets/img/pokemon_icons/pokemon_icon_006_00_shiny.png"
+        }
+    ]
+}
+```
+
 ### Community Days
 
 Example:

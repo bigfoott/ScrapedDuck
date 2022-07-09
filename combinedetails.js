@@ -7,7 +7,7 @@ function main()
     fs.readdir("files/temp", function (err, files) {
         if (err) {
             return console.log('Unable to scan directory: ' + err);
-        } 
+        }
 
         files.forEach(f =>
         {
@@ -28,6 +28,10 @@ function main()
                     else if (data.type == "community-day")
                     {
                         e.extraData = { communityday: data.data }
+                    }
+                    else if (data.type == "raid-battles")
+                    {
+                        e.extraData = { raidbattles: data.data }
                     }
                 }
             });

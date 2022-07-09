@@ -4,6 +4,7 @@ const https = require('https');
 const breakthrough = require('./pages/detailed/breakthrough')
 const spotlight = require('./pages/detailed/spotlight')
 const communityday = require('./pages/detailed/communityday')
+const raidbattles = require('./pages/detailed/raidbattles')
 
 function main()
 {
@@ -34,6 +35,10 @@ function main()
                     else if (e.eventType == "community-day")
                     {
                         communityday.get(e.link, e.eventID, bkp);
+                    }
+                    else if (e.eventType == "raid-battles")
+                    {
+                        raidbattles.get(e.link, e.eventID, bkp);
                     }
                 });
             }
