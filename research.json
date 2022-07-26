@@ -1,0 +1,677 @@
+[
+    {
+        "text": "Catch 5 Pokémon",
+        "type": "catch",
+        "rewards": [
+            {
+                "name": "Zubat",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_041_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 258,
+                    "max": 285
+                }
+            },
+            {
+                "name": "Wingull",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_278_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 298,
+                    "max": 328
+                }
+            },
+            {
+                "name": "Natu",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_177_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 437,
+                    "max": 472
+                }
+            }
+        ]
+    },
+    {
+        "text": "Catch 7 Pokémon",
+        "type": "catch",
+        "rewards": [
+            {
+                "name": "Magikarp",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_129_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 99,
+                    "max": 117
+                }
+            }
+        ]
+    },
+    {
+        "text": "Catch 5 Normal-type Pokémon",
+        "type": "catch",
+        "rewards": [
+            {
+                "name": "Meowth",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_052_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 292,
+                    "max": 320
+                }
+            }
+        ]
+    },
+    {
+        "text": "Catch a Dragon-type Pokémon",
+        "type": "catch",
+        "rewards": [
+            {
+                "name": "Dratini",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_147_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 397,
+                    "max": 430
+                }
+            },
+            {
+                "name": "Bagon",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_371_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 459,
+                    "max": 495
+                }
+            }
+        ]
+    },
+    {
+        "text": "Catch 5 Pokémon with Weather Boost",
+        "type": "catch",
+        "rewards": [
+            {
+                "name": "Vulpix",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_037_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 347,
+                    "max": 378
+                }
+            },
+            {
+                "name": "Poliwag",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_060_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 324,
+                    "max": 355
+                }
+            },
+            {
+                "name": "Hippopotas",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_449_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 542,
+                    "max": 582
+                }
+            },
+            {
+                "name": "Snover",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_459_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 460,
+                    "max": 497
+                }
+            }
+        ]
+    },
+    {
+        "text": "Use 5 Razz Berries to help catch Pokémon",
+        "type": "berry",
+        "rewards": [
+            {
+                "name": "Yanma",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_193_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 588,
+                    "max": 630
+                }
+            },
+            {
+                "name": "Murkrow",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_198_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 626,
+                    "max": 669
+                }
+            },
+            {
+                "name": "Stunky",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_434_00.png",
+                "canBeShiny": false,
+                "combatPower": {
+                    "min": 457,
+                    "max": 493
+                }
+            }
+        ]
+    },
+    {
+        "text": "Make 5 Nice Throws",
+        "type": "throw",
+        "rewards": [
+            {
+                "name": "Dunsparce",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_206_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 679,
+                    "max": 724
+                }
+            }
+        ]
+    },
+    {
+        "text": "Make 5 Nice Curveball Throws in a row",
+        "type": "throw",
+        "rewards": [
+            {
+                "name": "Persian",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_053_00.png",
+                "canBeShiny": false,
+                "combatPower": {
+                    "min": 680,
+                    "max": 724
+                }
+            }
+        ]
+    },
+    {
+        "text": "Make 3 Great Throws",
+        "type": "throw",
+        "rewards": [
+            {
+                "name": "Snubbull",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_209_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 492,
+                    "max": 530
+                }
+            },
+            {
+                "name": "Lileep",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_345_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 515,
+                    "max": 553
+                }
+            },
+            {
+                "name": "Anorith",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_347_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 613,
+                    "max": 655
+                }
+            }
+        ]
+    },
+    {
+        "text": "Make 3 Great Throws in a row",
+        "type": "throw",
+        "rewards": [
+            {
+                "name": "Onix",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_095_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 435,
+                    "max": 472
+                }
+            }
+        ]
+    },
+    {
+        "text": "Make 5 Great Curveball Throws in a row",
+        "type": "throw",
+        "rewards": [
+            {
+                "name": "Spinda",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_327_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 486,
+                    "max": 523
+                }
+            }
+        ]
+    },
+    {
+        "text": "Make 3 Excellent Throws in a row",
+        "type": "throw",
+        "rewards": [
+            {
+                "name": "Gible",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_443_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 441,
+                    "max": 477
+                }
+            }
+        ]
+    },
+    {
+        "text": "Win a raid",
+        "type": "raid",
+        "rewards": [
+            {
+                "name": "Togetic",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_176_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 688,
+                    "max": 732
+                }
+            }
+        ]
+    },
+    {
+        "text": "Win a level 3 or higher raid",
+        "type": "raid",
+        "rewards": [
+            {
+                "name": "Omanyte",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_138_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 620,
+                    "max": 662
+                }
+            },
+            {
+                "name": "Kabuto",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_140_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 548,
+                    "max": 587
+                }
+            }
+        ]
+    },
+    {
+        "text": "Win 5 Raids",
+        "type": "raid",
+        "rewards": [
+            {
+                "name": "Aerodactyl",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_142_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 1136,
+                    "max": 1193
+                }
+            }
+        ]
+    },
+    {
+        "text": "Battle in GO Battle League",
+        "type": "battle",
+        "rewards": [
+            {
+                "name": "Cottonee",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_546_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 271,
+                    "max": 300
+                }
+            }
+        ]
+    },
+    {
+        "text": "Battle a Team GO Rocket Grunt",
+        "type": "battle",
+        "rewards": [
+            {
+                "name": "Wailmer",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_320_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 584,
+                    "max": 629
+                }
+            }
+        ]
+    },
+    {
+        "text": "Hatch an Egg",
+        "type": "hatch",
+        "rewards": [
+            {
+                "name": "Chansey",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_113_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 490,
+                    "max": 537
+                }
+            },
+            {
+                "name": "Mantine",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_226_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 854,
+                    "max": 903
+                }
+            }
+        ]
+    },
+    {
+        "text": "Hatch 2 Eggs",
+        "type": "hatch",
+        "rewards": [
+            {
+                "name": "Beldum",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_374_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 385,
+                    "max": 418
+                }
+            }
+        ]
+    },
+    {
+        "text": "Evolve a Pokémon",
+        "type": "power",
+        "rewards": [
+            {
+                "name": "Eevee",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_133_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 424,
+                    "max": 459
+                }
+            }
+        ]
+    },
+    {
+        "text": "Power up Pokémon 3 times",
+        "type": "power",
+        "rewards": [
+            {
+                "name": "Bulbasaur",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_001_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 442,
+                    "max": 477
+                }
+            },
+            {
+                "name": "Charmander",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_004_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 387,
+                    "max": 420
+                }
+            },
+            {
+                "name": "Squirtle",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_007_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 372,
+                    "max": 405
+                }
+            }
+        ]
+    },
+    {
+        "text": "Power up Pokémon 5 times",
+        "type": "power",
+        "rewards": [
+            {
+                "name": "Chikorita",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_152_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 368,
+                    "max": 400
+                }
+            },
+            {
+                "name": "Cyndaquil",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_155_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 387,
+                    "max": 420
+                }
+            },
+            {
+                "name": "Totodile",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_158_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 449,
+                    "max": 485
+                }
+            }
+        ]
+    },
+    {
+        "text": "Power up Pokémon 7 times",
+        "type": "power",
+        "rewards": [
+            {
+                "name": "Treecko",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_252_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 417,
+                    "max": 451
+                }
+            },
+            {
+                "name": "Torchic",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_255_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 433,
+                    "max": 468
+                }
+            },
+            {
+                "name": "Mudkip",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_258_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 447,
+                    "max": 483
+                }
+            }
+        ]
+    },
+    {
+        "text": "Earn 3 hearts with your buddy",
+        "type": "buddy",
+        "rewards": [
+            {
+                "name": "Girafarig",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_203_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 829,
+                    "max": 877
+                }
+            }
+        ]
+    },
+    {
+        "text": "Take a snapshot with your buddy",
+        "type": "buddy",
+        "rewards": [
+            {
+                "name": "Aipom",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_190_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 539,
+                    "max": 578
+                }
+            }
+        ]
+    },
+    {
+        "text": "Earn 2 Candies walking with your buddy",
+        "type": "buddy",
+        "rewards": [
+            {
+                "name": "Bunnelby",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_659_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 212,
+                    "max": 237
+                }
+            }
+        ]
+    },
+    {
+        "text": "Earn 3 Candies walking with your buddy",
+        "type": "buddy",
+        "rewards": [
+            {
+                "name": "Stunfisk",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_618_00.png",
+                "canBeShiny": false,
+                "combatPower": {
+                    "min": 876,
+                    "max": 926
+                }
+            }
+        ]
+    },
+    {
+        "text": "Send 3 gifts and add a sticker to each",
+        "type": "misc",
+        "rewards": [
+            {
+                "name": "Hoothoot",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_163_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 262,
+                    "max": 290
+                }
+            }
+        ]
+    },
+    {
+        "text": "Trade a Pokémon",
+        "type": "misc",
+        "rewards": [
+            {
+                "name": "Abra",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_063_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 534,
+                    "max": 575
+                }
+            }
+        ]
+    },
+    {
+        "text": "Spin 3 PokéStops or Gyms",
+        "type": "misc",
+        "rewards": [
+            {
+                "name": "Sudowoodo",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_185_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 871,
+                    "max": 920
+                }
+            }
+        ]
+    },
+    {
+        "text": "Spin 5 PokéStops or Gyms",
+        "type": "misc",
+        "rewards": [
+            {
+                "name": "Ralts",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_280_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 206,
+                    "max": 231
+                }
+            }
+        ]
+    },
+    {
+        "text": "Take a snapshot of a wild Pokémon",
+        "type": "misc",
+        "rewards": [
+            {
+                "name": "Hoppip",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_187_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 231,
+                    "max": 257
+                }
+            },
+            {
+                "name": "Yanma",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_193_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 588,
+                    "max": 630
+                }
+            },
+            {
+                "name": "Murkrow",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_198_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 626,
+                    "max": 669
+                }
+            }
+        ]
+    },
+    {
+        "text": "Take a snapshot of a Normal-type Pokémon",
+        "type": "misc",
+        "rewards": [
+            {
+                "name": "Glameow",
+                "image": "https://raw.githubusercontent.com/PokeMiners/pogo_assets/master/Images/Pokemon%20-%20256x256/pokemon_icon_431_00.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 367,
+                    "max": 400
+                }
+            }
+        ]
+    }
+]
