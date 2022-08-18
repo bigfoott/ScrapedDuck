@@ -142,6 +142,11 @@ Example:
             },
             ...
         ],
+        "bonusDisclaimers": [
+            "* Disclaimer string, if it exists.",
+            "* A second disclaimer string, if it exists.",
+            ...
+        ],
         "shinies": [
             {
                 "name": "Deino",

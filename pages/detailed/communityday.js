@@ -13,6 +13,7 @@ function get(url, id, bkp)
             var commday = {
                 spawns: [],
                 bonuses: [],
+                bonusDisclaimers: [],
                 shinies: [],
                 specialresearch: []
             };
@@ -56,6 +57,7 @@ function get(url, id, bkp)
             })
 
             var bonuses = dom.window.document.querySelectorAll('.bonus-item');
+            var bonusHasDisclaimer = false;
 
             for (var i = 0; i < bonuses.length; i++)
             {
@@ -65,6 +67,28 @@ function get(url, id, bkp)
                 bonus.text = b.querySelector(':scope > .bonus-text').innerHTML;
                 bonus.image = b.querySelector(':scope > .item-circle > img').src;
                 commday.bonuses.push(bonus);
+
+                if (!bonusHasDisclaimer && bonus.text.includes("*"))
+                {
+                    bonusHasDisclaimer = true;
+                }
+            }
+
+            if (bonusHasDisclaimer)
+            {
+                var _wrapper = dom.window.document.querySelector('.bonus-wrapper');
+                console.log(_wrapper);
+                for (var i = 0; i < _wrapper.childNodes.length; i++)
+                {
+                    var ch = _wrapper.childNodes[i];
+
+                    if (ch.tagName == "HR") break;
+                    
+                    if (ch.tagName == "P" && ch.innerHTML.includes("*"))
+                    {
+                        commday.bonusDisclaimers.push(ch.innerHTML);
+                    }
+                }
             }
 
             var researchllist = dom.window.document.querySelectorAll('.special-research-list > .step-item');
@@ -98,6 +122,7 @@ function get(url, id, bkp)
                     task.text = task.text.replace("\n        ", "").trim();
 
                     task.reward.text = t.querySelector(":scope > .reward-text > .reward-label").innerHTML;
+                    task.reward.text = task.reward.text.replace("<span>", "").replace("</span>", "");
                     task.reward.image = t.querySelector(":scope > .reward-text > .reward-bubble > .reward-image").src;
 
                     research.tasks.push(task);
