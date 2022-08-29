@@ -48,6 +48,7 @@
 | `pokemon-spotlight-hour`
 | `potential-ultra-unlock`
 | `update`
+| `season`
 
 If you want to figure out what type of event a specific event on [LeekDuck.com/events](https://www.leekduck.com/events/) is, use your browser's dev tools to determine what class is setting the background color of that event. The class name is the same as the event type (except for `pokemon-go-fest` and `pokemon-spotlight-hour`, where the accented "é" is replaced with "e").
 
