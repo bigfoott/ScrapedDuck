@@ -7,7 +7,7 @@ const https = require('https');
 function get()
 {
     return new Promise(resolve => {
-        JSDOM.fromURL("https://www.leekduck.com/events/", {
+        JSDOM.fromURL("https://leekduck.com/events/", {
         })
         .then((dom) => {
 
@@ -24,7 +24,7 @@ function get()
                     var image = e.querySelector(":scope > .event-item-wrapper > .event-item > .event-img-wrapper > img").src;
                     if (image.includes("cdn-cgi"))
                     {
-                        image = "https://www.leekduck.com/assets/" + image.split("/assets/")[1];
+                        image = "https://leekduck.com/assets/" + image.split("/assets/")[1];
                     }
                     var link = e.href;
                     var eventID = link.substring(32, link.length - 1)

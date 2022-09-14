@@ -6,7 +6,7 @@ const https = require('https');
 function get()
 {
     return new Promise(resolve => {
-        JSDOM.fromURL("https://www.leekduck.com/research/", {
+        JSDOM.fromURL("https://leekduck.com/research/", {
         })
         .then((dom) => {
 
