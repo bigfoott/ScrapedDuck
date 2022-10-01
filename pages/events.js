@@ -27,7 +27,7 @@ function get()
                         image = "https://leekduck.com/assets/" + image.split("/assets/")[1];
                     }
                     var link = e.href;
-                    var eventID = link.split("/events/");
+                    var eventID = link.split("/events/")[1];
                     eventID = eventID.substring(0, eventID.length - 1);
                     
                     var eventItemWrapper = e.querySelector(":scope > .event-item-wrapper");
