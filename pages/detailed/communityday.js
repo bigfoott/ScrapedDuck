@@ -157,7 +157,7 @@ function get(url, id, bkp)
             {
                 if (bkp[i].eventID == id)
                 {
-                    fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "community-day", data: bkp[i].extraData }), err => {
+                    fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "community-day", data: bkp[i].extraData.communityday.data }), err => {
                         if (err) {
                             console.error(err); 
                             return;

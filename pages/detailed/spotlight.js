@@ -39,7 +39,7 @@ function get(url, id, bkp)
             {
                 if (bkp[i].eventID == id)
                 {
-                    fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "pokemon-spotlight-hour", data: bkp[i].extraData }), err => {
+                    fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "pokemon-spotlight-hour", data: bkp[i].extraData.spotlight.data }), err => {
                         if (err) {
                             console.error(err); 
                             return;
