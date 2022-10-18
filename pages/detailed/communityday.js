@@ -76,18 +76,14 @@ function get(url, id, bkp)
 
             if (bonusHasDisclaimer)
             {
-                var _wrapper = dom.window.document.querySelector('.bonus-wrapper');
-                console.log(_wrapper);
-                for (var i = 0; i < _wrapper.childNodes.length; i++)
+                var bonusTextEle = bonuses[bonuses.length - 1].nextSibling.nextSibling;
+                while (bonusTextEle.tagName != "H2")
                 {
-                    var ch = _wrapper.childNodes[i];
-
-                    if (ch.tagName == "HR") break;
-                    
-                    if (ch.tagName == "P" && ch.innerHTML.includes("*"))
+                    if (bonusTextEle.tagName == "P")
                     {
-                        commday.bonusDisclaimers.push(ch.innerHTML);
+                        commday.bonusDisclaimers.push(bonusTextEle.innerText);
                     }
+                    bonusTextEle = bonusTextEle.nextSibling
                 }
             }
 
