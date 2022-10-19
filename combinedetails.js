@@ -50,7 +50,7 @@ function main()
             }
         });
 
-        fs.rmdir("files/temp", { recursive: true }, (err) => {
+        fs.rm("files/temp", { recursive: true }, (err) => {
             if (err) { throw err; }
         });
     });
