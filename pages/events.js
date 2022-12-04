@@ -65,7 +65,6 @@ function get()
                             if (start.length > 24)
                             {
                                 start = "" + new Date(Date.parse(start)).toISOString();
-                                console.log(start);
                             }
                             if (end.length > 24)
                             {

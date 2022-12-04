@@ -36,7 +36,8 @@ function get()
                             combatPower: {
                                 min: -1,
                                 max: -1
-                            }
+                            },
+                            isRegional: false
                         };
 
                         pokemon.name = e.querySelector(":scope > .hatch-pkmn").innerHTML;
@@ -44,6 +45,7 @@ function get()
                         pokemon.isAdventureSync = currentAdventureSync;
                         pokemon.image = e.querySelector(":scope > .egg-list-img > img").src;
                         pokemon.canBeShiny = e.querySelector(":scope > .shiny-icon") != null;
+                        pokemon.isRegional = e.querySelector(":scope > .regional-icon") != null;
 
                         var combatPower = e.querySelector(":scope > .font-size-smaller").innerHTML.split('</span>')[1];
                         pokemon.combatPower.min = parseInt(combatPower.split(' - ')[0]);
