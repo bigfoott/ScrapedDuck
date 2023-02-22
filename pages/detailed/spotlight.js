@@ -10,22 +10,32 @@ function get(url, id, bkp)
         })
         .then((dom) => {
 
-            var content = dom.window.document.querySelectorAll('.pkmn-list-flex')[0];
+            var content = dom.window.document.querySelectorAll('.pkmn-list-flex');
 
             var spotlight = {
                 name: "",
                 canBeShiny: false,
                 image: "",
-                bonus: ""
+                bonus: "",
+                list: []
             };
 
-            spotlight.name = content.querySelector(":scope > .pkmn-list-item > .pkmn-name").innerHTML;
-            spotlight.canBeShiny = content.querySelector(":scope > .pkmn-list-item > .shiny-icon") != null;
-            spotlight.image = content.querySelector(":scope > .pkmn-list-item > .pkmn-list-img > img").src;
+            spotlight.name = content[0].querySelector(":scope > .pkmn-list-item > .pkmn-name").innerHTML;
+            spotlight.canBeShiny = content[0].querySelector(":scope > .pkmn-list-item > .shiny-icon") != null;
+            spotlight.image = content[0].querySelector(":scope > .pkmn-list-item > .pkmn-list-img > img").src;
 
             var temp = dom.window.document.querySelectorAll('.event-description')[0].innerHTML;
             var split = temp.split("<strong>");
             spotlight.bonus = split[split.length - 1].split("</strong>")[0];
+
+            dom.window.document.querySelectorAll(".pkmn-list-item").forEach(p => {
+                var pokemon = {
+                    name: p.querySelector(":scope > .pkmn-name").innerHTML,
+                    canBeShiny: p.querySelector(":scope > .shiny-icon") != null,
+                    image: p.querySelector(":scope > .pkmn-list-img > img").src
+                }
+                spotlight.list.push(pokemon);
+            });
 
             fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "pokemon-spotlight-hour", data: spotlight }), err => {
                 if (err) {
