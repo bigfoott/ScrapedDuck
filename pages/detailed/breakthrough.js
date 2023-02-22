@@ -10,17 +10,27 @@ function get(url, id, bkp)
         })
         .then((dom) => {
 
-            var content = dom.window.document.querySelectorAll('.pkmn-list-flex')[0];
+            var content = dom.window.document.querySelectorAll('.pkmn-list-flex');
 
             var reward = {
                 name: "",
                 canBeShiny: false,
-                image: ""
+                image: "",
+                list: []
             };
 
-            reward.name = content.querySelector(":scope > .pkmn-list-item > .pkmn-name").innerHTML;
-            reward.canBeShiny = content.querySelector(":scope > .pkmn-list-item > .shiny-icon") != null;
-            reward.image = content.querySelector(":scope > .pkmn-list-item > .pkmn-list-img > img").src;
+            reward.name = content[0].querySelector(":scope > .pkmn-list-item > .pkmn-name").innerHTML;
+            reward.canBeShiny = content[0].querySelector(":scope > .pkmn-list-item > .shiny-icon") != null;
+            reward.image = content[0].querySelector(":scope > .pkmn-list-item > .pkmn-list-img > img").src;
+
+            dom.window.document.querySelectorAll(".pkmn-list-item").forEach(p => {
+                var pokemon = {
+                    name: p.querySelector(":scope > .pkmn-name").innerHTML,
+                    canBeShiny: p.querySelector(":scope > .shiny-icon") != null,
+                    image: p.querySelector(":scope > .pkmn-list-img > img").src
+                }
+                reward.list.push(pokemon);
+            })
 
             fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "research-breakthrough", data: reward }), err => {
                 if (err) {
