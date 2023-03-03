@@ -77,7 +77,7 @@ function get(url, id, bkp)
             if (bonusHasDisclaimer)
             {
                 var bonusTextEle = bonuses[bonuses.length - 1].nextSibling.nextSibling;
-                while (bonusTextEle.tagName != "H2")
+                while (bonusTextEle.tagName != "H2" && bonusTextEle.nextSibling != null)
                 {
                     if (bonusTextEle.tagName == "P")
                     {
@@ -155,7 +155,7 @@ function get(url, id, bkp)
         {
             for (var i = 0; i < bkp.length; i++)
             {
-                if (bkp[i].eventID == id)
+                if (bkp[i].eventID == id && bkp[i].extraData != null)
                 {
                     fs.writeFile(`files/temp/${id}.json`, JSON.stringify({ id: id, type: "community-day", data: bkp[i].extraData.communityday.data }), err => {
                         if (err) {
