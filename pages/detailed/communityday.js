@@ -81,7 +81,7 @@ function get(url, id, bkp)
                 {
                     if (bonusTextEle.tagName == "P")
                     {
-                        commday.bonusDisclaimers.push(bonusTextEle.innerText);
+                        commday.bonusDisclaimers.push(bonusTextEle.innerHTML);
                     }
                     bonusTextEle = bonusTextEle.nextSibling
                 }
