@@ -18,16 +18,14 @@ function get()
             {
                 e = _e.querySelector(":scope > .task-item-wrapper");
 
-                var alt = e.getAttribute("alt");
-
                 var text = e.querySelector(":scope > .task-text > div").innerHTML.trim();
                 var type = e.querySelector(":scope > .task-text").className;
                 type = type.replace("task-text", "").replace("-research-tag", "").replace("hide-task-text-m", "").trim();
                 
                 var rewards = [];
-                if (research.some(r => r.alt == alt))
+                if (research.some(r => r.text == text))
                 {
-                    rewards = research.filter(r => r.alt == alt)[0].rewards;
+                    rewards = research.filter(r => r.text == text)[0].rewards;
                 }
 
                 var rewardWrapper = e.querySelector(":scope > .task-reward")
@@ -52,12 +50,10 @@ function get()
 
                 rewards.push(reward);
 
-                research = research.filter(r => r.alt != alt);
+                research = research.filter(r => r.text != text);
 
-                research.push({ "text": text, "type": type, "rewards": rewards, "alt": alt});
+                research.push({ "text": text, "type": type, "rewards": rewards});
             });
-
-            research.forEach(r => { delete r.alt; });
 
             fs.writeFile('files/research.json', JSON.stringify(research, null, 4), err => {
                 if (err) {
