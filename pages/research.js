@@ -43,7 +43,7 @@ function get()
                 };
 
                 reward.name = rewardWrapper.querySelector(":scope > .reward-text").innerHTML;
-                reward.image = "https://" + rewardWrapper.querySelector(":scope > .reward-img > img").src.split("url=")[1];
+                reward.image = rewardWrapper.querySelector(":scope > .reward-img > img").src;
 
                 var combatPower = rewardWrapper.querySelector(":scope > .reward-cp-range").innerHTML.split('</span>')[1];
                 reward.combatPower.min = parseInt(combatPower.split(' - ')[0]);
