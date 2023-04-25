@@ -17,3 +17,5 @@ I just want to emphasize again to credit **[LeekDuck.com](https://leekduck.com)*
 ## Documentation
 
 All documentation is now available on the [wiki](https://github.com/bigfoott/ScrapedDuck/wiki).
+
+For information about rate limits, please see [this page of the wiki](https://github.com/bigfoott/ScrapedDuck/wiki/Rate-Limits).
