@@ -81,7 +81,17 @@ function get(url, id, bkp)
                 {
                     if (bonusTextEle.tagName == "P")
                     {
-                        commday.bonusDisclaimers.push(bonusTextEle.innerHTML);
+                        if (bonusTextEle.innerHTML.includes("<br>\n"))
+                        {
+                            var split = bonusTextEle.innerHTML.split("<br>\n");
+                            split.forEach(s => {
+                                commday.bonusDisclaimers.push(s);
+                            });
+                        }
+                        else
+                        {
+                            commday.bonusDisclaimers.push(bonusTextEle.innerHTML);
+                        }
                     }
                     bonusTextEle = bonusTextEle.nextSibling
                 }
