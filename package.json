@@ -11,7 +11,7 @@
   "author": "bigfoott",
   "license": "MIT",
   "dependencies": {
-    "jsdom": "latest",
+    "jsdom": "21.1.1",
     "moment": "latest"
   }
 }
