@@ -10,49 +10,61 @@ function get()
         })
         .then((dom) => {
 
-            var list = dom.window.document.querySelectorAll('.task-item');
+            var taskNameToID = [];
+            taskNameToID["Event Tasks"] = "event";
+            taskNameToID["Catching Tasks"] = "catch";
+            taskNameToID["Throwing Tasks"] = "throw";
+            taskNameToID["Battling Tasks"] = "battle";
+            taskNameToID["Exploring Tasks"] = "explore";
+            taskNameToID["Training Tasks"] = "training";
+            taskNameToID["Team GO Rocket Tasks"] = "rocket";
+            taskNameToID["Buddy & Friendship Tasks"] = "buddy";
+            taskNameToID["AR Scanning Tasks"] = "ar";
+            taskNameToID["Sponsored Tasks"] = "sponsored";
+
+
+            var types = dom.window.document.querySelectorAll('.task-category');
 
             var research = [] 
             
-            list.forEach (_e =>
+            types.forEach (_e =>
             {
-                e = _e.querySelector(":scope > .task-item-wrapper");
+                _e.querySelectorAll(":scope > .task-list > .task-item").forEach(task => {
+                    var text = task.querySelector(":scope > .task-text").innerHTML.trim();
+                    var type = taskNameToID[_e.querySelector(":scope > h2").innerHTML.trim()];
 
-                var text = e.querySelector(":scope > .task-text > div").innerHTML.trim();
-                var type = e.querySelector(":scope > .task-text").className;
-                type = type.replace("task-text", "").replace("-research-tag", "").replace("hide-task-text-m", "").trim();
-                
-                var rewards = [];
-                if (research.some(r => r.text == text))
-                {
-                    rewards = research.filter(r => r.text == text)[0].rewards;
-                }
+                    var rewards = [];
+                    
+                    task.querySelectorAll(":scope > .reward-list > .reward").forEach(r => {
+                        if (r.dataset.rewardType == "encounter")
+                        {
+                            var reward = { 
+                                name: "",
+                                image: "",
+                                canBeShiny: false,
+                                combatPower: {
+                                    min: -1,
+                                    max: -1
+                                }
+                            };
 
-                var rewardWrapper = e.querySelector(":scope > .task-reward")
+                            reward.name = r.querySelector(":scope > .reward-label > span").innerHTML.trim();
+                            reward.image = r.querySelector(":scope > .reward-bubble > .reward-image").src;
 
-                var reward = { 
-                    name: "",
-                    image: "",
-                    canBeShiny: false,
-                    combatPower: {
-                        min: -1,
-                        max: -1
+                            reward.combatPower.min = parseInt(r.querySelector(":scope > .cp-values > .min-cp").innerHTML.trim().split("</div>")[1]);
+                            reward.combatPower.max = parseInt(r.querySelector(":scope > .cp-values > .max-cp").innerHTML.trim().split("</div>")[1]);
+                            reward.canBeShiny = r.querySelector(":scope > .reward-bubble > .shiny-icon") != null;
+
+                            rewards.push(reward);
+                        }
+                    });
+
+                    if (rewards.length > 0)
+                    {
+                        research = research.filter(r => r.text != text);
+                        research.push({ "text": text, "type": type, "rewards": rewards});
                     }
-                };
-
-                reward.name = rewardWrapper.querySelector(":scope > .reward-text").innerHTML;
-                reward.image = rewardWrapper.querySelector(":scope > .reward-img > img").src;
-
-                var combatPower = rewardWrapper.querySelector(":scope > .reward-cp-range").innerHTML.split('</span>')[1];
-                reward.combatPower.min = parseInt(combatPower.split(' - ')[0]);
-                reward.combatPower.max = parseInt(combatPower.split(' - ')[1]);
-                reward.canBeShiny = rewardWrapper.querySelector(":scope > .shiny-icon") != null
-
-                rewards.push(reward);
-
-                research = research.filter(r => r.text != text);
-
-                research.push({ "text": text, "type": type, "rewards": rewards});
+                });
             });
 
             fs.writeFile('files/research.json', JSON.stringify(research, null, 4), err => {
