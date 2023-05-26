@@ -61,8 +61,17 @@ function get()
 
                     if (rewards.length > 0)
                     {
-                        research = research.filter(r => r.text != text);
-                        research.push({ "text": text, "type": type, "rewards": rewards});
+                        if (research.filter(r => r.text == text).length > 0)
+                        {
+                            var foundResearch = research.findIndex(fr => { return fr.text == text });
+                            rewards.forEach(rw => {
+                                research[foundResearch].rewards.push(rw);
+                            });
+                        }
+                        else
+                        {
+                            research.push({ "text": text, "type": type, "rewards": rewards});
+                        }
                     }
                 });
             });
