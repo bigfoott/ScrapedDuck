@@ -18,7 +18,7 @@ function get()
             taskNameToID["Exploring Tasks"] = "explore";
             taskNameToID["Training Tasks"] = "training";
             taskNameToID["Team GO Rocket Tasks"] = "rocket";
-            taskNameToID["Buddy & Friendship Tasks"] = "buddy";
+            taskNameToID["Buddy &amp; Friendship Tasks"] = "buddy";
             taskNameToID["AR Scanning Tasks"] = "ar";
             taskNameToID["Sponsored Tasks"] = "sponsored";
 
