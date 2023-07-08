@@ -61,7 +61,7 @@ function get()
 
                     if (rewards.length > 0)
                     {
-                        if (research.filter(r => r.text == text).length > 0)
+                        if (research.filter(r => r.text == text && r.type == type).length > 0)
                         {
                             var foundResearch = research.findIndex(fr => { return fr.text == text });
                             rewards.forEach(rw => {
