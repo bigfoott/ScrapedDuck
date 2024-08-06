@@ -37,16 +37,20 @@ function get(url, id, bkp)
             });
         }).catch(_err =>
         {
+            // on error, go through backup data and search for matching event to use backup data as fallback
             for (var i = 0; i < bkp.length; i++)
             {
                 if (bkp[i].eventID == id && bkp[i].extraData != null)
                 {
-                    fs.writeFile(`files/temp/${id}_generic.json`, JSON.stringify({ id: id, type: "generic", data: bkp[i].extraData.generic.data }), err => {
-                        if (err) {
-                            console.error(err); 
-                            return;
-                        }
-                    });
+                    // if there are generic data in backup data -> use these data instead for temporary json file
+                    if ('generic' in bkp[i].extraData){
+                        fs.writeFile(`files/temp/${id}_generic.json`, JSON.stringify({ id: id, type: "generic", data: bkp[i].extraData.generic.data }), err => {
+                            if (err) {
+                                console.error(err);
+                                return;
+                            }
+                        });
+                    }
                 }
             }
         });
