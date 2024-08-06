@@ -4,7 +4,7 @@ const { JSDOM } = jsd;
 const https = require('https');
 
 /**
- * Returns x raised to the n-th power.
+ * Create temporary json file (<event-id>_generic.json) for each event with generic event data.
  *
  * @param {string} url leekduck.com url for eventspecfic website.
  * @param {string} id unique event id string.
