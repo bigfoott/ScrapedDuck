@@ -17,21 +17,42 @@ function main()
             {
                 if (e.eventID == data.id)
                 {
+                    // add always generic data as 'generic' block in 'extraData' (available for all possible events)
+                    if (data.type == "generic")
+                    {
+                        if (e.extraData === null) {
+                            e.extraData = {};
+                        }
+                        e.extraData.generic = data.data;
+                    }
+                    // add event specific extra data. Block named as event type name
                     if (data.type == "research-breakthrough")
                     {
-                        e.extraData = { breakthrough: data.data }
+                        if (e.extraData === null) {
+                            e.extraData = {};
+                        }
+                        e.extraData.breakthrough = data.data;
                     }
                     else if (data.type == "pokemon-spotlight-hour")
                     {
-                        e.extraData = { spotlight: data.data }
+                        if (e.extraData === null) {
+                            e.extraData = {};
+                        }
+                        e.extraData.spotlight = data.data
                     }
                     else if (data.type == "community-day")
                     {
-                        e.extraData = { communityday: data.data }
+                        if (e.extraData === null) {
+                            e.extraData = {};
+                        }
+                        e.extraData.communityday = data.data
                     }
                     else if (data.type == "raid-battles")
                     {
-                        e.extraData = { raidbattles: data.data }
+                        if (e.extraData === null) {
+                            e.extraData = {};
+                        }
+                        e.extraData.raidbattles = data.data
                     }
                 }
             });
