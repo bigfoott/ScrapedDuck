@@ -5,6 +5,7 @@ const breakthrough = require('./pages/detailed/breakthrough')
 const spotlight = require('./pages/detailed/spotlight')
 const communityday = require('./pages/detailed/communityday')
 const raidbattles = require('./pages/detailed/raidbattles')
+const generic = require('./pages/detailed/generic')
 
 function main()
 {
@@ -24,6 +25,9 @@ function main()
                 let bkp = JSON.parse(body);
 
                 events.forEach(e => {
+                    // get generic extra data independend from event type
+                    generic.get(e.link, e.eventID, bkp);
+                    // get event type specific extra data
                     if (e.eventType == "research-breakthrough")
                     {
                         breakthrough.get(e.link, e.eventID, bkp);
