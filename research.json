@@ -1,0 +1,1367 @@
+[
+    {
+        "text": "Catch 10 Pokémon",
+        "type": "event",
+        "rewards": [
+            {
+                "name": "Plusle",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm311.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 717,
+                    "max": 762
+                }
+            },
+            {
+                "name": "Minun",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm312.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 682,
+                    "max": 726
+                }
+            }
+        ]
+    },
+    {
+        "text": "Spin 5 PokéStops or Gyms",
+        "type": "event",
+        "rewards": [
+            {
+                "name": "Magnemite",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm81.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 544,
+                    "max": 583
+                }
+            },
+            {
+                "name": "Plusle",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm311.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 717,
+                    "max": 762
+                }
+            },
+            {
+                "name": "Minun",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm312.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 682,
+                    "max": 726
+                }
+            }
+        ]
+    },
+    {
+        "text": "Power up Pokémon 3 times",
+        "type": "event",
+        "rewards": [
+            {
+                "name": "Magnemite",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm81.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 544,
+                    "max": 583
+                }
+            }
+        ]
+    },
+    {
+        "text": "Send 2 Gifts to friends",
+        "type": "event",
+        "rewards": [
+            {
+                "name": "Magnemite",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm81.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 544,
+                    "max": 583
+                }
+            },
+            {
+                "name": "Plusle",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm311.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 717,
+                    "max": 762
+                }
+            },
+            {
+                "name": "Minun",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm312.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 682,
+                    "max": 726
+                }
+            }
+        ]
+    },
+    {
+        "text": "Catch 5 Pokémon",
+        "type": "catch",
+        "rewards": [
+            {
+                "name": "Sentret",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm161.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 238,
+                    "max": 264
+                }
+            },
+            {
+                "name": "Hoothoot",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm163.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 262,
+                    "max": 290
+                }
+            },
+            {
+                "name": "Taillow",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm276.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 298,
+                    "max": 328
+                }
+            }
+        ]
+    },
+    {
+        "text": "Catch 7 Pokémon",
+        "type": "catch",
+        "rewards": [
+            {
+                "name": "Magikarp",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm129.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 99,
+                    "max": 117
+                }
+            },
+            {
+                "name": "Stufful",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm759.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 540,
+                    "max": 579
+                }
+            },
+            {
+                "name": "Wimpod",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm767.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 191,
+                    "max": 215
+                }
+            }
+        ]
+    },
+    {
+        "text": "Catch a Dragon-type Pokémon",
+        "type": "catch",
+        "rewards": [
+            {
+                "name": "Dratini",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm147.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 397,
+                    "max": 430
+                }
+            },
+            {
+                "name": "Bagon",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm371.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 459,
+                    "max": 495
+                }
+            },
+            {
+                "name": "Axew",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm610.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 547,
+                    "max": 586
+                }
+            }
+        ]
+    },
+    {
+        "text": "Catch 5 Water- or Ground-type Pokémon",
+        "type": "catch",
+        "rewards": [
+            {
+                "name": "Spheal",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm363.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 379,
+                    "max": 412
+                }
+            },
+            {
+                "name": "Golett",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm622.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 472,
+                    "max": 509
+                }
+            },
+            {
+                "name": "Mareanie",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm747.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 383,
+                    "max": 416
+                }
+            }
+        ]
+    },
+    {
+        "text": "Catch 5 Grass- or Poison-type Pokémon",
+        "type": "catch",
+        "rewards": [
+            {
+                "name": "Paras",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm46.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 402,
+                    "max": 436
+                }
+            },
+            {
+                "name": "Roselia",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm315.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 755,
+                    "max": 801
+                }
+            },
+            {
+                "name": "Bounsweet",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm761.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 178,
+                    "max": 201
+                }
+            }
+        ]
+    },
+    {
+        "text": "Catch 7 different species of Pokémon",
+        "type": "catch",
+        "rewards": [
+            {
+                "name": "Wooper",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm194.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 247,
+                    "max": 275
+                }
+            },
+            {
+                "name": "Paldean Wooper",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm194.fPALDEA.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 247,
+                    "max": 275
+                }
+            }
+        ]
+    },
+    {
+        "text": "Catch 15 different species of Pokémon",
+        "type": "catch",
+        "rewards": [
+            {
+                "name": "Feebas",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm349.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 99,
+                    "max": 117
+                }
+            }
+        ]
+    },
+    {
+        "text": "Catch 5 Pokémon with Weather Boost",
+        "type": "catch",
+        "rewards": [
+            {
+                "name": "Vulpix",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm37.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 347,
+                    "max": 378
+                }
+            },
+            {
+                "name": "Poliwag",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm60.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 324,
+                    "max": 355
+                }
+            },
+            {
+                "name": "Wingull",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm278.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 298,
+                    "max": 328
+                }
+            },
+            {
+                "name": "Hippopotas",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm449.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 542,
+                    "max": 582
+                }
+            },
+            {
+                "name": "Snover",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm459.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 460,
+                    "max": 497
+                }
+            },
+            {
+                "name": "Roggenrola",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm524.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 479,
+                    "max": 516
+                }
+            },
+            {
+                "name": "Vanillite",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm582.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 409,
+                    "max": 443
+                }
+            }
+        ]
+    },
+    {
+        "text": "Use 5 Pinap Berries to help catch Pokémon",
+        "type": "catch",
+        "rewards": [
+            {
+                "name": "Wailmer",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm320.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 584,
+                    "max": 629
+                }
+            },
+            {
+                "name": "Swablu",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm333.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 322,
+                    "max": 353
+                }
+            }
+        ]
+    },
+    {
+        "text": "Make 5 Nice Throws",
+        "type": "throw",
+        "rewards": [
+            {
+                "name": "Diglett",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm50.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 262,
+                    "max": 289
+                }
+            },
+            {
+                "name": "Alolan Diglett",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm50.fALOLA.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 264,
+                    "max": 292
+                }
+            },
+            {
+                "name": "Sudowoodo",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm185.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 871,
+                    "max": 920
+                }
+            }
+        ]
+    },
+    {
+        "text": "Make 10 Nice Throws",
+        "type": "throw",
+        "rewards": [
+            {
+                "name": "Gothita",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm574.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 375,
+                    "max": 407
+                }
+            },
+            {
+                "name": "Solosis",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm577.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 545,
+                    "max": 586
+                }
+            }
+        ]
+    },
+    {
+        "text": "Make 3 Great Throws",
+        "type": "throw",
+        "rewards": [
+            {
+                "name": "Omanyte",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm138.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 620,
+                    "max": 662
+                }
+            },
+            {
+                "name": "Kabuto",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm140.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 548,
+                    "max": 587
+                }
+            },
+            {
+                "name": "Clamperl",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm366.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 507,
+                    "max": 544
+                }
+            },
+            {
+                "name": "Elgyem",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm605.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 554,
+                    "max": 593
+                }
+            },
+            {
+                "name": "Binacle",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm688.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 373,
+                    "max": 405
+                }
+            }
+        ]
+    },
+    {
+        "text": "Make 5 Great Throws",
+        "type": "throw",
+        "rewards": [
+            {
+                "name": "Carvanha",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm318.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 398,
+                    "max": 437
+                }
+            },
+            {
+                "name": "Numel",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm322.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 418,
+                    "max": 453
+                }
+            }
+        ]
+    },
+    {
+        "text": "Make 3 Great Throws in a row",
+        "type": "throw",
+        "rewards": [
+            {
+                "name": "Lileep",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm345.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 515,
+                    "max": 553
+                }
+            },
+            {
+                "name": "Anorith",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm347.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 613,
+                    "max": 655
+                }
+            }
+        ]
+    },
+    {
+        "text": "Make 5 Great Curveball Throws",
+        "type": "throw",
+        "rewards": [
+            {
+                "name": "Cranidos",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm408.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 730,
+                    "max": 780
+                }
+            },
+            {
+                "name": "Shieldon",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm410.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 348,
+                    "max": 381
+                }
+            }
+        ]
+    },
+    {
+        "text": "Make 5 Great Curveball Throws in a row",
+        "type": "throw",
+        "rewards": [
+            {
+                "name": "Spinda 2",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm327.f01.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 486,
+                    "max": 523
+                }
+            },
+            {
+                "name": "Spinda 3",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm327.f02.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 486,
+                    "max": 523
+                }
+            },
+            {
+                "name": "Spinda 4",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm327.f03.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 486,
+                    "max": 523
+                }
+            }
+        ]
+    },
+    {
+        "text": "Make 2 Excellent Throws",
+        "type": "throw",
+        "rewards": [
+            {
+                "name": "Beldum",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm374.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 385,
+                    "max": 418
+                }
+            }
+        ]
+    },
+    {
+        "text": "Make 3 Excellent Throws in a row",
+        "type": "throw",
+        "rewards": [
+            {
+                "name": "Larvitar",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm246.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 411,
+                    "max": 445
+                }
+            },
+            {
+                "name": "Beldum",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm374.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 385,
+                    "max": 418
+                }
+            },
+            {
+                "name": "Gible",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm443.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 441,
+                    "max": 477
+                }
+            }
+        ]
+    },
+    {
+        "text": "Win in the GO Battle League",
+        "type": "battle",
+        "rewards": [
+            {
+                "name": "Gligar",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm207.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 750,
+                    "max": 796
+                }
+            },
+            {
+                "name": "Slakoth",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm287.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 395,
+                    "max": 429
+                }
+            },
+            {
+                "name": "Grubbin",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm736.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 388,
+                    "max": 421
+                }
+            }
+        ]
+    },
+    {
+        "text": "Win a raid",
+        "type": "battle",
+        "rewards": [
+            {
+                "name": "Sneasel",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm215.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 831,
+                    "max": 879
+                }
+            }
+        ]
+    },
+    {
+        "text": "Win a three-star raid or higher",
+        "type": "battle",
+        "rewards": [
+            {
+                "name": "Tirtouga",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm564.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 597,
+                    "max": 638
+                }
+            },
+            {
+                "name": "Archen",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm566.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 741,
+                    "max": 789
+                }
+            }
+        ]
+    },
+    {
+        "text": "Win 2 raids",
+        "type": "battle",
+        "rewards": [
+            {
+                "name": "Hisuian Sneasel",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm215.fHISUIAN.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 831,
+                    "max": 879
+                }
+            }
+        ]
+    },
+    {
+        "text": "Win 5 raids",
+        "type": "battle",
+        "rewards": [
+            {
+                "name": "Alolan Marowak",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm105.fALOLA.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 741,
+                    "max": 786
+                }
+            },
+            {
+                "name": "Alolan Exeggutor",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm103.fALOLA.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 1233,
+                    "max": 1292
+                }
+            },
+            {
+                "name": "Aerodactyl",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm142.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 1136,
+                    "max": 1193
+                }
+            }
+        ]
+    },
+    {
+        "text": "Hatch an Egg",
+        "type": "explore",
+        "rewards": [
+            {
+                "name": "Scyther",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm123.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 1104,
+                    "max": 1160
+                }
+            },
+            {
+                "name": "Sudowoodo",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm185.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 871,
+                    "max": 920
+                }
+            },
+            {
+                "name": "Nincada",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm290.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 299,
+                    "max": 329
+                }
+            },
+            {
+                "name": "Trubbish",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm568.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 395,
+                    "max": 428
+                }
+            },
+            {
+                "name": "Alolan Meowth",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm52.fALOLA.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 312,
+                    "max": 341
+                }
+            }
+        ]
+    },
+    {
+        "text": "Hatch 2 Eggs",
+        "type": "explore",
+        "rewards": [
+            {
+                "name": "Sneasel",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm215.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 831,
+                    "max": 879
+                }
+            },
+            {
+                "name": "Mawile",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm303.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 658,
+                    "max": 700
+                }
+            },
+            {
+                "name": "Feebas",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm349.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 99,
+                    "max": 117
+                }
+            },
+            {
+                "name": "Galarian Meowth",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm52.fGALARIAN.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 409,
+                    "max": 443
+                }
+            }
+        ]
+    },
+    {
+        "text": "Explore 2 km",
+        "type": "explore",
+        "rewards": [
+            {
+                "name": "Slowpoke",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm79.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 487,
+                    "max": 525
+                }
+            },
+            {
+                "name": "Galarian Slowpoke",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm79.fGALARIAN.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 487,
+                    "max": 525
+                }
+            }
+        ]
+    },
+    {
+        "text": "Spin 3 PokéStops or Gyms",
+        "type": "explore",
+        "rewards": [
+            {
+                "name": "Doduo",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm84.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 477,
+                    "max": 514
+                }
+            },
+            {
+                "name": "Remoraid",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm223.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 358,
+                    "max": 391
+                }
+            },
+            {
+                "name": "Ralts",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm280.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 206,
+                    "max": 231
+                }
+            },
+            {
+                "name": "Aron",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm304.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 522,
+                    "max": 560
+                }
+            }
+        ]
+    },
+    {
+        "text": "Spin 5 PokéStops or Gyms",
+        "type": "explore",
+        "rewards": [
+            {
+                "name": "Growlithe",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm58.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 495,
+                    "max": 533
+                }
+            },
+            {
+                "name": "Hisuian Growlithe",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm58.fHISUIAN.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 527,
+                    "max": 566
+                }
+            },
+            {
+                "name": "Slowpoke",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm79.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 487,
+                    "max": 525
+                }
+            },
+            {
+                "name": "Galarian Slowpoke",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm79.fGALARIAN.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 487,
+                    "max": 525
+                }
+            }
+        ]
+    },
+    {
+        "text": "Take a snapshot of a wild Pokémon",
+        "type": "explore",
+        "rewards": [
+            {
+                "name": "Trapinch",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm328.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 507,
+                    "max": 546
+                }
+            },
+            {
+                "name": "Croagunk",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm453.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 375,
+                    "max": 408
+                }
+            },
+            {
+                "name": "Cottonee",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm546.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 271,
+                    "max": 300
+                }
+            }
+        ]
+    },
+    {
+        "text": "Take 3 snapshots of different wild Grass-type Pokémon",
+        "type": "explore",
+        "rewards": [
+            {
+                "name": "Cherubi",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm420.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 374,
+                    "max": 407
+                }
+            },
+            {
+                "name": "Smoliv",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm928.icon.png",
+                "canBeShiny": false,
+                "combatPower": {
+                    "min": 335,
+                    "max": 366
+                }
+            }
+        ]
+    },
+    {
+        "text": "Take 3 snapshots of different wild Fire-type Pokémon",
+        "type": "explore",
+        "rewards": [
+            {
+                "name": "Growlithe",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm58.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 495,
+                    "max": 533
+                }
+            },
+            {
+                "name": "Litwick",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm607.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 398,
+                    "max": 431
+                }
+            }
+        ]
+    },
+    {
+        "text": "Take 3 snapshots of different wild Water-type Pokémon",
+        "type": "explore",
+        "rewards": [
+            {
+                "name": "Horsea",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm116.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 418,
+                    "max": 452
+                }
+            },
+            {
+                "name": "Ducklett",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm580.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 335,
+                    "max": 367
+                }
+            }
+        ]
+    },
+    {
+        "text": "Evolve a Pokémon",
+        "type": "training",
+        "rewards": [
+            {
+                "name": "Eevee",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm133.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 424,
+                    "max": 459
+                }
+            }
+        ]
+    },
+    {
+        "text": "Power up Pokémon 3 times",
+        "type": "training",
+        "rewards": [
+            {
+                "name": "Bulbasaur",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm1.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 442,
+                    "max": 477
+                }
+            },
+            {
+                "name": "Charmander",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm4.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 387,
+                    "max": 420
+                }
+            },
+            {
+                "name": "Squirtle",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm7.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 372,
+                    "max": 405
+                }
+            }
+        ]
+    },
+    {
+        "text": "Power up Pokémon 5 times",
+        "type": "training",
+        "rewards": [
+            {
+                "name": "Snivy",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm495.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 333,
+                    "max": 364
+                }
+            },
+            {
+                "name": "Tepig",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm498.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 428,
+                    "max": 464
+                }
+            },
+            {
+                "name": "Oshawott",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm501.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 413,
+                    "max": 448
+                }
+            }
+        ]
+    },
+    {
+        "text": "Power up Pokémon 7 times",
+        "type": "training",
+        "rewards": [
+            {
+                "name": "Rowlet",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm722.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 418,
+                    "max": 453
+                }
+            },
+            {
+                "name": "Litten",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm725.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 409,
+                    "max": 443
+                }
+            },
+            {
+                "name": "Popplio",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm728.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 448,
+                    "max": 483
+                }
+            }
+        ]
+    },
+    {
+        "text": "Earn 2 Candies walking with your buddy",
+        "type": "buddy",
+        "rewards": [
+            {
+                "name": "Jigglypuff",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm39.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 277,
+                    "max": 310
+                }
+            },
+            {
+                "name": "Buneary",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm427.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 501,
+                    "max": 539
+                }
+            },
+            {
+                "name": "Glameow",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm431.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 367,
+                    "max": 400
+                }
+            },
+            {
+                "name": "Bunnelby",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm659.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 212,
+                    "max": 237
+                }
+            },
+            {
+                "name": "Litleo",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm667.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 571,
+                    "max": 611
+                }
+            },
+            {
+                "name": "Dedenne",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm702.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 743,
+                    "max": 789
+                }
+            }
+        ]
+    },
+    {
+        "text": "Earn 3 Candies walking with your buddy",
+        "type": "buddy",
+        "rewards": [
+            {
+                "name": "Stunfisk",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm618.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 876,
+                    "max": 926
+                }
+            },
+            {
+                "name": "Galarian Stunfisk",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm618.fGALARIAN.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 876,
+                    "max": 926
+                }
+            }
+        ]
+    },
+    {
+        "text": "Send 5 Gifts and add a sticker to each",
+        "type": "buddy",
+        "rewards": [
+            {
+                "name": "Emolga",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm587.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 657,
+                    "max": 700
+                }
+            },
+            {
+                "name": "Dedenne",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm702.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 743,
+                    "max": 789
+                }
+            }
+        ]
+    },
+    {
+        "text": "Trade a Pokémon",
+        "type": "buddy",
+        "rewards": [
+            {
+                "name": "Machop",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm66.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 509,
+                    "max": 548
+                }
+            },
+            {
+                "name": "Timburr",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm532.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 524,
+                    "max": 563
+                }
+            }
+        ]
+    },
+    {
+        "text": "Defeat 3 Team GO Rocket Grunts",
+        "type": "rocket",
+        "rewards": [
+            {
+                "name": "Sneasel",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm215.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 831,
+                    "max": 879
+                }
+            }
+        ]
+    },
+    {
+        "text": "Purify 3 Shadow Pokémon",
+        "type": "rocket",
+        "rewards": [
+            {
+                "name": "Absol",
+                "image": "https://leekduck.com/assets/img/pokemon_icons_crop/pm359.icon.png",
+                "canBeShiny": true,
+                "combatPower": {
+                    "min": 1027,
+                    "max": 1083
+                }
+            }
+        ]
+    }
+]
