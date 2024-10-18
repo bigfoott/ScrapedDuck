@@ -1,0 +1,722 @@
+[
+    {
+        "name": "Pichu",
+        "eggType": "2 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_172_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 240,
+            "max": 270
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Cleffa",
+        "eggType": "2 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_173_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 346,
+            "max": 383
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Igglybuff",
+        "eggType": "2 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_174_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 269,
+            "max": 306
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Togepi",
+        "eggType": "2 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_175_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 339,
+            "max": 375
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Tyrogue",
+        "eggType": "2 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_236_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 249,
+            "max": 281
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Wynaut",
+        "eggType": "2 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_360_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 268,
+            "max": 305
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Larvesta",
+        "eggType": "2 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_636_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 800,
+            "max": 855
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Sableye",
+        "eggType": "5 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 789,
+            "max": 843
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Vanillite",
+        "eggType": "5 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_582_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 545,
+            "max": 590
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Mime Jr.",
+        "eggType": "5 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_439_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 578,
+            "max": 626
+        },
+        "isRegional": true
+    },
+    {
+        "name": "Larvesta",
+        "eggType": "5 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_636_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 800,
+            "max": 855
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Cutiefly",
+        "eggType": "5 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm742.icon.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 465,
+            "max": 507
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Komala",
+        "eggType": "5 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm775.icon.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 1403,
+            "max": 1475
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Grookey",
+        "eggType": "5 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm810.icon.png",
+        "canBeShiny": false,
+        "combatPower": {
+            "min": 574,
+            "max": 620
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Scorbunny",
+        "eggType": "5 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm813.icon.png",
+        "canBeShiny": false,
+        "combatPower": {
+            "min": 579,
+            "max": 627
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Sobble",
+        "eggType": "5 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm816.icon.png",
+        "canBeShiny": false,
+        "combatPower": {
+            "min": 579,
+            "max": 627
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Chingling",
+        "eggType": "5 km",
+        "isAdventureSync": true,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_433_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 530,
+            "max": 574
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Riolu",
+        "eggType": "5 km",
+        "isAdventureSync": true,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_447_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 522,
+            "max": 567
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Mantyke",
+        "eggType": "5 km",
+        "isAdventureSync": true,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_458_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 662,
+            "max": 713
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Tyrunt",
+        "eggType": "5 km",
+        "isAdventureSync": true,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_696_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 877,
+            "max": 934
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Amaura",
+        "eggType": "5 km",
+        "isAdventureSync": true,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_698_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 726,
+            "max": 779
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Phantump",
+        "eggType": "5 km",
+        "isAdventureSync": true,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm708.icon.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 595,
+            "max": 642
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Galarian Meowth",
+        "eggType": "7 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_052_31.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 546,
+            "max": 591
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Galarian Ponyta",
+        "eggType": "7 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_077_31.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 911,
+            "max": 969
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Galarian Slowpoke",
+        "eggType": "7 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_079_31.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 650,
+            "max": 700
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Galarian Farfetch'd",
+        "eggType": "7 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_083_31.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 898,
+            "max": 956
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Galarian Zigzagoon",
+        "eggType": "7 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_263_31.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 258,
+            "max": 290
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Galarian Darumaka",
+        "eggType": "7 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_554_31.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 768,
+            "max": 823
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Galarian Yamask",
+        "eggType": "7 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_562_31.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 516,
+            "max": 561
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Galarian Stunfisk",
+        "eggType": "7 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_618_31.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 1169,
+            "max": 1235
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Hisuian Growlithe",
+        "eggType": "7 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm58.fHISUIAN.icon.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 703,
+            "max": 755
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Hisuian Sneasel",
+        "eggType": "7 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm215.fHISUIAN.icon.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 1107,
+            "max": 1172
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Wynaut",
+        "eggType": "7 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_360_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 268,
+            "max": 305
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Basculin (White Striped)",
+        "eggType": "7 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm550.fWHITE_STRIPED.icon.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 1129,
+            "max": 1194
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Deino",
+        "eggType": "7 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 560,
+            "max": 606
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Pancham",
+        "eggType": "7 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_674_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 796,
+            "max": 850
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Goomy",
+        "eggType": "7 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm704.icon.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 514,
+            "max": 557
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Druddigon",
+        "eggType": "10 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_621_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 1487,
+            "max": 1561
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Larvesta",
+        "eggType": "10 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_636_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 800,
+            "max": 855
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Carbink",
+        "eggType": "10 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm703.icon.png",
+        "canBeShiny": false,
+        "combatPower": {
+            "min": 780,
+            "max": 838
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Goomy",
+        "eggType": "10 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm704.icon.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 514,
+            "max": 557
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Jangmo-o",
+        "eggType": "10 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm782.icon.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 510,
+            "max": 553
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Dreepy",
+        "eggType": "10 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm885.icon.png",
+        "canBeShiny": false,
+        "combatPower": {
+            "min": 398,
+            "max": 438
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Charcadet",
+        "eggType": "10 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm935.icon.png",
+        "canBeShiny": false,
+        "combatPower": {
+            "min": 380,
+            "max": 418
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Frigibax",
+        "eggType": "10 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm996.icon.png",
+        "canBeShiny": false,
+        "combatPower": {
+            "min": 662,
+            "max": 712
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Dratini",
+        "eggType": "10 km",
+        "isAdventureSync": true,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_147_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 529,
+            "max": 574
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Deino",
+        "eggType": "10 km",
+        "isAdventureSync": true,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 560,
+            "max": 606
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Goomy",
+        "eggType": "10 km",
+        "isAdventureSync": true,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm704.icon.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 514,
+            "max": 557
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Rockruff",
+        "eggType": "10 km",
+        "isAdventureSync": true,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm744.icon.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 499,
+            "max": 543
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Drampa",
+        "eggType": "10 km",
+        "isAdventureSync": true,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm780.icon.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 1588,
+            "max": 1665
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Jangmo-o",
+        "eggType": "10 km",
+        "isAdventureSync": true,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm782.icon.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 510,
+            "max": 553
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Frigibax",
+        "eggType": "10 km",
+        "isAdventureSync": true,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm996.icon.png",
+        "canBeShiny": false,
+        "combatPower": {
+            "min": 662,
+            "max": 712
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Larvitar",
+        "eggType": "12 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_246_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 548,
+            "max": 594
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Sandile",
+        "eggType": "12 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_551_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 546,
+            "max": 592
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Pawniard",
+        "eggType": "12 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_624_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 765,
+            "max": 819
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Vullaby",
+        "eggType": "12 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_629_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 675,
+            "max": 726
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Deino",
+        "eggType": "12 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_633_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 560,
+            "max": 606
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Pancham",
+        "eggType": "12 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pokemon_icon_674_00.png",
+        "canBeShiny": true,
+        "combatPower": {
+            "min": 796,
+            "max": 850
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Salandit",
+        "eggType": "12 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm757.icon.png",
+        "canBeShiny": false,
+        "combatPower": {
+            "min": 593,
+            "max": 641
+        },
+        "isRegional": false
+    },
+    {
+        "name": "Varoom",
+        "eggType": "12 km",
+        "isAdventureSync": false,
+        "image": "https://leekduck.com/assets/img/pokemon_icons/pm965.icon.png",
+        "canBeShiny": false,
+        "combatPower": {
+            "min": 603,
+            "max": 650
+        },
+        "isRegional": false
+    }
+]
