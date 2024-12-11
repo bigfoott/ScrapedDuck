@@ -1,0 +1,864 @@
+[
+    {
+        "eventID": "aspiring-dragons-research-day",
+        "name": "Aspiring Dragons Research Day",
+        "eventType": "research-day",
+        "heading": "Research Day",
+        "link": "https://leekduck.com/events/aspiring-dragons-research-day/",
+        "image": "https://leekduck.com/assets/img/events/article-images/2024/2024-12-07-aspiring-dragons-research-day/aspiring-dragons-research-day.jpg",
+        "start": "2024-12-07T14:00:00.000",
+        "end": "2024-12-07T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "just-my-cup-of-tea",
+        "name": "Just My Cup of Tea",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/just-my-cup-of-tea/",
+        "image": "https://leekduck.com/assets/img/events/article-images/2024/2024-12-03-just-my-cup-of-tea/just-my-cup-of-tea.jpg",
+        "start": "2024-12-03T10:00:00.000",
+        "end": "2024-12-07T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "gigantamax-lapras-max-battle-day",
+        "name": "Gigantamax Lapras Max Battle Day",
+        "eventType": "max-battles",
+        "heading": "Max Battles",
+        "link": "https://leekduck.com/events/gigantamax-lapras-max-battle-day/",
+        "image": "https://leekduck.com/assets/img/events/article-images/2024/2024-12-08-gigantamax-lapras-max-battle-day/gigantamax-lapras-max-battle-day.jpg",
+        "start": "2024-12-08T14:00:00.000",
+        "end": "2024-12-08T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-showcase-sinistea-2024-12-07",
+        "name": "Sinistea PokéStop Showcases",
+        "eventType": "pokestop-showcase",
+        "heading": "PokéStop Showcase",
+        "link": "https://leekduck.com/events/pokemon-showcase-sinistea-2024-12-07/",
+        "image": "https://leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+        "start": "2024-12-07T10:00:00.000",
+        "end": "2024-12-08T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2024-12-09",
+        "name": "Dynamax Krabby during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2024-12-09/",
+        "image": "https://leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2024-12-09T18:00:00.000",
+        "end": "2024-12-09T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "december-max-battles-split-1-2024",
+        "name": "Max Battles - December 3 to 9",
+        "eventType": "max-battles",
+        "heading": "Max Battles",
+        "link": "https://leekduck.com/events/december-max-battles-split-1-2024/",
+        "image": "https://leekduck.com/assets/img/events/power-spots-max-battles.jpg",
+        "start": "2024-12-03T06:00:00.000",
+        "end": "2024-12-09T21:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-dual-destiny_great-league_galar-cup-little-edition",
+        "name": "Great League and Fantasy Cup: Great League Edition | Dual Destiny",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-dual-destiny_great-league_galar-cup-little-edition/",
+        "image": "https://leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2024-12-03T21:00:00.000Z",
+        "end": "2024-12-10T21:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2024-12-10",
+        "name": "Murkrow Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2024-12-10/",
+        "image": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2024-12-10T18:00:00.000",
+        "end": "2024-12-10T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Murkrow",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_198_00.png",
+                "bonus": "2× Catch XP",
+                "list": [
+                    {
+                        "name": "Murkrow",
+                        "canBeShiny": true,
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_198_00.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20241211",
+        "name": "Genesect (Chill Drive) Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20241211/",
+        "image": "https://leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2024-12-11T18:00:00.000",
+        "end": "2024-12-11T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "genesect-with-a-chill-drive-in-5-star-raid-battles-december-2024",
+        "name": "Genesect with a Chill Drive in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/genesect-with-a-chill-drive-in-5-star-raid-battles-december-2024/",
+        "image": "https://leekduck.com/assets/img/events/genesect.jpg",
+        "start": "2024-12-03T10:00:00.000",
+        "end": "2024-12-12T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Genesect (Chill)",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_649_15.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Genesect (Chill)",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_649_15_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "mega-banette-in-mega-raids-november-2024",
+        "name": "Mega Banette in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-banette-in-mega-raids-november-2024/",
+        "image": "https://leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2024-12-03T10:00:00.000",
+        "end": "2024-12-12T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Mega Banette",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm354.fMEGA.icon.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Banette",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_354_00_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "necrozma-fusion-raid-day",
+        "name": "Necrozma Fusion Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/necrozma-fusion-raid-day/",
+        "image": "https://leekduck.com/assets/img/events/article-images/2024/2024-12-14-necrozma-fusion-raid-day/necrozma-fusion-raid-day.jpg",
+        "start": "2024-12-14T14:00:00.000",
+        "end": "2024-12-14T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "young-and-wise",
+        "name": "Young &amp; Wise",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/young-and-wise/",
+        "image": "https://leekduck.com/assets/img/events/article-images/2024/2024-12-10-young-and-wise/young-and-wise.jpg",
+        "start": "2024-12-10T10:00:00.000",
+        "end": "2024-12-14T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2024-12-16",
+        "name": "Dynamax Charmander during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2024-12-16/",
+        "image": "https://leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2024-12-16T18:00:00.000",
+        "end": "2024-12-16T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2024-12-17",
+        "name": "Slugma and Bergmite Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2024-12-17/",
+        "image": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2024-12-17T18:00:00.000",
+        "end": "2024-12-17T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Slugma",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00.png",
+                "bonus": "2× Catch Candy",
+                "list": [
+                    {
+                        "name": "Slugma",
+                        "canBeShiny": true,
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_218_00.png"
+                    },
+                    {
+                        "name": "Bergmite",
+                        "canBeShiny": true,
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm712.icon.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20241218",
+        "name": "Mega Latios Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20241218/",
+        "image": "https://leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2024-12-18T18:00:00.000",
+        "end": "2024-12-18T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "mega-latios-mega-raids-december-2024",
+        "name": "Mega Latios in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-latios-mega-raids-december-2024/",
+        "image": "https://leekduck.com/assets/img/events/mega-latios-mega-latias.jpg",
+        "start": "2024-12-12T10:00:00.000",
+        "end": "2024-12-19T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Mega Latios",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm381.fMEGA.icon.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Latios",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_381_00_shiny.png"
+                    },
+                    {
+                        "name": "Mega Latios",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm381.fMEGA.s.icon.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-go-holiday-part-1",
+        "name": "Pokémon GO Holiday: Part 1",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/pokemon-go-holiday-part-1/",
+        "image": "https://leekduck.com/assets/img/events/article-images/2024/2024-12-17-pokemon-go-holiday-part-1/pokemon-go-holiday-part-1.jpg",
+        "start": "2024-12-17T10:00:00.000",
+        "end": "2024-12-22T09:59:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "december-communityday2024",
+        "name": "December Community Day 2024",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/december-communityday2024/",
+        "image": "https://leekduck.com/assets/img/events/article-images/2024/2024-12-21-december-communityday2024/2024-12-december-communityday.jpg",
+        "start": "2024-12-21T14:00:00.000",
+        "end": "2024-12-22T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2024-12-23",
+        "name": "Dynamax Cryogonal during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2024-12-23/",
+        "image": "https://leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2024-12-23T18:00:00.000",
+        "end": "2024-12-23T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "december-max-battles-split-2-2024",
+        "name": "Max Battles - December 9 to 23",
+        "eventType": "max-battles",
+        "heading": "Max Battles",
+        "link": "https://leekduck.com/events/december-max-battles-split-2-2024/",
+        "image": "https://leekduck.com/assets/img/events/power-spots-max-battles.jpg",
+        "start": "2024-12-09T06:00:00.000",
+        "end": "2024-12-23T21:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2024-12-24",
+        "name": "Delibird Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2024-12-24/",
+        "image": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2024-12-24T18:00:00.000",
+        "end": "2024-12-24T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Holiday Delibird",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm225.fWINTER_2020.icon.png",
+                "bonus": "2× Transfer Candy",
+                "list": [
+                    {
+                        "name": "Holiday Delibird",
+                        "canBeShiny": true,
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm225.fWINTER_2020.icon.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20241225",
+        "name": "Mega Latias Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20241225/",
+        "image": "https://leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2024-12-25T18:00:00.000",
+        "end": "2024-12-25T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "mega-latias-mega-raids-december-2024",
+        "name": "Mega Latias in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-latias-mega-raids-december-2024/",
+        "image": "https://leekduck.com/assets/img/events/mega-latios-mega-latias.jpg",
+        "start": "2024-12-19T10:00:00.000",
+        "end": "2024-12-26T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Mega Latias",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm380.fMEGA.icon.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Latias",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_380_00_shiny.png"
+                    },
+                    {
+                        "name": "Mega Latias",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm380.fMEGA.s.icon.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-go-holiday-part-2",
+        "name": "Pokémon GO Holiday: Part 2",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/pokemon-go-holiday-part-2/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2024-12-22T10:00:00.000",
+        "end": "2024-12-27T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "hatch-day-december-2024",
+        "name": "Charged Embers Hatch Day",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/hatch-day-december-2024/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2024-12-29T14:00:00.000",
+        "end": "2024-12-29T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "shadow-regice-in-shadow-raids-dual-destiny",
+        "name": "Shadow Regice in Shadow Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/shadow-regice-in-shadow-raids-dual-destiny/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2024-12-07T06:00:00.000",
+        "end": "2024-12-29T22:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Regice",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Regice",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2024-12-30",
+        "name": "Dynamax Bulbasaur during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2024-12-30/",
+        "image": "https://leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2024-12-30T18:00:00.000",
+        "end": "2024-12-30T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2024-12-31",
+        "name": "Togetic Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2024-12-31/",
+        "image": "https://leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2024-12-31T18:00:00.000",
+        "end": "2024-12-31T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Togetic",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_176_00.png",
+                "bonus": "2× Evolution XP",
+                "list": [
+                    {
+                        "name": "Togetic",
+                        "canBeShiny": true,
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_176_00.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "eggs-pedition-access-december-2024",
+        "name": "Eggs-pedition Access: December",
+        "eventType": "ticketed-event",
+        "heading": "Ticketed Event",
+        "link": "https://leekduck.com/events/eggs-pedition-access-december-2024/",
+        "image": "https://leekduck.com/assets/img/events/article-images/2024/2024-12-03-eggs-pedition-access-december-2024/eggs-pedition-access-december-2024.jpg",
+        "start": "2024-12-03T10:00:00.000",
+        "end": "2024-12-31T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "new-years-2025",
+        "name": "New Year's 2025",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/new-years-2025/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2024-12-30T10:00:00.000",
+        "end": "2025-01-01T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "mega-abomasnow-in-mega-raids-november-2024-copy",
+        "name": "Mega Abomasnow in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-abomasnow-in-mega-raids-november-2024-copy/",
+        "image": "https://leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2024-12-26T10:00:00.000",
+        "end": "2025-01-04T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Mega Abomasnow",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_460_51.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Abomasnow",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_460_00_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "giratina-in-5-star-raid-battles-december-2024",
+        "name": "Giratina in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/giratina-in-5-star-raid-battles-december-2024/",
+        "image": "https://leekduck.com/assets/img/events/giratinaaltered.jpg",
+        "start": "2024-12-26T10:00:00.000",
+        "end": "2025-01-04T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Giratina",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Giratina",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "january-communityday2025",
+        "name": "January Community Day",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/january-communityday2025/",
+        "image": "https://leekduck.com/assets/img/events/cd-default.jpg",
+        "start": "2025-01-05T14:00:00.000",
+        "end": "2025-01-05T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "december-max-battles-split-3-2024",
+        "name": "Max Battles - December 23 to January 6",
+        "eventType": "max-battles",
+        "heading": "Max Battles",
+        "link": "https://leekduck.com/events/december-max-battles-split-3-2024/",
+        "image": "https://leekduck.com/assets/img/events/power-spots-max-battles.jpg",
+        "start": "2024-12-23T06:00:00.000",
+        "end": "2025-01-06T21:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "raid-day-january-2025",
+        "name": "Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/raid-day-january-2025/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2025-01-11T14:00:00.000",
+        "end": "2025-01-11T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "shadow-raid-day-january-2025",
+        "name": "Shadow Raid Day",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/shadow-raid-day-january-2025/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2025-01-19T06:00:00.000",
+        "end": "2025-01-19T22:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [],
+                "shinies": []
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "january-communitydayclassic2025",
+        "name": "January Community Day Classic",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/january-communitydayclassic2025/",
+        "image": "https://leekduck.com/assets/img/events/cd-default.jpg",
+        "start": "2025-01-25T14:00:00.000",
+        "end": "2025-01-25T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "max-battle-day-february-2025",
+        "name": "Max Battle Day",
+        "eventType": "max-battles",
+        "heading": "Max Battles",
+        "link": "https://leekduck.com/events/max-battle-day-february-2025/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2025-02-01T14:00:00.000",
+        "end": "2025-02-01T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "february-communityday2025",
+        "name": "February Community Day",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/february-communityday2025/",
+        "image": "https://leekduck.com/assets/img/events/cd-default.jpg",
+        "start": "2025-02-09T14:00:00.000",
+        "end": "2025-02-09T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "raid-day-february-2025",
+        "name": "Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/raid-day-february-2025/",
+        "image": "https://leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2025-02-15T14:00:00.000",
+        "end": "2025-02-15T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-go-tour-unova-global-2025",
+        "name": "Pokémon GO Tour: Unova - Global",
+        "eventType": "pokemon-go-tour",
+        "heading": "Pokémon GO Tour",
+        "link": "https://leekduck.com/events/pokemon-go-tour-unova-global-2025/",
+        "image": "https://leekduck.com/assets/img/events/article-images/2025/2025-03-01-pokemon-go-tour-unova-global-2025/GOTourUnova2025-Global.jpg",
+        "start": "2025-03-01T10:00:00.000",
+        "end": "2025-03-02T18:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "season-17-dual-destiny",
+        "name": "Dual Destiny",
+        "eventType": "season",
+        "heading": "Season",
+        "link": "https://leekduck.com/events/season-17-dual-destiny/",
+        "image": "https://leekduck.com/assets/img/events/article-images/2024/2024-12-03-season-17-dual-destiny/season-17-dual-destiny.jpg",
+        "start": "2024-12-03T10:00:00.000",
+        "end": "2025-03-04T10:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    }
+]
