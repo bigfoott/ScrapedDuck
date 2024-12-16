@@ -49,7 +49,7 @@ function get()
                             var image = e.querySelector(":scope > .event-item-wrapper > .event-item > .event-img-wrapper > img").src;
                             if (image.includes("cdn-cgi"))
                             {
-                                image = "https://leekduck.com/assets/" + image.split("/assets/")[1];
+                                image = "https://cdn.leekduck.com/assets/" + image.split("/assets/")[1];
                             }
                             var link = e.href;
                             var eventID = link.split("/events/")[1];
