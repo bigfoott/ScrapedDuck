@@ -59,14 +59,14 @@ function get()
                             var eventType = (eventItemWrapper.classList + "").replace("event-item-wrapper ", "");
                             eventType = eventType.replace("é", "e");
 
-                            var start = eventDates[eventID].start;
-                            var end = eventDates[eventID].end;
+                            var start = eventDates[eventID]?.start || null;
+                            var end = eventDates[eventID]?.end || null;
 
-                            if (start.length > 24)
+                            if (start?.length > 24)
                             {
                                 start = "" + new Date(Date.parse(start)).toISOString();
                             }
-                            if (end.length > 24)
+                            if (end?.length > 24)
                             {
                                 end = "" + new Date(Date.parse(end)).toISOString();
                             }
