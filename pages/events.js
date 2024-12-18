@@ -49,7 +49,7 @@ function get()
                             var image = e.querySelector(":scope > .event-item-wrapper > .event-item > .event-img-wrapper > img").src;
                             if (image.includes("cdn-cgi"))
                             {
-                                image = "https://leekduck.com/assets/" + image.split("/assets/")[1];
+                                image = "https://cdn.leekduck.com/assets/" + image.split("/assets/")[1];
                             }
                             var link = e.href;
                             var eventID = link.split("/events/")[1];
@@ -65,14 +65,14 @@ function get()
                             var eventType = (eventItemWrapper.classList + "").replace("event-item-wrapper ", "");
                             eventType = eventType.replace("é", "e");
 
-                            var start = eventDates[eventID].start;
-                            var end = eventDates[eventID].end;
+                            var start = eventDates[eventID]?.start || null;
+                            var end = eventDates[eventID]?.end || null;
 
-                            if (start.length > 24)
+                            if (start?.length > 24)
                             {
                                 start = "" + new Date(Date.parse(start)).toISOString();
                             }
-                            if (end.length > 24)
+                            if (end?.length > 24)
                             {
                                 end = "" + new Date(Date.parse(end)).toISOString();
                             }
