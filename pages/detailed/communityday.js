@@ -76,7 +76,7 @@ function get(url, id, bkp)
 
             if (bonusHasDisclaimer)
             {
-                var bonusTextEle = bonuses[bonuses.length - 1].nextSibling.nextSibling;
+                var bonusTextEle = dom.window.document.querySelector('.bonus-list').nextSibling;
                 while (bonusTextEle.tagName != "H2" && bonusTextEle.nextSibling != null)
                 {
                     if (bonusTextEle.tagName == "P")
