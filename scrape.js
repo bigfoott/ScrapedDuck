@@ -15,4 +15,12 @@ function main()
     eggs.get();
 }
 
-main();
+try
+{
+    main();
+}
+catch (e)
+{
+    console.error("ERROR: " + e);
+    process.exit(1);
+}
