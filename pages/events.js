@@ -54,6 +54,12 @@ function get()
                             var link = e.href;
                             var eventID = link.split("/events/")[1];
                             eventID = eventID.substring(0, eventID.length - 1);
+
+                            if (!(eventID in eventDates))
+                            {
+                                console.log(`ERROR: Event '${eventID}' not present in events feed. Skipping.`);
+                                return;
+                            }
                             
                             var eventItemWrapper = e.querySelector(":scope > .event-item-wrapper");
                             var eventType = (eventItemWrapper.classList + "").replace("event-item-wrapper ", "");
