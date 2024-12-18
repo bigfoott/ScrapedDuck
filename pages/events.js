@@ -57,8 +57,7 @@ function get()
 
                             if (!(eventID in eventDates))
                             {
-                                console.log(`ERROR: Event '${eventID}' not present in events feed. Skipping.`);
-                                return;
+                                console.warn(`WARNING: Event '${eventID}' not present in events feed. Date values will be null.`);
                             }
                             
                             var eventItemWrapper = e.querySelector(":scope > .event-item-wrapper");
