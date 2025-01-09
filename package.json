@@ -11,6 +11,7 @@
   "author": "bigfoott",
   "license": "MIT",
   "dependencies": {
+    "ical-generator": "^8.0.1",
     "jsdom": "21.1.1",
     "moment": "latest"
   }
