@@ -1,4 +1,5 @@
 const fs = require('fs');
+const ical = require('ical-generator');
 
 function main()
 {
@@ -71,10 +72,73 @@ function main()
             }
         });
 
+        generateCalendars(events);
+
         fs.rm("files/temp", { recursive: true }, (err) => {
             if (err) { throw err; }
         });
     });
+}
+
+function generateCalendars(events) {
+    const leekDuckFavIconUrl = "https://leekduck.com/assets/img/favicon/favicon-16x16.png";
+    const generatorName = "ScrapedDuck";
+    const generatorUrl = "https://github.com/bigfoott/ScrapedDuck";
+    const icalMeta = [
+        ["x-origin", "https://leekduck.com/events/"],
+        ["x-generator", generatorName],
+        ["x-generator-url", generatorUrl],
+    ];
+
+    const icals = new Map();
+    icals.set("all", ical.default({ name: "Pokémon Go — All Events", description: "All Pokémon Go events.", x: icalMeta }));
+
+    events.forEach(e => {
+
+        if (!icals.has(e.eventType)) {
+            icals.set(e.eventType, ical.default({ name: `Pokémon Go — ${e.heading}`, description: `Pokémon Go ${e.heading} events.`, x: icalMeta }));
+        }
+
+        const calAll = icals.get("all");
+        const calType = icals.get(e.eventType);
+
+        const calEventTitle = `${e.heading} — ${e.name}`
+        const calEvent = {
+            start: e.start,
+            end: e.end,
+            id: `scraped-duck-${e.eventID}`,
+            summary: calEventTitle,
+            description: `<a href="${e.link}">${e.name}</a>`,
+            categories: [{ name: e.heading }],
+            url: e.link,
+            organizer: { name: "LeekDuck c/o ScrapedDuck" },
+            x: [
+                ["IMAGE", e.image],
+                ["X-GOOGLE-CALENDAR-CONTENT-TITLE", calEventTitle],
+                ["X-GOOGLE-CALENDAR-CONTENT-ICON", leekDuckFavIconUrl],
+                ["X-GOOGLE-CALENDAR-CONTENT-URL", e.image],
+                ["X-GOOGLE-CALENDAR-CONTENT-TYPE", "image/*"],
+            ],
+        };
+
+        calAll.createEvent(calEvent);
+        calType.createEvent(calEvent);
+    });
+
+
+    if (!fs.existsSync('files/calendars'))
+        fs.mkdirSync('files/calendars');
+
+    for (const [key, cal] of icals) {
+        cal.prodId({ company: generatorName, product: "Scraped LeekDuck Events", language: "EN" })
+
+        fs.writeFile(`files/calendars/${key}.ics`, cal.toString(), err => {
+            if (err) {
+                console.error(err);
+                return;
+            }
+        });
+    }
 }
 
 try
