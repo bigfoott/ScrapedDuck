@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Season
+X-WR-CALNAME:Pokémon Go — Season
+X-WR-CALDESC:Pokémon Go Season events.
+BEGIN:VEVENT
+UID:scraped-duck-season-17-dual-destiny
+SEQUENCE:0
+DTSTAMP:20250125T081543Z
+DTSTART:20241203T100000Z
+DTEND:20250304T100000Z
+SUMMARY:Season — Dual Destiny
+DESCRIPTION:<a href="https://leekduck.com/events/season-17-dual-destiny/">
+ Dual Destiny</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Season
+URL;VALUE=URI:https://leekduck.com/events/season-17-dual-destiny/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2024/2024-
+ 12-03-season-17-dual-destiny/season-17-dual-destiny.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Season — Dual Destiny
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2024/2024-12-03-season-17-dual-destiny/season-17-dual-destin
+ y.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

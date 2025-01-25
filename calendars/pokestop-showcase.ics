@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — PokéStop Showcase
+X-WR-CALNAME:Pokémon Go — PokéStop Showcase
+X-WR-CALDESC:Pokémon Go PokéStop Showcase events.
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-showcase-ralts-gardevoir-2025-01-25
+SEQUENCE:0
+DTSTAMP:20250125T081543Z
+DTSTART:20250125T100000Z
+DTEND:20250126T200000Z
+SUMMARY:PokéStop Showcase — Ralts and Gardevoir PokéStop Showcases
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-showcase-ralts-ga
+ rdevoir-2025-01-25/">Ralts and Gardevoir PokéStop Showcases</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:PokéStop Showcase
+URL;VALUE=URI:https://leekduck.com/events/pokemon-showcase-ralts-gardevoir
+ -2025-01-25/
+IMAGE:https://cdn.leekduck.com/assets/img/events/pokestop-showcases-defaul
+ t.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:PokéStop Showcase — Ralts and Gardevoir
+  PokéStop Showcases
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ okestop-showcases-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

@@ -1,0 +1,164 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — GO Battle League
+X-WR-CALNAME:Pokémon Go — GO Battle League
+X-WR-CALDESC:Pokémon Go GO Battle League events.
+BEGIN:VEVENT
+UID:scraped-duck-gbl-dual-destiny_great-league_ultra-league_master-league-
+ split-2
+SEQUENCE:0
+DTSTAMP:20250125T081543Z
+DTSTART:20250121T210000Z
+DTEND:20250128T210000Z
+SUMMARY:GO Battle League — Great League\, Ultra League\, and Master Leag
+ ue | Dual Destiny
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-dual-destiny_great-le
+ ague_ultra-league_master-league-split-2/">Great League\, Ultra League\, an
+ d Master League | Dual Destiny</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-dual-destiny_great-league_ul
+ tra-league_master-league-split-2/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 1-dual-destiny.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League\, and Master League | Dual Destiny
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-21-dual-destiny.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-dual-destiny_great-league_jungle-cup-little-edition
+SEQUENCE:0
+DTSTAMP:20250125T081543Z
+DTSTART:20250128T210000Z
+DTEND:20250204T210000Z
+SUMMARY:GO Battle League — Great League and Jungle Cup: Little Edition |
+  Dual Destiny
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-dual-destiny_great-le
+ ague_jungle-cup-little-edition/">Great League and Jungle Cup: Little Editi
+ on | Dual Destiny</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-dual-destiny_great-league_ju
+ ngle-cup-little-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League and Jung
+ le Cup: Little Edition | Dual Destiny
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-dual-destiny_ultra-league_love-cup-great-league-editi
+ on
+SEQUENCE:0
+DTSTAMP:20250125T081543Z
+DTSTART:20250204T210000Z
+DTEND:20250211T210000Z
+SUMMARY:GO Battle League — Ultra League and Love Cup: Great League Editi
+ on | Dual Destiny
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-dual-destiny_ultra-le
+ ague_love-cup-great-league-edition/">Ultra League and Love Cup: Great Leag
+ ue Edition | Dual Destiny</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-dual-destiny_ultra-league_lo
+ ve-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-le
+ ague-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Ultra League and Love
+  Cup: Great League Edition | Dual Destiny
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-ultra-league-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-dual-destiny_master-league_love-cup-great-league-edit
+ ion
+SEQUENCE:0
+DTSTAMP:20250125T081543Z
+DTSTART:20250211T210000Z
+DTEND:20250218T210000Z
+SUMMARY:GO Battle League — Master League and Love Cup: Great League Edit
+ ion | Dual Destiny
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-dual-destiny_master-l
+ eague_love-cup-great-league-edition/">Master League and Love Cup: Great Le
+ ague Edition | Dual Destiny</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-dual-destiny_master-league_l
+ ove-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Master League and Lov
+ e Cup: Great League Edition | Dual Destiny
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-dual-destiny_great-league_ultra-league_master-league-
+ split-3
+SEQUENCE:0
+DTSTAMP:20250125T081543Z
+DTSTART:20250218T210000Z
+DTEND:20250225T210000Z
+SUMMARY:GO Battle League — Great League\, Ultra League\, and Master Leag
+ ue | Dual Destiny
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-dual-destiny_great-le
+ ague_ultra-league_master-league-split-3/">Great League\, Ultra League\, an
+ d Master League | Dual Destiny</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-dual-destiny_great-league_ul
+ tra-league_master-league-split-3/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 1-dual-destiny.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League\, and Master League | Dual Destiny
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-21-dual-destiny.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-dual-destiny_great-league_master-league-mega-edition
+SEQUENCE:0
+DTSTAMP:20250125T081543Z
+DTSTART:20250225T210000Z
+DTEND:20250304T210000Z
+SUMMARY:GO Battle League — Great League and Master League: Mega Edition 
+ | Dual Destiny
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-dual-destiny_great-le
+ ague_master-league-mega-edition/">Great League and Master League: Mega Edi
+ tion | Dual Destiny</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-dual-destiny_great-league_ma
+ ster-league-mega-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League and Mast
+ er League: Mega Edition | Dual Destiny
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

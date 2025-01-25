@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Pokémon GO Tour
+X-WR-CALNAME:Pokémon Go — Pokémon GO Tour
+X-WR-CALDESC:Pokémon Go Pokémon GO Tour events.
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-tour-unova-global-2025
+SEQUENCE:0
+DTSTAMP:20250125T081543Z
+DTSTART:20250301T100000Z
+DTEND:20250302T180000Z
+SUMMARY:Pokémon GO Tour — Pokémon GO Tour: Unova - Global
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-tour-unova-glo
+ bal-2025/">Pokémon GO Tour: Unova - Global</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Pokémon GO Tour
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-tour-unova-global-202
+ 5/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 03-01-pokemon-go-tour-unova-global-2025/GOTourUnova2025-Global.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Pokémon GO Tour — Pokémon GO Tour: Uno
+ va - Global
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-03-01-pokemon-go-tour-unova-global-2025/GOTourUnov
+ a2025-Global.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

@@ -1,0 +1,154 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Event
+X-WR-CALNAME:Pokémon Go — Event
+X-WR-CALDESC:Pokémon Go Event events.
+BEGIN:VEVENT
+UID:scraped-duck-steeled-resolve
+SEQUENCE:0
+DTSTAMP:20250125T081543Z
+DTSTART:20250121T100000Z
+DTEND:20250126T200000Z
+SUMMARY:Event — Steeled Resolve
+DESCRIPTION:<a href="https://leekduck.com/events/steeled-resolve/">Steeled
+  Resolve</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/steeled-resolve/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 01-21-steeled-resolve/steeled-resolve.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Steeled Resolve
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-01-21-steeled-resolve/steeled-resolve.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-go-battle-week-dual-destiny
+SEQUENCE:0
+DTSTAMP:20250125T081543Z
+DTSTART:20250121T000000Z
+DTEND:20250126T235900Z
+SUMMARY:Event — GO Battle Week: Dual Destiny
+DESCRIPTION:<a href="https://leekduck.com/events/go-battle-week-dual-desti
+ ny/">GO Battle Week: Dual Destiny</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/go-battle-week-dual-destiny/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 1-dual-destiny.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — GO Battle Week: Dual Destiny
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-21-dual-destiny.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-lunar-new-year-2025
+SEQUENCE:0
+DTSTAMP:20250125T081543Z
+DTSTART:20250129T100000Z
+DTEND:20250202T200000Z
+SUMMARY:Event — Lunar New Year 2025
+DESCRIPTION:<a href="https://leekduck.com/events/lunar-new-year-2025/">Lun
+ ar New Year 2025</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/lunar-new-year-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 01-29-lunar-new-year-2025/lunar-new-year-2025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Lunar New Year 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-01-29-lunar-new-year-2025/lunar-new-year-2025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-small-yet-strong
+SEQUENCE:0
+DTSTAMP:20250125T081543Z
+DTSTART:20250205T100000Z
+DTEND:20250208T200000Z
+SUMMARY:Event — Small Yet Strong
+DESCRIPTION:<a href="https://leekduck.com/events/small-yet-strong/">Small 
+ Yet Strong</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/small-yet-strong/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Small Yet Strong
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-beloved-buddies
+SEQUENCE:0
+DTSTAMP:20250125T081543Z
+DTSTART:20250211T100000Z
+DTEND:20250215T200000Z
+SUMMARY:Event — Beloved Buddies
+DESCRIPTION:<a href="https://leekduck.com/events/beloved-buddies/">Beloved
+  Buddies</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/beloved-buddies/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Beloved Buddies
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-scattered-to-the-winds
+SEQUENCE:0
+DTSTAMP:20250125T081543Z
+DTSTART:20250218T100000Z
+DTEND:20250220T200000Z
+SUMMARY:Event — Scattered to the Winds
+DESCRIPTION:<a href="https://leekduck.com/events/scattered-to-the-winds/">
+ Scattered to the Winds</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/scattered-to-the-winds/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Scattered to the Winds
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-road-to-unova
+SEQUENCE:0
+DTSTAMP:20250125T081543Z
+DTSTART:20250224T100000Z
+DTEND:20250301T200000Z
+SUMMARY:Event — Road to Unova
+DESCRIPTION:<a href="https://leekduck.com/events/road-to-unova/">Road to U
+ nova</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/road-to-unova/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 02-24-road-to-unova/road-to-unova.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Road to Unova
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-02-24-road-to-unova/road-to-unova.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
