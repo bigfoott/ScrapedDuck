@@ -102,10 +102,14 @@ function generateCalendars(events) {
         const calAll = icals.get("all");
         const calType = icals.get(e.eventType);
 
+        // ensure the timestamps are all in zulu time
+        const startZulu = new Date(e.start).toISOString();
+        const endZulu = new Date(e.end).toISOString();
         const calEventTitle = `${e.heading} — ${e.name}`
+
         const calEvent = {
-            start: e.start,
-            end: e.end,
+            start: startZulu,
+            end: endZulu,
             id: `scraped-duck-${e.eventID}`,
             summary: calEventTitle,
             description: `<a href="${e.link}">${e.name}</a>`,
