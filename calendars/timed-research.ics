@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Timed Research
+X-WR-CALNAME:Pokémon Go — Timed Research
+X-WR-CALDESC:Pokémon Go Timed Research events.
+BEGIN:VEVENT
+UID:scraped-duck-legendary-flight-lead-up-timed-research-for-zapdos
+SEQUENCE:0
+DTSTAMP:20250128T154147Z
+DTSTART:20250124T100000Z
+DTEND:20250127T190000Z
+SUMMARY:Timed Research — Legendary Flight Lead-Up Timed Research for Zap
+ dos
+DESCRIPTION:<a href="https://leekduck.com/events/legendary-flight-lead-up-
+ timed-research-for-zapdos/">Legendary Flight Lead-Up Timed Research for Za
+ pdos</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Timed Research
+URL;VALUE=URI:https://leekduck.com/events/legendary-flight-lead-up-timed-r
+ esearch-for-zapdos/
+IMAGE:https://cdn.leekduck.com/assets/img/events/dynamax-zapdos.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Timed Research — Legendary Flight Lead-U
+ p Timed Research for Zapdos
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/d
+ ynamax-zapdos.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
