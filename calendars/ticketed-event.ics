@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Ticketed Event
+X-WR-CALNAME:Pokémon Go — Ticketed Event
+X-WR-CALDESC:Pokémon Go Ticketed Event events.
+BEGIN:VEVENT
+UID:scraped-duck-eggs-pedition-access-february-2025
+SEQUENCE:0
+DTSTAMP:20250216T172435Z
+DTSTART:20250201T100000Z
+DTEND:20250228T200000Z
+SUMMARY:Ticketed Event — Eggs-pedition Access: February
+DESCRIPTION:<a href="https://leekduck.com/events/eggs-pedition-access-febr
+ uary-2025/">Eggs-pedition Access: February</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Ticketed Event
+URL;VALUE=URI:https://leekduck.com/events/eggs-pedition-access-february-20
+ 25/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 02-01-eggs-pedition-access-february-2025/eggs-pedition-access-february.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Ticketed Event — Eggs-pedition Access: F
+ ebruary
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-02-01-eggs-pedition-access-february-2025/eggs-pedi
+ tion-access-february.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

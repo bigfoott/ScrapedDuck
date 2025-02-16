@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Event
+X-WR-CALNAME:Pokémon Go — Event
+X-WR-CALDESC:Pokémon Go Event events.
+BEGIN:VEVENT
+UID:scraped-duck-beloved-buddies
+SEQUENCE:0
+DTSTAMP:20250216T172435Z
+DTSTART:20250211T100000Z
+DTEND:20250215T200000Z
+SUMMARY:Event — Beloved Buddies
+DESCRIPTION:<a href="https://leekduck.com/events/beloved-buddies/">Beloved
+  Buddies</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/beloved-buddies/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 02-11-beloved-buddies/beloved-buddies.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Beloved Buddies
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-02-11-beloved-buddies/beloved-buddies.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-scattered-to-the-winds
+SEQUENCE:0
+DTSTAMP:20250216T172435Z
+DTSTART:20250218T100000Z
+DTEND:20250220T200000Z
+SUMMARY:Event — Scattered to the Winds
+DESCRIPTION:<a href="https://leekduck.com/events/scattered-to-the-winds/">
+ Scattered to the Winds</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/scattered-to-the-winds/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 02-18-scattered-to-the-winds/scattered-to-the-winds.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Scattered to the Winds
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-02-18-scattered-to-the-winds/scattered-to-the-wind
+ s.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-road-to-unova
+SEQUENCE:0
+DTSTAMP:20250216T172435Z
+DTSTART:20250224T100000Z
+DTEND:20250301T200000Z
+SUMMARY:Event — Road to Unova
+DESCRIPTION:<a href="https://leekduck.com/events/road-to-unova/">Road to U
+ nova</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/road-to-unova/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 02-24-road-to-unova/road-to-unova.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Road to Unova
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-02-24-road-to-unova/road-to-unova.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-catch-mastery-march-2025
+SEQUENCE:0
+DTSTAMP:20250216T172435Z
+DTSTART:20250316T100000Z
+DTEND:20250316T200000Z
+SUMMARY:Event — Catch Mastery March 2025
+DESCRIPTION:<a href="https://leekduck.com/events/catch-mastery-march-2025/
+ ">Catch Mastery March 2025</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/catch-mastery-march-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Catch Mastery March 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-hatch-day-april-2025
+SEQUENCE:0
+DTSTAMP:20250216T172435Z
+DTSTART:20250406T140000Z
+DTEND:20250406T170000Z
+SUMMARY:Event — Hatch Day April 2025
+DESCRIPTION:<a href="https://leekduck.com/events/hatch-day-april-2025/">Ha
+ tch Day April 2025</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/hatch-day-april-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Hatch Day April 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
