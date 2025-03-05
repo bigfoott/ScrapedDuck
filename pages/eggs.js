@@ -21,6 +21,7 @@ function get()
                 {
                     currentType = c.innerHTML.trim();
                     currentAdventureSync = currentType.includes("(Adventure Sync Rewards)");
+                    currentGiftExchange = currentType.includes("(From Route Gift)");
                     currentType = currentType.split(" Eggs")[0];
                 }
                 else if (c.className == "egg-list-flex")
@@ -37,7 +38,8 @@ function get()
                                 min: -1,
                                 max: -1
                             },
-                            isRegional: false
+                            isRegional: false,
+                            isGiftExchange: false
                         };
 
                         pokemon.name = e.querySelector(":scope > .hatch-pkmn").innerHTML;
@@ -46,6 +48,7 @@ function get()
                         pokemon.image = e.querySelector(":scope > .egg-list-img > img").src;
                         pokemon.canBeShiny = e.querySelector(":scope > .shiny-icon") != null;
                         pokemon.isRegional = e.querySelector(":scope > .regional-icon") != null;
+                        pokemon.isGiftExchange = currentGiftExchange;
 
                         var combatPower = e.querySelector(":scope > .font-size-smaller").innerHTML.split('</span>')[1];
                         pokemon.combatPower.min = parseInt(combatPower.split(' - ')[0]);
