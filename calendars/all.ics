@@ -1,0 +1,1377 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — All Events
+X-WR-CALNAME:Pokémon Go — All Events
+X-WR-CALDESC:All Pokémon Go events.
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-showcase-fuecoco-skeledirge-2025-03-08
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250308T100000Z
+DTEND:20250309T200000Z
+SUMMARY:PokéStop Showcase — Fuecoco and Skeledirge PokéStop Showcases
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-showcase-fuecoco-
+ skeledirge-2025-03-08/">Fuecoco and Skeledirge PokéStop Showcases</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:PokéStop Showcase
+URL;VALUE=URI:https://leekduck.com/events/pokemon-showcase-fuecoco-skeledi
+ rge-2025-03-08/
+IMAGE:https://cdn.leekduck.com/assets/img/events/pokestop-showcases-defaul
+ t.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:PokéStop Showcase — Fuecoco and Skeledi
+ rge PokéStop Showcases
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ okestop-showcases-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gigantamax-venusaur-gigantamax-charizard-gigantamax-blast
+ oise-return-to-max-battles
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250308T060000Z
+DTEND:20250309T210000Z
+SUMMARY:Max Battles — Gigantamax Venusaur\, Gigantamax Charizard\, and G
+ igantamax Blastoise in Max Battles
+DESCRIPTION:<a href="https://leekduck.com/events/gigantamax-venusaur-gigan
+ tamax-charizard-gigantamax-blastoise-return-to-max-battles/">Gigantamax Ve
+ nusaur\, Gigantamax Charizard\, and Gigantamax Blastoise in Max Battles</a
+ >
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/gigantamax-venusaur-gigantamax-c
+ harizard-gigantamax-blastoise-return-to-max-battles/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-bigger-gigantamax.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Gigantamax Venusaur\, Giga
+ ntamax Charizard\, and Gigantamax Blastoise in Max Battles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-bigger-gigantamax.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2025-03-10
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250310T180000Z
+DTEND:20250310T190000Z
+SUMMARY:Max Mondays — Dynamax Drilbur during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2025-03-10/">
+ Dynamax Drilbur during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2025-03-10/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Drilbur during Max
+  Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-powerful-potential
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250305T100000Z
+DTEND:20250310T200000Z
+SUMMARY:Event — Powerful Potential
+DESCRIPTION:<a href="https://leekduck.com/events/powerful-potential/">Powe
+ rful Potential</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/powerful-potential/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 03-05-powerful-potential/powerful-potential.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Powerful Potential
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-03-05-powerful-potential/powerful-potential.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-march-max-battles-split-1-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250303T210000Z
+DTEND:20250310T210000Z
+SUMMARY:Max Battles — Max Battles - March 3 to March 10
+DESCRIPTION:<a href="https://leekduck.com/events/march-max-battles-split-1
+ -2025/">Max Battles - March 3 to March 10</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/march-max-battles-split-1-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/power-spots-max-battles.j
+ pg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Max Battles - March 3 to M
+ arch 10
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ ower-spots-max-battles.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_great-league_willpower-cup-great-le
+ ague-edition
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250304T200000Z
+DTEND:20250311T200000Z
+SUMMARY:GO Battle League — Great League and Willpower Cup: Great League 
+ Edition | Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_gre
+ at-league_willpower-cup-great-league-edition/">Great League and Willpower 
+ Cup: Great League Edition | Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_great-leag
+ ue_willpower-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League and Will
+ power Cup: Great League Edition | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemonspotlighthour2025-03-11
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250311T180000Z
+DTEND:20250311T190000Z
+SUMMARY:Pokémon Spotlight Hour — Roselia Spotlight Hour
+DESCRIPTION:<a href="https://leekduck.com/events/pokemonspotlighthour2025-
+ 03-11/">Roselia Spotlight Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Pokémon Spotlight Hour
+URL;VALUE=URI:https://leekduck.com/events/pokemonspotlighthour2025-03-11/
+IMAGE:https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Pokémon Spotlight Hour — Roselia Spotli
+ ght Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ okemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-showcase-charcadet-2025-03-10
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250310T100000Z
+DTEND:20250311T200000Z
+SUMMARY:PokéStop Showcase — Charcadet PokéStop Showcases
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-showcase-charcade
+ t-2025-03-10/">Charcadet PokéStop Showcases</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:PokéStop Showcase
+URL;VALUE=URI:https://leekduck.com/events/pokemon-showcase-charcadet-2025-
+ 03-10/
+IMAGE:https://cdn.leekduck.com/assets/img/events/pokestop-showcases-defaul
+ t.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:PokéStop Showcase — Charcadet PokéStop
+  Showcases
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ okestop-showcases-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raidhour20250312
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250312T180000Z
+DTEND:20250312T190000Z
+SUMMARY:Raid Hour — Articuno\, Zapdos\, and Moltres Raid Hour
+DESCRIPTION:<a href="https://leekduck.com/events/raidhour20250312/">Articu
+ no\, Zapdos\, and Moltres Raid Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Hour
+URL;VALUE=URI:https://leekduck.com/events/raidhour20250312/
+IMAGE:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Hour — Articuno\, Zapdos\, and Molt
+ res Raid Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ aidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-lucario-in-mega-raids-march-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250304T100000Z
+DTEND:20250313T100000Z
+SUMMARY:Raid Battles — Mega Lucario in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-lucario-in-mega-raid
+ s-march-2025/">Mega Lucario in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-lucario-in-mega-raids-march
+ -2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Lucario in Mega Raid
+ s
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-articuno-zapdos-moltres-in-5-star-raid-battles-march-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250304T100000Z
+DTEND:20250313T100000Z
+SUMMARY:Raid Battles — Articuno\, Zapdos\, and Moltres in 5-star Raid Ba
+ ttles
+DESCRIPTION:<a href="https://leekduck.com/events/articuno-zapdos-moltres-i
+ n-5-star-raid-battles-march-2025/">Articuno\, Zapdos\, and Moltres in 5-st
+ ar Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/articuno-zapdos-moltres-in-5-sta
+ r-raid-battles-march-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/kanto-raid-day-2021-artic
+ uno-zapdos-moltres.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Articuno\, Zapdos\, and M
+ oltres in 5-star Raid Battles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/k
+ anto-raid-day-2021-articuno-zapdos-moltres.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-catch-mastery-archen
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250316T100000Z
+DTEND:20250316T200000Z
+SUMMARY:Event — Catch Mastery: Archen
+DESCRIPTION:<a href="https://leekduck.com/events/catch-mastery-archen/">Ca
+ tch Mastery: Archen</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/catch-mastery-archen/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Catch Mastery: Archen
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-dynamax-raikou-max-battle-weekend-timed-research
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250310T060000Z
+DTEND:20250316T210000Z
+SUMMARY:Research — Dynamax Raikou Max Battle Weekend Timed Research
+DESCRIPTION:<a href="https://leekduck.com/events/dynamax-raikou-max-battle
+ -weekend-timed-research/">Dynamax Raikou Max Battle Weekend Timed Research
+ </a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Research
+URL;VALUE=URI:https://leekduck.com/events/dynamax-raikou-max-battle-weeken
+ d-timed-research/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 03-10-dynamax-raikou-max-battle-weekend-timed-research/dynamax-raikou.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Research — Dynamax Raikou Max Battle Wee
+ kend Timed Research
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-03-10-dynamax-raikou-max-battle-weekend-timed-rese
+ arch/dynamax-raikou.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-dynamax-raikou-max-battle-weekend
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250315T060000Z
+DTEND:20250316T210000Z
+SUMMARY:Max Battles — Dynamax Raikou Max Battle Weekend
+DESCRIPTION:<a href="https://leekduck.com/events/dynamax-raikou-max-battle
+ -weekend/">Dynamax Raikou Max Battle Weekend</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/dynamax-raikou-max-battle-weeken
+ d/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 03-15-dynamax-raikou-max-battle-weekend/dynamax-raikou.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Dynamax Raikou Max Battle 
+ Weekend
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-03-15-dynamax-raikou-max-battle-weekend/dynamax-ra
+ ikou.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2025-03-17
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250317T180000Z
+DTEND:20250317T190000Z
+SUMMARY:Max Mondays — Dynamax Chansey during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2025-03-17/">
+ Dynamax Chansey during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2025-03-17/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Chansey during Max
+  Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-festival-of-colors-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250313T100000Z
+DTEND:20250317T200000Z
+SUMMARY:Event — Festival of Colors 2025
+DESCRIPTION:<a href="https://leekduck.com/events/festival-of-colors-2025/"
+ >Festival of Colors 2025</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/festival-of-colors-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 03-13-festival-of-colors-2025/festival-of-colors-2025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Festival of Colors 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-03-13-festival-of-colors-2025/festival-of-colors-2
+ 025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-march-max-battles-split-2-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250310T210000Z
+DTEND:20250317T210000Z
+SUMMARY:Max Battles — Max Battles - March 10 to March 17
+DESCRIPTION:<a href="https://leekduck.com/events/march-max-battles-split-2
+ -2025/">Max Battles - March 10 to March 17</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/march-max-battles-split-2-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/power-spots-max-battles.j
+ pg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Max Battles - March 10 to 
+ March 17
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ ower-spots-max-battles.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_ultra-league_scroll-cup-great-leagu
+ e-edition
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250311T200000Z
+DTEND:20250318T200000Z
+SUMMARY:GO Battle League — Ultra League and Scroll Cup: Great League Edi
+ tion | Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_ult
+ ra-league_scroll-cup-great-league-edition/">Ultra League and Scroll Cup: G
+ reat League Edition | Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_ultra-leag
+ ue_scroll-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-le
+ ague-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Ultra League and Scro
+ ll Cup: Great League Edition | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-ultra-league-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemonspotlighthour2025-03-18
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250318T180000Z
+DTEND:20250318T190000Z
+SUMMARY:Pokémon Spotlight Hour — Shellder Spotlight Hour
+DESCRIPTION:<a href="https://leekduck.com/events/pokemonspotlighthour2025-
+ 03-18/">Shellder Spotlight Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Pokémon Spotlight Hour
+URL;VALUE=URI:https://leekduck.com/events/pokemonspotlighthour2025-03-18/
+IMAGE:https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Pokémon Spotlight Hour — Shellder Spotl
+ ight Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ okemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raidhour20250319
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250319T180000Z
+DTEND:20250319T190000Z
+SUMMARY:Raid Hour — Tapu Koko Raid Hour
+DESCRIPTION:<a href="https://leekduck.com/events/raidhour20250319/">Tapu K
+ oko Raid Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Hour
+URL;VALUE=URI:https://leekduck.com/events/raidhour20250319/
+IMAGE:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Hour — Tapu Koko Raid Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ aidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-swampert-in-mega-raids-march-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250313T100000Z
+DTEND:20250322T100000Z
+SUMMARY:Raid Battles — Mega Swampert in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-swampert-in-mega-rai
+ ds-march-2025/">Mega Swampert in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-swampert-in-mega-raids-marc
+ h-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Swampert in Mega Rai
+ ds
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-tapu-koko-in-5-star-raid-battles-march-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250313T100000Z
+DTEND:20250322T100000Z
+SUMMARY:Raid Battles — Tapu Koko in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/tapu-koko-in-5-star-raid-
+ battles-march-2025/">Tapu Koko in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/tapu-koko-in-5-star-raid-battles
+ -march-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/tapu-koko.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Tapu Koko in 5-star Raid 
+ Battles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/t
+ apu-koko.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-march-communitydayclassic2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250322T140000Z
+DTEND:20250322T170000Z
+SUMMARY:Community Day — Totodile Community Day Classic
+DESCRIPTION:<a href="https://leekduck.com/events/march-communitydayclassic
+ 2025/">Totodile Community Day Classic</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Community Day
+URL;VALUE=URI:https://leekduck.com/events/march-communitydayclassic2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 03-22-march-communitydayclassic2025/totodile-cd-classic.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Community Day — Totodile Community Day C
+ lassic
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-03-22-march-communitydayclassic2025/totodile-cd-cl
+ assic.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-absol-raid-day
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250323T140000Z
+DTEND:20250323T170000Z
+SUMMARY:Raid Day — Mega Absol Raid Day
+DESCRIPTION:<a href="https://leekduck.com/events/mega-absol-raid-day/">Meg
+ a Absol Raid Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/mega-absol-raid-day/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 03-23-mega-absol-raid-day/mega-absol-raid-day.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Mega Absol Raid Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-03-23-mega-absol-raid-day/mega-absol-raid-day.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2025-03-24
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250324T180000Z
+DTEND:20250324T190000Z
+SUMMARY:Max Mondays — Dynamax Caterpie during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2025-03-24/">
+ Dynamax Caterpie during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2025-03-24/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Caterpie during Ma
+ x Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-deep-depths
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250319T100000Z
+DTEND:20250324T200000Z
+SUMMARY:Event — Deep Depths
+DESCRIPTION:<a href="https://leekduck.com/events/deep-depths/">Deep Depths
+ </a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/deep-depths/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 03-16-deep-depths/deep-depths.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Deep Depths
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-03-16-deep-depths/deep-depths.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-march-max-battles-split-3-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250317T210000Z
+DTEND:20250324T210000Z
+SUMMARY:Max Battles — Max Battles - March 17 to March 24
+DESCRIPTION:<a href="https://leekduck.com/events/march-max-battles-split-3
+ -2025/">Max Battles - March 17 to March 24</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/march-max-battles-split-3-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/power-spots-max-battles.j
+ pg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Max Battles - March 17 to 
+ March 24
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ ower-spots-max-battles.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_master-league_scroll-cup-great-leag
+ ue-edition
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250318T200000Z
+DTEND:20250325T200000Z
+SUMMARY:GO Battle League — Master League and Scroll Cup: Great League Ed
+ ition | Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_mas
+ ter-league_scroll-cup-great-league-edition/">Master League and Scroll Cup:
+  Great League Edition | Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_master-lea
+ gue_scroll-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Master League and Scr
+ oll Cup: Great League Edition | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemonspotlighthour2025-03-25
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250325T180000Z
+DTEND:20250325T190000Z
+SUMMARY:Pokémon Spotlight Hour — Cutiefly Spotlight Hour
+DESCRIPTION:<a href="https://leekduck.com/events/pokemonspotlighthour2025-
+ 03-25/">Cutiefly Spotlight Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Pokémon Spotlight Hour
+URL;VALUE=URI:https://leekduck.com/events/pokemonspotlighthour2025-03-25/
+IMAGE:https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Pokémon Spotlight Hour — Cutiefly Spotl
+ ight Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ okemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raidhour20250326
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250326T180000Z
+DTEND:20250326T190000Z
+SUMMARY:Raid Hour — Heatran Raid Hour
+DESCRIPTION:<a href="https://leekduck.com/events/raidhour20250326/">Heatra
+ n Raid Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Hour
+URL;VALUE=URI:https://leekduck.com/events/raidhour20250326/
+IMAGE:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Hour — Heatran Raid Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ aidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-fuzzy-buddy-research-day
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250329T140000Z
+DTEND:20250329T170000Z
+SUMMARY:Research Day — Fuzzy Buddy Research Day
+DESCRIPTION:<a href="https://leekduck.com/events/fuzzy-buddy-research-day/
+ ">Fuzzy Buddy Research Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Research Day
+URL;VALUE=URI:https://leekduck.com/events/fuzzy-buddy-research-day/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Research Day — Fuzzy Buddy Research Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-masterwork-research-a-dazzling-aria
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250221T100000Z
+DTEND:20250330T200000Z
+SUMMARY:Research — Masterwork Research: A Dazzling Aria
+DESCRIPTION:<a href="https://leekduck.com/events/masterwork-research-a-daz
+ zling-aria/">Masterwork Research: A Dazzling Aria</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Research
+URL;VALUE=URI:https://leekduck.com/events/masterwork-research-a-dazzling-a
+ ria/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 02-21-masterwork-research-a-dazzling-aria/shiny-meloetta.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Research — Masterwork Research: A Dazzli
+ ng Aria
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-02-21-masterwork-research-a-dazzling-aria/shiny-me
+ loetta.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-bug-out
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250326T100000Z
+DTEND:20250330T200000Z
+SUMMARY:Event — Bug Out
+DESCRIPTION:<a href="https://leekduck.com/events/bug-out/">Bug Out</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/bug-out/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Bug Out
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-pinsir-in-mega-raids-march-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250322T100000Z
+DTEND:20250331T100000Z
+SUMMARY:Raid Battles — Mega Pinsir in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-pinsir-in-mega-raids
+ -march-2025/">Mega Pinsir in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-pinsir-in-mega-raids-march-
+ 2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Pinsir in Mega Raids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-heatran-in-5-star-raid-battles-march-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250322T100000Z
+DTEND:20250331T100000Z
+SUMMARY:Raid Battles — Heatran in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/heatran-in-5-star-raid-ba
+ ttles-march-2025/">Heatran in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/heatran-in-5-star-raid-battles-m
+ arch-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/heatran-raids.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Heatran in 5-star Raid Ba
+ ttles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/h
+ eatran-raids.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2025-03-31
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250331T180000Z
+DTEND:20250331T190000Z
+SUMMARY:Max Mondays — Dynamax Scorbunny during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2025-03-31/">
+ Dynamax Scorbunny during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2025-03-31/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Scorbunny during M
+ ax Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-march-max-battles-split-4-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250324T210000Z
+DTEND:20250331T210000Z
+SUMMARY:Max Battles — Max Battles - March 24 to March 31
+DESCRIPTION:<a href="https://leekduck.com/events/march-max-battles-split-4
+ -2025/">Max Battles - March 24 to March 31</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/march-max-battles-split-4-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/power-spots-max-battles.j
+ pg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Max Battles - March 24 to 
+ March 31
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ ower-spots-max-battles.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_great-league_ultra-league_master-le
+ ague-split-1
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250325T200000Z
+DTEND:20250401T200000Z
+SUMMARY:GO Battle League — Great League\, Ultra League\, and Master Leag
+ ue | Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_gre
+ at-league_ultra-league_master-league-split-1/">Great League\, Ultra League
+ \, and Master League | Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_great-leag
+ ue_ultra-league_master-league-split-1/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 2-might-and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League\, and Master League | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-22-might-and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-power-up-ticket-march
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250304T140000Z
+DTEND:20250404T170000Z
+SUMMARY:Ticketed Event — Power Up Ticket: March
+DESCRIPTION:<a href="https://leekduck.com/events/power-up-ticket-march/">P
+ ower Up Ticket: March</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Ticketed Event
+URL;VALUE=URI:https://leekduck.com/events/power-up-ticket-march/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 03-04-power-up-ticket-march/power-up-ticket-march.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Ticketed Event — Power Up Ticket: March
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-03-04-power-up-ticket-march/power-up-ticket-march.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-shadow-regice-in-shadow-raids-might-and-mastery
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250304T060000Z
+DTEND:20250404T220000Z
+SUMMARY:Raid Battles — Shadow Regice in Shadow Raids in March
+DESCRIPTION:<a href="https://leekduck.com/events/shadow-regice-in-shadow-r
+ aids-might-and-mastery/">Shadow Regice in Shadow Raids in March</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/shadow-regice-in-shadow-raids-mi
+ ght-and-mastery/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Shadow Regice in Shadow R
+ aids in March
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raid-day-april-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250405T140000Z
+DTEND:20250405T170000Z
+SUMMARY:Raid Day — Raid Day April 2025
+DESCRIPTION:<a href="https://leekduck.com/events/raid-day-april-2025/">Rai
+ d Day April 2025</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/raid-day-april-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Raid Day April 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-hatch-day-april-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250406T140000Z
+DTEND:20250406T170000Z
+SUMMARY:Event — Hatch Day April 2025
+DESCRIPTION:<a href="https://leekduck.com/events/hatch-day-april-2025/">Ha
+ tch Day April 2025</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/hatch-day-april-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Hatch Day April 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_great-league_master-premier
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250401T200000Z
+DTEND:20250408T200000Z
+SUMMARY:GO Battle League — Great League and Master Premier | Might and M
+ astery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_gre
+ at-league_master-premier/">Great League and Master Premier | Might and Mas
+ tery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_great-leag
+ ue_master-premier/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League and Mast
+ er Premier | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raid-day-april-2025-2
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250413T140000Z
+DTEND:20250413T170000Z
+SUMMARY:Raid Day — Raid Day April 2025
+DESCRIPTION:<a href="https://leekduck.com/events/raid-day-april-2025-2/">R
+ aid Day April 2025</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/raid-day-april-2025-2/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Raid Day April 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_ultra-league_spring-cup-great-leagu
+ e-edition
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250408T200000Z
+DTEND:20250415T200000Z
+SUMMARY:GO Battle League — Ultra League and Spring Cup: Great League Edi
+ tion | Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_ult
+ ra-league_spring-cup-great-league-edition/">Ultra League and Spring Cup: G
+ reat League Edition | Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_ultra-leag
+ ue_spring-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-le
+ ague-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Ultra League and Spri
+ ng Cup: Great League Edition | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-ultra-league-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-battle-day-april-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250419T140000Z
+DTEND:20250419T170000Z
+SUMMARY:Max Battles — Max Battle Day April 2025
+DESCRIPTION:<a href="https://leekduck.com/events/max-battle-day-april-2025
+ /">Max Battle Day April 2025</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/max-battle-day-april-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Max Battle Day April 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_master-league_spring-cup-great-leag
+ ue-edition
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250415T200000Z
+DTEND:20250422T200000Z
+SUMMARY:GO Battle League — Master League and Spring Cup: Great League Ed
+ ition | Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_mas
+ ter-league_spring-cup-great-league-edition/">Master League and Spring Cup:
+  Great League Edition | Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_master-lea
+ gue_spring-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Master League and Spr
+ ing Cup: Great League Edition | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-april-communityday2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250427T140000Z
+DTEND:20250427T170000Z
+SUMMARY:Community Day — April Community Day
+DESCRIPTION:<a href="https://leekduck.com/events/april-communityday2025/">
+ April Community Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Community Day
+URL;VALUE=URI:https://leekduck.com/events/april-communityday2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Community Day — April Community Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/c
+ d-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_great-league_ultra-league_master-le
+ ague-split-2
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250422T200000Z
+DTEND:20250429T200000Z
+SUMMARY:GO Battle League — Great League\, Ultra League\, and Master Leag
+ ue | Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_gre
+ at-league_ultra-league_master-league-split-2/">Great League\, Ultra League
+ \, and Master League | Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_great-leag
+ ue_ultra-league_master-league-split-2/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 2-might-and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League\, and Master League | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-22-might-and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raid-day-may-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250503T140000Z
+DTEND:20250503T170000Z
+SUMMARY:Raid Day — Raid Day May 2025
+DESCRIPTION:<a href="https://leekduck.com/events/raid-day-may-2025/">Raid 
+ Day May 2025</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/raid-day-may-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Raid Day May 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_great-league_great-league-remix
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250429T200000Z
+DTEND:20250506T200000Z
+SUMMARY:GO Battle League — Great League and Great League Remix | Might a
+ nd Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_gre
+ at-league_great-league-remix/">Great League and Great League Remix | Might
+  and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_great-leag
+ ue_great-league-remix/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League and Grea
+ t League Remix | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-may-communityday2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250511T140000Z
+DTEND:20250511T170000Z
+SUMMARY:Community Day — May Community Day
+DESCRIPTION:<a href="https://leekduck.com/events/may-communityday2025/">Ma
+ y Community Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Community Day
+URL;VALUE=URI:https://leekduck.com/events/may-communityday2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Community Day — May Community Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/c
+ d-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_ultra-league_great-league-remix
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250506T200000Z
+DTEND:20250513T200000Z
+SUMMARY:GO Battle League — Ultra League and Great League Remix | Might a
+ nd Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_ult
+ ra-league_great-league-remix/">Ultra League and Great League Remix | Might
+  and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_ultra-leag
+ ue_great-league-remix/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-le
+ ague-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Ultra League and Grea
+ t League Remix | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-ultra-league-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-shadow-raid-day-may-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250517T140000Z
+DTEND:20250517T170000Z
+SUMMARY:Raid Day — Shadow Raid Day May 2025
+DESCRIPTION:<a href="https://leekduck.com/events/shadow-raid-day-may-2025/
+ ">Shadow Raid Day May 2025</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/shadow-raid-day-may-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Shadow Raid Day May 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_master-league_retro-cup-great-leagu
+ e-edition
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250513T200000Z
+DTEND:20250520T200000Z
+SUMMARY:GO Battle League — Master League and Retro Cup: Great League Edi
+ tion | Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_mas
+ ter-league_retro-cup-great-league-edition/">Master League and Retro Cup: G
+ reat League Edition | Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_master-lea
+ gue_retro-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Master League and Ret
+ ro Cup: Great League Edition | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-may-communitydayclassic2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250524T140000Z
+DTEND:20250524T170000Z
+SUMMARY:Community Day — May Community Day Classic
+DESCRIPTION:<a href="https://leekduck.com/events/may-communitydayclassic20
+ 25/">May Community Day Classic</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Community Day
+URL;VALUE=URI:https://leekduck.com/events/may-communitydayclassic2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Community Day — May Community Day Classi
+ c
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/c
+ d-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-battle-day-may-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250525T140000Z
+DTEND:20250525T170000Z
+SUMMARY:Max Battles — Max Battle Day May 2025
+DESCRIPTION:<a href="https://leekduck.com/events/max-battle-day-may-2025/"
+ >Max Battle Day May 2025</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/max-battle-day-may-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Max Battle Day May 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_great-league_catch-cup-great-league
+ -edition
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250520T200000Z
+DTEND:20250527T200000Z
+SUMMARY:GO Battle League — Great League and Catch Cup: Great League Edit
+ ion | Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_gre
+ at-league_catch-cup-great-league-edition/">Great League and Catch Cup: Gre
+ at League Edition | Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_great-leag
+ ue_catch-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League and Catc
+ h Cup: Great League Edition | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-go-battle-week-might-and-mastery
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250521T000000Z
+DTEND:20250527T235900Z
+SUMMARY:Event — GO Battle Week: Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/go-battle-week-might-and-
+ mastery/">GO Battle Week: Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/go-battle-week-might-and-mastery
+ /
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 2-might-and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — GO Battle Week: Might and Master
+ y
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-22-might-and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-season-18-might-and-mastery
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250304T100000Z
+DTEND:20250603T100000Z
+SUMMARY:Season — Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/season-18-might-and-maste
+ ry/">Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Season
+URL;VALUE=URI:https://leekduck.com/events/season-18-might-and-mastery/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 03-04-season-18-might-and-mastery/season-18-might-and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Season — Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-03-04-season-18-might-and-mastery/season-18-might-
+ and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_great-league_ultra-league_master-le
+ ague-split-3
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250527T200000Z
+DTEND:20250603T200000Z
+SUMMARY:GO Battle League — Great League\, Ultra League\, and Master Leag
+ ue | Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_gre
+ at-league_ultra-league_master-league-split-3/">Great League\, Ultra League
+ \, and Master League | Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_great-leag
+ ue_ultra-league_master-league-split-3/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 2-might-and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League\, and Master League | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-22-might-and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

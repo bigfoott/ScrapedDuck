@@ -1,0 +1,59 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Research
+X-WR-CALNAME:Pokémon Go — Research
+X-WR-CALDESC:Pokémon Go Research events.
+BEGIN:VEVENT
+UID:scraped-duck-dynamax-raikou-max-battle-weekend-timed-research
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250310T060000Z
+DTEND:20250316T210000Z
+SUMMARY:Research — Dynamax Raikou Max Battle Weekend Timed Research
+DESCRIPTION:<a href="https://leekduck.com/events/dynamax-raikou-max-battle
+ -weekend-timed-research/">Dynamax Raikou Max Battle Weekend Timed Research
+ </a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Research
+URL;VALUE=URI:https://leekduck.com/events/dynamax-raikou-max-battle-weeken
+ d-timed-research/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 03-10-dynamax-raikou-max-battle-weekend-timed-research/dynamax-raikou.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Research — Dynamax Raikou Max Battle Wee
+ kend Timed Research
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-03-10-dynamax-raikou-max-battle-weekend-timed-rese
+ arch/dynamax-raikou.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-masterwork-research-a-dazzling-aria
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250221T100000Z
+DTEND:20250330T200000Z
+SUMMARY:Research — Masterwork Research: A Dazzling Aria
+DESCRIPTION:<a href="https://leekduck.com/events/masterwork-research-a-daz
+ zling-aria/">Masterwork Research: A Dazzling Aria</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Research
+URL;VALUE=URI:https://leekduck.com/events/masterwork-research-a-dazzling-a
+ ria/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 02-21-masterwork-research-a-dazzling-aria/shiny-meloetta.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Research — Masterwork Research: A Dazzli
+ ng Aria
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-02-21-masterwork-research-a-dazzling-aria/shiny-me
+ loetta.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

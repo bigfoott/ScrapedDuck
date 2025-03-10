@@ -1,0 +1,334 @@
+[
+    {
+        "name": "Gothita",
+        "tier": "Tier 1",
+        "canBeShiny": true,
+        "types": [
+            {
+                "name": "psychic",
+                "image": "https://leekduck.com/assets/img/types/psychic.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 500,
+                "max": 543
+            },
+            "boosted": {
+                "min": 625,
+                "max": 679
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "windy",
+                "image": "https://leekduck.com/assets/img/weather/windy.png"
+            }
+        ],
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_574_00.png"
+    },
+    {
+        "name": "Solosis",
+        "tier": "Tier 1",
+        "canBeShiny": true,
+        "types": [
+            {
+                "name": "psychic",
+                "image": "https://leekduck.com/assets/img/types/psychic.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 727,
+                "max": 781
+            },
+            "boosted": {
+                "min": 909,
+                "max": 977
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "windy",
+                "image": "https://leekduck.com/assets/img/weather/windy.png"
+            }
+        ],
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_577_00.png"
+    },
+    {
+        "name": "Sinistea",
+        "tier": "Tier 1",
+        "canBeShiny": false,
+        "types": [
+            {
+                "name": "ghost",
+                "image": "https://leekduck.com/assets/img/types/ghost.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 603,
+                "max": 650
+            },
+            "boosted": {
+                "min": 754,
+                "max": 813
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "foggy",
+                "image": "https://leekduck.com/assets/img/weather/foggy.png"
+            }
+        ],
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm854.icon.png"
+    },
+    {
+        "name": "Alolan Raichu",
+        "tier": "Tier 3",
+        "canBeShiny": true,
+        "types": [
+            {
+                "name": "electric",
+                "image": "https://leekduck.com/assets/img/types/electric.png"
+            },
+            {
+                "name": "psychic",
+                "image": "https://leekduck.com/assets/img/types/psychic.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 1238,
+                "max": 1306
+            },
+            "boosted": {
+                "min": 1548,
+                "max": 1633
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "rainy",
+                "image": "https://leekduck.com/assets/img/weather/rainy.png"
+            },
+            {
+                "name": "windy",
+                "image": "https://leekduck.com/assets/img/weather/windy.png"
+            }
+        ],
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_026_61.png"
+    },
+    {
+        "name": "Hisuian Typhlosion",
+        "tier": "Tier 3",
+        "canBeShiny": true,
+        "types": [
+            {
+                "name": "fire",
+                "image": "https://leekduck.com/assets/img/types/fire.png"
+            },
+            {
+                "name": "ghost",
+                "image": "https://leekduck.com/assets/img/types/ghost.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 1632,
+                "max": 1710
+            },
+            "boosted": {
+                "min": 2041,
+                "max": 2138
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "sunnyclear",
+                "image": "https://leekduck.com/assets/img/weather/sunny.png"
+            },
+            {
+                "name": "foggy",
+                "image": "https://leekduck.com/assets/img/weather/foggy.png"
+            }
+        ],
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm157.fHISUIAN.icon.png"
+    },
+    {
+        "name": "Sableye",
+        "tier": "Tier 3",
+        "canBeShiny": true,
+        "types": [
+            {
+                "name": "dark",
+                "image": "https://leekduck.com/assets/img/types/dark.png"
+            },
+            {
+                "name": "ghost",
+                "image": "https://leekduck.com/assets/img/types/ghost.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 789,
+                "max": 843
+            },
+            "boosted": {
+                "min": 986,
+                "max": 1054
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "foggy",
+                "image": "https://leekduck.com/assets/img/weather/foggy.png"
+            }
+        ],
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00.png"
+    },
+    {
+        "name": "Articuno",
+        "tier": "Tier 5",
+        "canBeShiny": true,
+        "types": [
+            {
+                "name": "ice",
+                "image": "https://leekduck.com/assets/img/types/ice.png"
+            },
+            {
+                "name": "flying",
+                "image": "https://leekduck.com/assets/img/types/flying.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 1665,
+                "max": 1743
+            },
+            "boosted": {
+                "min": 2082,
+                "max": 2179
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "snowy",
+                "image": "https://leekduck.com/assets/img/weather/snowy.png"
+            },
+            {
+                "name": "windy",
+                "image": "https://leekduck.com/assets/img/weather/windy.png"
+            }
+        ],
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_144_00.png"
+    },
+    {
+        "name": "Zapdos",
+        "tier": "Tier 5",
+        "canBeShiny": true,
+        "types": [
+            {
+                "name": "electric",
+                "image": "https://leekduck.com/assets/img/types/electric.png"
+            },
+            {
+                "name": "flying",
+                "image": "https://leekduck.com/assets/img/types/flying.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 1930,
+                "max": 2015
+            },
+            "boosted": {
+                "min": 2413,
+                "max": 2519
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "rainy",
+                "image": "https://leekduck.com/assets/img/weather/rainy.png"
+            },
+            {
+                "name": "windy",
+                "image": "https://leekduck.com/assets/img/weather/windy.png"
+            }
+        ],
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_145_00.png"
+    },
+    {
+        "name": "Moltres",
+        "tier": "Tier 5",
+        "canBeShiny": true,
+        "types": [
+            {
+                "name": "fire",
+                "image": "https://leekduck.com/assets/img/types/fire.png"
+            },
+            {
+                "name": "flying",
+                "image": "https://leekduck.com/assets/img/types/flying.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 1896,
+                "max": 1980
+            },
+            "boosted": {
+                "min": 2370,
+                "max": 2475
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "sunnyclear",
+                "image": "https://leekduck.com/assets/img/weather/sunny.png"
+            },
+            {
+                "name": "windy",
+                "image": "https://leekduck.com/assets/img/weather/windy.png"
+            }
+        ],
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_146_00.png"
+    },
+    {
+        "name": "Mega Lucario",
+        "tier": "Mega",
+        "canBeShiny": true,
+        "types": [
+            {
+                "name": "fighting",
+                "image": "https://leekduck.com/assets/img/types/fighting.png"
+            },
+            {
+                "name": "steel",
+                "image": "https://leekduck.com/assets/img/types/steel.png"
+            }
+        ],
+        "combatPower": {
+            "normal": {
+                "min": 1469,
+                "max": 1544
+            },
+            "boosted": {
+                "min": 1837,
+                "max": 1930
+            }
+        },
+        "boostedWeather": [
+            {
+                "name": "cloudy",
+                "image": "https://leekduck.com/assets/img/weather/cloudy.png"
+            },
+            {
+                "name": "snowy",
+                "image": "https://leekduck.com/assets/img/weather/snowy.png"
+            }
+        ],
+        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm448.fMEGA.icon.png"
+    }
+]

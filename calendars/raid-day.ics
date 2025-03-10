@@ -1,0 +1,111 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Raid Day
+X-WR-CALNAME:Pokémon Go — Raid Day
+X-WR-CALDESC:Pokémon Go Raid Day events.
+BEGIN:VEVENT
+UID:scraped-duck-mega-absol-raid-day
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250323T140000Z
+DTEND:20250323T170000Z
+SUMMARY:Raid Day — Mega Absol Raid Day
+DESCRIPTION:<a href="https://leekduck.com/events/mega-absol-raid-day/">Meg
+ a Absol Raid Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/mega-absol-raid-day/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 03-23-mega-absol-raid-day/mega-absol-raid-day.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Mega Absol Raid Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-03-23-mega-absol-raid-day/mega-absol-raid-day.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raid-day-april-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250405T140000Z
+DTEND:20250405T170000Z
+SUMMARY:Raid Day — Raid Day April 2025
+DESCRIPTION:<a href="https://leekduck.com/events/raid-day-april-2025/">Rai
+ d Day April 2025</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/raid-day-april-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Raid Day April 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raid-day-april-2025-2
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250413T140000Z
+DTEND:20250413T170000Z
+SUMMARY:Raid Day — Raid Day April 2025
+DESCRIPTION:<a href="https://leekduck.com/events/raid-day-april-2025-2/">R
+ aid Day April 2025</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/raid-day-april-2025-2/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Raid Day April 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raid-day-may-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250503T140000Z
+DTEND:20250503T170000Z
+SUMMARY:Raid Day — Raid Day May 2025
+DESCRIPTION:<a href="https://leekduck.com/events/raid-day-may-2025/">Raid 
+ Day May 2025</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/raid-day-may-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Raid Day May 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-shadow-raid-day-may-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250517T140000Z
+DTEND:20250517T170000Z
+SUMMARY:Raid Day — Shadow Raid Day May 2025
+DESCRIPTION:<a href="https://leekduck.com/events/shadow-raid-day-may-2025/
+ ">Shadow Raid Day May 2025</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/shadow-raid-day-may-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Shadow Raid Day May 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

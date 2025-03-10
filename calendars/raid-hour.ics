@@ -1,0 +1,71 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Raid Hour
+X-WR-CALNAME:Pokémon Go — Raid Hour
+X-WR-CALDESC:Pokémon Go Raid Hour events.
+BEGIN:VEVENT
+UID:scraped-duck-raidhour20250312
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250312T180000Z
+DTEND:20250312T190000Z
+SUMMARY:Raid Hour — Articuno\, Zapdos\, and Moltres Raid Hour
+DESCRIPTION:<a href="https://leekduck.com/events/raidhour20250312/">Articu
+ no\, Zapdos\, and Moltres Raid Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Hour
+URL;VALUE=URI:https://leekduck.com/events/raidhour20250312/
+IMAGE:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Hour — Articuno\, Zapdos\, and Molt
+ res Raid Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ aidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raidhour20250319
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250319T180000Z
+DTEND:20250319T190000Z
+SUMMARY:Raid Hour — Tapu Koko Raid Hour
+DESCRIPTION:<a href="https://leekduck.com/events/raidhour20250319/">Tapu K
+ oko Raid Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Hour
+URL;VALUE=URI:https://leekduck.com/events/raidhour20250319/
+IMAGE:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Hour — Tapu Koko Raid Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ aidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raidhour20250326
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250326T180000Z
+DTEND:20250326T190000Z
+SUMMARY:Raid Hour — Heatran Raid Hour
+DESCRIPTION:<a href="https://leekduck.com/events/raidhour20250326/">Heatra
+ n Raid Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Hour
+URL;VALUE=URI:https://leekduck.com/events/raidhour20250326/
+IMAGE:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Hour — Heatran Raid Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ aidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

@@ -1,0 +1,188 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Max Battles
+X-WR-CALNAME:Pokémon Go — Max Battles
+X-WR-CALDESC:Pokémon Go Max Battles events.
+BEGIN:VEVENT
+UID:scraped-duck-gigantamax-venusaur-gigantamax-charizard-gigantamax-blast
+ oise-return-to-max-battles
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250308T060000Z
+DTEND:20250309T210000Z
+SUMMARY:Max Battles — Gigantamax Venusaur\, Gigantamax Charizard\, and G
+ igantamax Blastoise in Max Battles
+DESCRIPTION:<a href="https://leekduck.com/events/gigantamax-venusaur-gigan
+ tamax-charizard-gigantamax-blastoise-return-to-max-battles/">Gigantamax Ve
+ nusaur\, Gigantamax Charizard\, and Gigantamax Blastoise in Max Battles</a
+ >
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/gigantamax-venusaur-gigantamax-c
+ harizard-gigantamax-blastoise-return-to-max-battles/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-bigger-gigantamax.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Gigantamax Venusaur\, Giga
+ ntamax Charizard\, and Gigantamax Blastoise in Max Battles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-bigger-gigantamax.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-march-max-battles-split-1-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250303T210000Z
+DTEND:20250310T210000Z
+SUMMARY:Max Battles — Max Battles - March 3 to March 10
+DESCRIPTION:<a href="https://leekduck.com/events/march-max-battles-split-1
+ -2025/">Max Battles - March 3 to March 10</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/march-max-battles-split-1-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/power-spots-max-battles.j
+ pg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Max Battles - March 3 to M
+ arch 10
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ ower-spots-max-battles.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-dynamax-raikou-max-battle-weekend
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250315T060000Z
+DTEND:20250316T210000Z
+SUMMARY:Max Battles — Dynamax Raikou Max Battle Weekend
+DESCRIPTION:<a href="https://leekduck.com/events/dynamax-raikou-max-battle
+ -weekend/">Dynamax Raikou Max Battle Weekend</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/dynamax-raikou-max-battle-weeken
+ d/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 03-15-dynamax-raikou-max-battle-weekend/dynamax-raikou.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Dynamax Raikou Max Battle 
+ Weekend
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-03-15-dynamax-raikou-max-battle-weekend/dynamax-ra
+ ikou.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-march-max-battles-split-2-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250310T210000Z
+DTEND:20250317T210000Z
+SUMMARY:Max Battles — Max Battles - March 10 to March 17
+DESCRIPTION:<a href="https://leekduck.com/events/march-max-battles-split-2
+ -2025/">Max Battles - March 10 to March 17</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/march-max-battles-split-2-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/power-spots-max-battles.j
+ pg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Max Battles - March 10 to 
+ March 17
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ ower-spots-max-battles.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-march-max-battles-split-3-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250317T210000Z
+DTEND:20250324T210000Z
+SUMMARY:Max Battles — Max Battles - March 17 to March 24
+DESCRIPTION:<a href="https://leekduck.com/events/march-max-battles-split-3
+ -2025/">Max Battles - March 17 to March 24</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/march-max-battles-split-3-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/power-spots-max-battles.j
+ pg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Max Battles - March 17 to 
+ March 24
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ ower-spots-max-battles.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-march-max-battles-split-4-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250324T210000Z
+DTEND:20250331T210000Z
+SUMMARY:Max Battles — Max Battles - March 24 to March 31
+DESCRIPTION:<a href="https://leekduck.com/events/march-max-battles-split-4
+ -2025/">Max Battles - March 24 to March 31</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/march-max-battles-split-4-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/power-spots-max-battles.j
+ pg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Max Battles - March 24 to 
+ March 31
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ ower-spots-max-battles.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-battle-day-april-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250419T140000Z
+DTEND:20250419T170000Z
+SUMMARY:Max Battles — Max Battle Day April 2025
+DESCRIPTION:<a href="https://leekduck.com/events/max-battle-day-april-2025
+ /">Max Battle Day April 2025</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/max-battle-day-april-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Max Battle Day April 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-battle-day-may-2025
+SEQUENCE:0
+DTSTAMP:20250310T172603Z
+DTSTART:20250525T140000Z
+DTEND:20250525T170000Z
+SUMMARY:Max Battles — Max Battle Day May 2025
+DESCRIPTION:<a href="https://leekduck.com/events/max-battle-day-may-2025/"
+ >Max Battle Day May 2025</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/max-battle-day-may-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Max Battle Day May 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
