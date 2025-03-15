@@ -1,0 +1,139 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Event
+X-WR-CALNAME:Pokémon Go — Event
+X-WR-CALDESC:Pokémon Go Event events.
+BEGIN:VEVENT
+UID:scraped-duck-catch-mastery-archen
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250316T100000Z
+DTEND:20250316T200000Z
+SUMMARY:Event — Catch Mastery: Archen
+DESCRIPTION:<a href="https://leekduck.com/events/catch-mastery-archen/">Ca
+ tch Mastery: Archen</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/catch-mastery-archen/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 03-16-catch-mastery-archen/catch-mastery-archen.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Catch Mastery: Archen
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-03-16-catch-mastery-archen/catch-mastery-archen.jp
+ g
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-festival-of-colors-2025
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250313T100000Z
+DTEND:20250317T200000Z
+SUMMARY:Event — Festival of Colors 2025
+DESCRIPTION:<a href="https://leekduck.com/events/festival-of-colors-2025/"
+ >Festival of Colors 2025</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/festival-of-colors-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 03-13-festival-of-colors-2025/festival-of-colors-2025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Festival of Colors 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-03-13-festival-of-colors-2025/festival-of-colors-2
+ 025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-deep-depths
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250319T100000Z
+DTEND:20250324T200000Z
+SUMMARY:Event — Deep Depths
+DESCRIPTION:<a href="https://leekduck.com/events/deep-depths/">Deep Depths
+ </a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/deep-depths/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 03-16-deep-depths/deep-depths.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Deep Depths
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-03-16-deep-depths/deep-depths.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-bug-out-2025
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250326T100000Z
+DTEND:20250330T200000Z
+SUMMARY:Event — Bug Out 2025
+DESCRIPTION:<a href="https://leekduck.com/events/bug-out-2025/">Bug Out 20
+ 25</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/bug-out-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 03-26-bug-out-2025/bug-out-2025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Bug Out 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-03-26-bug-out-2025/bug-out-2025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-hatch-day-april-2025
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250406T140000Z
+DTEND:20250406T170000Z
+SUMMARY:Event — Hatch Day April 2025
+DESCRIPTION:<a href="https://leekduck.com/events/hatch-day-april-2025/">Ha
+ tch Day April 2025</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/hatch-day-april-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Hatch Day April 2025
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-go-battle-week-might-and-mastery
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250521T000000Z
+DTEND:20250527T235900Z
+SUMMARY:Event — GO Battle Week: Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/go-battle-week-might-and-
+ mastery/">GO Battle Week: Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/go-battle-week-might-and-mastery
+ /
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 2-might-and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — GO Battle Week: Might and Master
+ y
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-22-might-and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

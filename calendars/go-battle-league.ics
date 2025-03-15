@@ -1,0 +1,319 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — GO Battle League
+X-WR-CALNAME:Pokémon Go — GO Battle League
+X-WR-CALDESC:Pokémon Go GO Battle League events.
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_ultra-league_scroll-cup-great-leagu
+ e-edition
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250311T200000Z
+DTEND:20250318T200000Z
+SUMMARY:GO Battle League — Ultra League and Scroll Cup: Great League Edi
+ tion | Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_ult
+ ra-league_scroll-cup-great-league-edition/">Ultra League and Scroll Cup: G
+ reat League Edition | Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_ultra-leag
+ ue_scroll-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-le
+ ague-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Ultra League and Scro
+ ll Cup: Great League Edition | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-ultra-league-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_master-league_scroll-cup-great-leag
+ ue-edition
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250318T200000Z
+DTEND:20250325T200000Z
+SUMMARY:GO Battle League — Master League and Scroll Cup: Great League Ed
+ ition | Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_mas
+ ter-league_scroll-cup-great-league-edition/">Master League and Scroll Cup:
+  Great League Edition | Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_master-lea
+ gue_scroll-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Master League and Scr
+ oll Cup: Great League Edition | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_great-league_ultra-league_master-le
+ ague-split-1
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250325T200000Z
+DTEND:20250401T200000Z
+SUMMARY:GO Battle League — Great League\, Ultra League\, and Master Leag
+ ue | Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_gre
+ at-league_ultra-league_master-league-split-1/">Great League\, Ultra League
+ \, and Master League | Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_great-leag
+ ue_ultra-league_master-league-split-1/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 2-might-and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League\, and Master League | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-22-might-and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_great-league_master-premier
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250401T200000Z
+DTEND:20250408T200000Z
+SUMMARY:GO Battle League — Great League and Master Premier | Might and M
+ astery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_gre
+ at-league_master-premier/">Great League and Master Premier | Might and Mas
+ tery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_great-leag
+ ue_master-premier/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League and Mast
+ er Premier | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_ultra-league_spring-cup-great-leagu
+ e-edition
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250408T200000Z
+DTEND:20250415T200000Z
+SUMMARY:GO Battle League — Ultra League and Spring Cup: Great League Edi
+ tion | Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_ult
+ ra-league_spring-cup-great-league-edition/">Ultra League and Spring Cup: G
+ reat League Edition | Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_ultra-leag
+ ue_spring-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-le
+ ague-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Ultra League and Spri
+ ng Cup: Great League Edition | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-ultra-league-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_master-league_spring-cup-great-leag
+ ue-edition
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250415T200000Z
+DTEND:20250422T200000Z
+SUMMARY:GO Battle League — Master League and Spring Cup: Great League Ed
+ ition | Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_mas
+ ter-league_spring-cup-great-league-edition/">Master League and Spring Cup:
+  Great League Edition | Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_master-lea
+ gue_spring-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Master League and Spr
+ ing Cup: Great League Edition | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_great-league_ultra-league_master-le
+ ague-split-2
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250422T200000Z
+DTEND:20250429T200000Z
+SUMMARY:GO Battle League — Great League\, Ultra League\, and Master Leag
+ ue | Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_gre
+ at-league_ultra-league_master-league-split-2/">Great League\, Ultra League
+ \, and Master League | Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_great-leag
+ ue_ultra-league_master-league-split-2/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 2-might-and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League\, and Master League | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-22-might-and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_great-league_great-league-remix
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250429T200000Z
+DTEND:20250506T200000Z
+SUMMARY:GO Battle League — Great League and Great League Remix | Might a
+ nd Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_gre
+ at-league_great-league-remix/">Great League and Great League Remix | Might
+  and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_great-leag
+ ue_great-league-remix/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League and Grea
+ t League Remix | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_ultra-league_great-league-remix
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250506T200000Z
+DTEND:20250513T200000Z
+SUMMARY:GO Battle League — Ultra League and Great League Remix | Might a
+ nd Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_ult
+ ra-league_great-league-remix/">Ultra League and Great League Remix | Might
+  and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_ultra-leag
+ ue_great-league-remix/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-le
+ ague-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Ultra League and Grea
+ t League Remix | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-ultra-league-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_master-league_retro-cup-great-leagu
+ e-edition
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250513T200000Z
+DTEND:20250520T200000Z
+SUMMARY:GO Battle League — Master League and Retro Cup: Great League Edi
+ tion | Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_mas
+ ter-league_retro-cup-great-league-edition/">Master League and Retro Cup: G
+ reat League Edition | Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_master-lea
+ gue_retro-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Master League and Ret
+ ro Cup: Great League Edition | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_great-league_catch-cup-great-league
+ -edition
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250520T200000Z
+DTEND:20250527T200000Z
+SUMMARY:GO Battle League — Great League and Catch Cup: Great League Edit
+ ion | Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_gre
+ at-league_catch-cup-great-league-edition/">Great League and Catch Cup: Gre
+ at League Edition | Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_great-leag
+ ue_catch-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League and Catc
+ h Cup: Great League Edition | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-might-and-mastery_great-league_ultra-league_master-le
+ ague-split-3
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250527T200000Z
+DTEND:20250603T200000Z
+SUMMARY:GO Battle League — Great League\, Ultra League\, and Master Leag
+ ue | Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-might-and-mastery_gre
+ at-league_ultra-league_master-league-split-3/">Great League\, Ultra League
+ \, and Master League | Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-might-and-mastery_great-leag
+ ue_ultra-league_master-league-split-3/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 2-might-and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League\, and Master League | Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-22-might-and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

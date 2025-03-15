@@ -1,0 +1,119 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Raid Battles
+X-WR-CALNAME:Pokémon Go — Raid Battles
+X-WR-CALDESC:Pokémon Go Raid Battles events.
+BEGIN:VEVENT
+UID:scraped-duck-mega-swampert-in-mega-raids-march-2025
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250313T100000Z
+DTEND:20250322T100000Z
+SUMMARY:Raid Battles — Mega Swampert in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-swampert-in-mega-rai
+ ds-march-2025/">Mega Swampert in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-swampert-in-mega-raids-marc
+ h-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Swampert in Mega Rai
+ ds
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-tapu-koko-in-5-star-raid-battles-march-2025
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250313T100000Z
+DTEND:20250322T100000Z
+SUMMARY:Raid Battles — Tapu Koko in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/tapu-koko-in-5-star-raid-
+ battles-march-2025/">Tapu Koko in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/tapu-koko-in-5-star-raid-battles
+ -march-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/tapu-koko.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Tapu Koko in 5-star Raid 
+ Battles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/t
+ apu-koko.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-pinsir-in-mega-raids-march-2025
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250322T100000Z
+DTEND:20250331T100000Z
+SUMMARY:Raid Battles — Mega Pinsir in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-pinsir-in-mega-raids
+ -march-2025/">Mega Pinsir in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-pinsir-in-mega-raids-march-
+ 2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Pinsir in Mega Raids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-heatran-in-5-star-raid-battles-march-2025
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250322T100000Z
+DTEND:20250331T100000Z
+SUMMARY:Raid Battles — Heatran in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/heatran-in-5-star-raid-ba
+ ttles-march-2025/">Heatran in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/heatran-in-5-star-raid-battles-m
+ arch-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/heatran-raids.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Heatran in 5-star Raid Ba
+ ttles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/h
+ eatran-raids.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-shadow-regice-in-shadow-raids-might-and-mastery
+SEQUENCE:0
+DTSTAMP:20250315T160240Z
+DTSTART:20250304T060000Z
+DTEND:20250404T220000Z
+SUMMARY:Raid Battles — Shadow Regice in Shadow Raids in March
+DESCRIPTION:<a href="https://leekduck.com/events/shadow-regice-in-shadow-r
+ aids-might-and-mastery/">Shadow Regice in Shadow Raids in March</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/shadow-regice-in-shadow-raids-mi
+ ght-and-mastery/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Shadow Regice in Shadow R
+ aids in March
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
