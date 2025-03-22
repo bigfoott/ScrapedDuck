@@ -1,0 +1,1060 @@
+[
+    {
+        "eventID": "mega-swampert-in-mega-raids-march-2025",
+        "name": "Mega Swampert in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-swampert-in-mega-raids-march-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2025-03-13T10:00:00.000",
+        "end": "2025-03-22T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Mega Swampert",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm260.fMEGA.icon.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Swampert",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_260_00_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "tapu-koko-in-5-star-raid-battles-march-2025",
+        "name": "Tapu Koko in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/tapu-koko-in-5-star-raid-battles-march-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/tapu-koko.jpg",
+        "start": "2025-03-13T10:00:00.000",
+        "end": "2025-03-22T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Tapu Koko",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm785.icon.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Tapu Koko",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm785.s.icon.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "march-communitydayclassic2025",
+        "name": "Totodile Community Day Classic",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/march-communitydayclassic2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-03-22-march-communitydayclassic2025/totodile-cd-classic.jpg?v2",
+        "start": "2025-03-22T14:00:00.000",
+        "end": "2025-03-22T17:00:00.000",
+        "extraData": {
+            "communityday": {
+                "spawns": [
+                    {
+                        "name": "Totodile",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png"
+                    }
+                ],
+                "bonuses": [
+                    {
+                        "text": "Increased Spawns",
+                        "image": "https://cdn.leekduck.com/assets/img/events/bonuses/wildgrass.png"
+                    },
+                    {
+                        "text": "1/4 Egg Hatch Distance",
+                        "image": "https://cdn.leekduck.com/assets/img/events/bonuses/eggdistance.png"
+                    },
+                    {
+                        "text": "3-hour Incense*",
+                        "image": "https://cdn.leekduck.com/assets/img/events/bonuses/stardust2x.png"
+                    },
+                    {
+                        "text": "3-hour Lures**",
+                        "image": "https://cdn.leekduck.com/assets/img/events/bonuses/incense.png"
+                    }
+                ],
+                "bonusDisclaimers": [
+                    "* While most bonuses are only active during the three hours of the event, these bonuses will be active from 2:00 p.m. to 10:00 p.m. local time.<br> ** The three-hour Incense bonus excludes Daily Adventure Incense.<br> *** The three-hour lure bonus excludes Golden Lure Modules."
+                ],
+                "shinies": [
+                    {
+                        "name": "Totodile",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00_shiny.png"
+                    },
+                    {
+                        "name": "Croconaw",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_159_00_shiny.png"
+                    },
+                    {
+                        "name": "Feraligatr",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_160_00_shiny.png"
+                    }
+                ],
+                "specialresearch": [
+                    {
+                        "name": "Totodile Community Day Classic (1/3)",
+                        "step": 1,
+                        "tasks": [
+                            {
+                                "text": "Use 25 Berries to help catch Pokémon",
+                                "reward": {
+                                    "text": " Totodile ",
+                                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_158_00.png"
+                                }
+                            },
+                            {
+                                "text": "Catch 25 Pokémon",
+                                "reward": {
+                                    "text": "Incubator ×1",
+                                    "image": "https://leekduck.com/assets/img/items/Incubator.png"
+                                }
+                            },
+                            {
+                                "text": "Make 25 Great Throws",
+                                "reward": {
+                                    "text": " Totodile Candy ×50 ",
+                                    "image": "https://cdn.leekduck.com/assets/img/candy/regular/158.png"
+                                }
+                            },
+                            {
+                                "text": "Spin 15 PokéStops or Gyms",
+                                "reward": {
+                                    "text": "Incense ×1",
+                                    "image": "https://leekduck.com/assets/img/items/Incense.png"
+                                }
+                            },
+                            {
+                                "text": "Explore 1 km",
+                                "reward": {
+                                    "text": "Silver Pinap Berry ×3",
+                                    "image": "https://leekduck.com/assets/img/items/Silver%20Pinap%20Berry.png"
+                                }
+                            },
+                            {
+                                "text": "Complete 5 Field Research tasks",
+                                "reward": {
+                                    "text": "Ultra Ball ×30",
+                                    "image": "https://leekduck.com/assets/img/items/Ultra%20Ball.png"
+                                }
+                            }
+                        ],
+                        "rewards": [
+                            {
+                                "text": "Totodile",
+                                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_158_00.png"
+                            },
+                            {
+                                "text": "×7500",
+                                "image": "https://leekduck.com/assets/img/items/Stardust.png"
+                            },
+                            {
+                                "text": "×1",
+                                "image": "https://leekduck.com/assets/img/items/Premium%20Battle%20Pass.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Totodile Community Day Classic (2/3)",
+                        "step": 2,
+                        "tasks": [
+                            {
+                                "text": "Catch 5 Pokémon",
+                                "reward": {
+                                    "text": " Totodile ",
+                                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_158_00.png"
+                                }
+                            },
+                            {
+                                "text": "Catch 10 Pokémon",
+                                "reward": {
+                                    "text": " Totodile ",
+                                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_158_00.png"
+                                }
+                            },
+                            {
+                                "text": "Catch 15 Pokémon",
+                                "reward": {
+                                    "text": " Totodile ",
+                                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_158_00.png"
+                                }
+                            },
+                            {
+                                "text": "Catch 20 Pokémon",
+                                "reward": {
+                                    "text": " Totodile ",
+                                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_158_00.png"
+                                }
+                            },
+                            {
+                                "text": "Catch 25 Pokémon",
+                                "reward": {
+                                    "text": " Totodile ",
+                                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_158_00.png"
+                                }
+                            },
+                            {
+                                "text": "Catch 30 Pokémon",
+                                "reward": {
+                                    "text": " Totodile ",
+                                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_158_00.png"
+                                }
+                            }
+                        ],
+                        "rewards": [
+                            {
+                                "text": "Totodile",
+                                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_158_00.png"
+                            },
+                            {
+                                "text": "×7500",
+                                "image": "https://leekduck.com/assets/img/items/Stardust.png"
+                            },
+                            {
+                                "text": "×30",
+                                "image": "https://leekduck.com/assets/img/items/Ultra%20Ball.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Totodile Community Day Classic (3/3)",
+                        "step": 3,
+                        "tasks": [
+                            {
+                                "text": "Send 3 Gifts and add a sticker to each",
+                                "reward": {
+                                    "text": " Croconaw ",
+                                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_159_00.png"
+                                }
+                            },
+                            {
+                                "text": "Earn 3 hearts with your buddy",
+                                "reward": {
+                                    "text": "Rocket Radar ×1",
+                                    "image": "https://leekduck.com/assets/img/items/Rocket%20Radar.png"
+                                }
+                            },
+                            {
+                                "text": "Transfer 25 Pokémon",
+                                "reward": {
+                                    "text": " Totodile Candy XL ×5 ",
+                                    "image": "https://cdn.leekduck.com/assets/img/candy/xl/158.png"
+                                }
+                            },
+                            {
+                                "text": "Evolve 5 Pokémon",
+                                "reward": {
+                                    "text": "Rare Candy ×3",
+                                    "image": "https://leekduck.com/assets/img/items/Rare%20Candy.png"
+                                }
+                            },
+                            {
+                                "text": "Power up Pokémon 20 times",
+                                "reward": {
+                                    "text": "Charged TM ×1",
+                                    "image": "https://leekduck.com/assets/img/items/Charged%20TM.png"
+                                }
+                            },
+                            {
+                                "text": "Earn 15,000 XP",
+                                "reward": {
+                                    "text": " Feraligatr ",
+                                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_160_00.png"
+                                }
+                            }
+                        ],
+                        "rewards": [
+                            {
+                                "text": "Totodile",
+                                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_158_00.png"
+                            },
+                            {
+                                "text": "10000 XP",
+                                "image": "https://leekduck.com/assets/img/icons/xp.png"
+                            },
+                            {
+                                "text": "×1",
+                                "image": "https://leekduck.com/assets/img/items/Rare%20Candy%20XL.png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Totodile Community Day Special Background Timed Research (1/1)",
+                        "step": 1,
+                        "tasks": [
+                            {
+                                "text": "Catch a Pokémon",
+                                "reward": {
+                                    "text": "1000 XP",
+                                    "image": "https://leekduck.com/assets/img/icons/xp.png"
+                                }
+                            },
+                            {
+                                "text": "Catch a Pokémon on 2 different days",
+                                "reward": {
+                                    "text": " Totodile ",
+                                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_158_00.png"
+                                }
+                            },
+                            {
+                                "text": "Catch a Pokémon on 3 different days",
+                                "reward": {
+                                    "text": "Stardust ×1000",
+                                    "image": "https://leekduck.com/assets/img/items/Stardust.png"
+                                }
+                            },
+                            {
+                                "text": "Catch a Pokémon on 4 different days",
+                                "reward": {
+                                    "text": " Totodile ",
+                                    "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_158_00.png"
+                                }
+                            },
+                            {
+                                "text": "Catch a Pokémon on 5 different days",
+                                "reward": {
+                                    "text": "5000 XP",
+                                    "image": "https://leekduck.com/assets/img/icons/xp.png"
+                                }
+                            }
+                        ],
+                        "rewards": [
+                            {
+                                "text": "Totodile",
+                                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons_crop/pokemon_icon_158_00.png"
+                            },
+                            {
+                                "text": "×5000",
+                                "image": "https://leekduck.com/assets/img/items/Stardust.png"
+                            }
+                        ]
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "mega-absol-raid-day",
+        "name": "Mega Absol Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/mega-absol-raid-day/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-03-23-mega-absol-raid-day/mega-absol-raid-day.jpg",
+        "start": "2025-03-23T14:00:00.000",
+        "end": "2025-03-23T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-showcase-totodile-feraligatr-2025-03-22",
+        "name": "Totodile and Feraligatr PokéStop Showcases",
+        "eventType": "pokestop-showcase",
+        "heading": "PokéStop Showcase",
+        "link": "https://leekduck.com/events/pokemon-showcase-totodile-feraligatr-2025-03-22/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+        "start": "2025-03-22T10:00:00.000",
+        "end": "2025-03-23T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "march-max-battles-split-3-2025",
+        "name": "Max Battles - March 17 to March 24",
+        "eventType": "max-battles",
+        "heading": "Max Battles",
+        "link": "https://leekduck.com/events/march-max-battles-split-3-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/power-spots-max-battles.jpg",
+        "start": "2025-03-17T06:00:00.000",
+        "end": "2025-03-24T06:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2025-03-24",
+        "name": "Dynamax Caterpie during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2025-03-24/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2025-03-24T18:00:00.000",
+        "end": "2025-03-24T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "deep-depths",
+        "name": "Deep Depths",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/deep-depths/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-03-19-deep-depths/deep-depths.jpg?v2",
+        "start": "2025-03-19T10:00:00.000",
+        "end": "2025-03-24T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "gbl-might-and-mastery_master-league_scroll-cup-great-league-edition",
+        "name": "Master League and Scroll Cup: Great League Edition | Might and Mastery",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-might-and-mastery_master-league_scroll-cup-great-league-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+        "start": "2025-03-18T20:00:00.000Z",
+        "end": "2025-03-25T20:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2025-03-25",
+        "name": "Cutiefly Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2025-03-25/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2025-03-25T18:00:00.000",
+        "end": "2025-03-25T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Cutiefly",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm742.icon.png",
+                "bonus": "2× Catch XP",
+                "list": [
+                    {
+                        "name": "Cutiefly",
+                        "canBeShiny": true,
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm742.icon.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20250326",
+        "name": "Heatran Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20250326/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2025-03-26T18:00:00.000",
+        "end": "2025-03-26T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "fuzzy-buddy-research-day",
+        "name": "Fuzzy Buddy Research Day",
+        "eventType": "research-day",
+        "heading": "Research Day",
+        "link": "https://leekduck.com/events/fuzzy-buddy-research-day/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-03-29-fuzzy-buddy-research-day/fuzzy-buddy-research-day-event.jpg?v3",
+        "start": "2025-03-29T14:00:00.000",
+        "end": "2025-03-29T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "masterwork-research-a-dazzling-aria",
+        "name": "Masterwork Research: A Dazzling Aria",
+        "eventType": "research",
+        "heading": "Research",
+        "link": "https://leekduck.com/events/masterwork-research-a-dazzling-aria/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-02-21-masterwork-research-a-dazzling-aria/shiny-meloetta.jpg",
+        "start": "2025-02-21T10:00:00.000",
+        "end": "2025-03-30T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "bug-out-2025",
+        "name": "Bug Out 2025",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/bug-out-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-03-26-bug-out-2025/bug-out-2025.jpg",
+        "start": "2025-03-26T10:00:00.000",
+        "end": "2025-03-30T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "march-max-battles-split-4-2025",
+        "name": "Max Battles - March 24 to March 31",
+        "eventType": "max-battles",
+        "heading": "Max Battles",
+        "link": "https://leekduck.com/events/march-max-battles-split-4-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/power-spots-max-battles.jpg",
+        "start": "2025-03-24T06:00:00.000",
+        "end": "2025-03-31T06:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "mega-pinsir-in-mega-raids-march-2025",
+        "name": "Mega Pinsir in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-pinsir-in-mega-raids-march-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2025-03-22T10:00:00.000",
+        "end": "2025-03-31T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Mega Pinsir",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm127.fMEGA.icon.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Pinsir",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_127_00_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "heatran-in-5-star-raid-battles-march-2025",
+        "name": "Heatran in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/heatran-in-5-star-raid-battles-march-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/heatran-raids.jpg",
+        "start": "2025-03-22T10:00:00.000",
+        "end": "2025-03-31T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Heatran",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_485_00.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Heatran",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_485_00_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2025-03-31",
+        "name": "Dynamax Scorbunny during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2025-03-31/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2025-03-31T18:00:00.000",
+        "end": "2025-03-31T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-might-and-mastery_great-league_ultra-league_master-league-split-1",
+        "name": "Great League, Ultra League, and Master League | Might and Mastery",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-might-and-mastery_great-league_ultra-league_master-league-split-1/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-22-might-and-mastery.jpg",
+        "start": "2025-03-25T20:00:00.000Z",
+        "end": "2025-04-01T20:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "power-up-ticket-march",
+        "name": "Power Up Ticket: March",
+        "eventType": "ticketed-event",
+        "heading": "Ticketed Event",
+        "link": "https://leekduck.com/events/power-up-ticket-march/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-03-04-power-up-ticket-march/power-up-ticket-march.jpg",
+        "start": "2025-03-04T14:00:00.000",
+        "end": "2025-04-04T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "shadow-regice-in-shadow-raids-might-and-mastery",
+        "name": "Shadow Regice in Shadow Raids in March",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/shadow-regice-in-shadow-raids-might-and-mastery/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2025-03-04T06:00:00.000",
+        "end": "2025-04-04T22:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Regice",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Regice",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_378_00_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "mega-audino-raid-day",
+        "name": "Mega Audino Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/mega-audino-raid-day/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-04-05-mega-audino-raid-day/mega-audino-raid-day.jpg",
+        "start": "2025-04-05T14:00:00.000",
+        "end": "2025-04-05T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "hatch-day-april-2025",
+        "name": "Hatch Day April 2025",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/hatch-day-april-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2025-04-06T14:00:00.000",
+        "end": "2025-04-06T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "stunning-styles",
+        "name": "Stunning Styles",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/stunning-styles/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-04-03-stunning-styles/stunning-styles.jpg",
+        "start": "2025-04-03T10:00:00.000",
+        "end": "2025-04-07T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "gbl-might-and-mastery_great-league_master-premier",
+        "name": "Great League and Master Premier | Might and Mastery",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-might-and-mastery_great-league_master-premier/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2025-04-01T20:00:00.000Z",
+        "end": "2025-04-08T20:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "raid-day-april-2025-2",
+        "name": "Raid Day April 2025",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/raid-day-april-2025-2/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2025-04-13T14:00:00.000",
+        "end": "2025-04-13T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-might-and-mastery_ultra-league_spring-cup-great-league-edition",
+        "name": "Ultra League and Spring Cup: Great League Edition | Might and Mastery",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-might-and-mastery_ultra-league_spring-cup-great-league-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+        "start": "2025-04-08T20:00:00.000Z",
+        "end": "2025-04-15T20:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gigantamax-snorlax-max-battle-day",
+        "name": "Gigantamax Snorlax Max Battle Day",
+        "eventType": "max-battles",
+        "heading": "Max Battles",
+        "link": "https://leekduck.com/events/gigantamax-snorlax-max-battle-day/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-04-19-gigantamax-snorlax-max-battle-day/gigantamax-snorlax-max-battle-day.jpg",
+        "start": "2025-04-19T14:00:00.000",
+        "end": "2025-04-19T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-might-and-mastery_master-league_spring-cup-great-league-edition",
+        "name": "Master League and Spring Cup: Great League Edition | Might and Mastery",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-might-and-mastery_master-league_spring-cup-great-league-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+        "start": "2025-04-15T20:00:00.000Z",
+        "end": "2025-04-22T20:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "april-communityday2025",
+        "name": "April Community Day",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/april-communityday2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+        "start": "2025-04-27T14:00:00.000",
+        "end": "2025-04-27T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-might-and-mastery_great-league_ultra-league_master-league-split-2",
+        "name": "Great League, Ultra League, and Master League | Might and Mastery",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-might-and-mastery_great-league_ultra-league_master-league-split-2/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-22-might-and-mastery.jpg",
+        "start": "2025-04-22T20:00:00.000Z",
+        "end": "2025-04-29T20:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "raid-day-may-2025",
+        "name": "Raid Day May 2025",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/raid-day-may-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2025-05-03T14:00:00.000",
+        "end": "2025-05-03T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-might-and-mastery_great-league_great-league-remix",
+        "name": "Great League and Great League Remix | Might and Mastery",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-might-and-mastery_great-league_great-league-remix/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2025-04-29T20:00:00.000Z",
+        "end": "2025-05-06T20:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "may-communityday2025",
+        "name": "May Community Day",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/may-communityday2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+        "start": "2025-05-11T14:00:00.000",
+        "end": "2025-05-11T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-might-and-mastery_ultra-league_great-league-remix",
+        "name": "Ultra League and Great League Remix | Might and Mastery",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-might-and-mastery_ultra-league_great-league-remix/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+        "start": "2025-05-06T20:00:00.000Z",
+        "end": "2025-05-13T20:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "shadow-raid-day-may-2025",
+        "name": "Shadow Raid Day May 2025",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/shadow-raid-day-may-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2025-05-17T14:00:00.000",
+        "end": "2025-05-17T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-might-and-mastery_master-league_retro-cup-great-league-edition",
+        "name": "Master League and Retro Cup: Great League Edition | Might and Mastery",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-might-and-mastery_master-league_retro-cup-great-league-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+        "start": "2025-05-13T20:00:00.000Z",
+        "end": "2025-05-20T20:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "may-communitydayclassic2025",
+        "name": "May Community Day Classic",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/may-communitydayclassic2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+        "start": "2025-05-24T14:00:00.000",
+        "end": "2025-05-24T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "max-battle-day-may-2025",
+        "name": "Max Battle Day May 2025",
+        "eventType": "max-battles",
+        "heading": "Max Battles",
+        "link": "https://leekduck.com/events/max-battle-day-may-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2025-05-25T14:00:00.000",
+        "end": "2025-05-25T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-might-and-mastery_great-league_catch-cup-great-league-edition",
+        "name": "Great League and Catch Cup: Great League Edition | Might and Mastery",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-might-and-mastery_great-league_catch-cup-great-league-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2025-05-20T20:00:00.000Z",
+        "end": "2025-05-27T20:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "go-battle-week-might-and-mastery",
+        "name": "GO Battle Week: Might and Mastery",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/go-battle-week-might-and-mastery/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-22-might-and-mastery.jpg",
+        "start": "2025-05-21T00:00:00.000",
+        "end": "2025-05-27T23:59:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "season-18-might-and-mastery",
+        "name": "Might and Mastery",
+        "eventType": "season",
+        "heading": "Season",
+        "link": "https://leekduck.com/events/season-18-might-and-mastery/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-03-04-season-18-might-and-mastery/season-18-might-and-mastery.jpg",
+        "start": "2025-03-04T10:00:00.000",
+        "end": "2025-06-03T10:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-might-and-mastery_great-league_ultra-league_master-league-split-3",
+        "name": "Great League, Ultra League, and Master League | Might and Mastery",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-might-and-mastery_great-league_ultra-league_master-league-split-3/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-22-might-and-mastery.jpg",
+        "start": "2025-05-27T20:00:00.000Z",
+        "end": "2025-06-03T20:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    }
+]

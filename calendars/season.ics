@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Season
+X-WR-CALNAME:Pokémon Go — Season
+X-WR-CALDESC:Pokémon Go Season events.
+BEGIN:VEVENT
+UID:scraped-duck-season-18-might-and-mastery
+SEQUENCE:0
+DTSTAMP:20250322T170216Z
+DTSTART:20250304T100000Z
+DTEND:20250603T100000Z
+SUMMARY:Season — Might and Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/season-18-might-and-maste
+ ry/">Might and Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Season
+URL;VALUE=URI:https://leekduck.com/events/season-18-might-and-mastery/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 03-04-season-18-might-and-mastery/season-18-might-and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Season — Might and Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-03-04-season-18-might-and-mastery/season-18-might-
+ and-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
