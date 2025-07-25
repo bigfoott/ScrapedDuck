@@ -55,6 +55,13 @@ function main()
                         }
                         e.extraData.raidbattles = data.data
                     }
+                    else if (data.type == "promo-codes")
+                    {
+                        if (e.extraData === null) {
+                            e.extraData = {};
+                        }
+                        e.extraData.promocodes = data.data
+                    }
                 }
             });
         });
