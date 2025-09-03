@@ -126,7 +126,3 @@ function get()
 }
 
 module.exports = { get }
-
-if (require.main === module) {
-    get();
-}
