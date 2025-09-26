@@ -10,79 +10,68 @@ function get()
         })
         .then((dom) => {
 
-            var list = dom.window.document.getElementById("raid-list").getElementsByTagName("ul")[0].childNodes;
+            const raidBosses = dom.window.document.querySelector('.raid-bosses');
+            const tiers = raidBosses.querySelectorAll('.tier');
+            let bosses = [];
 
-            var bosses = []
-            var currentTier = "";
-            list.forEach (e =>
-            {
-                if (e.className == "header-li")
-                {
-                    currentTier = e.textContent;
-                }
-                else if (e.className == "boss-item")
-                {
-                    e = e.getElementsByClassName("boss-border")[0];
+            tiers.forEach(tierDiv => {
+                const tierHeader = tierDiv.querySelector('h2.header');
+                const currentTier = tierHeader ? tierHeader.textContent.trim() : "";
 
-                    var boss = { 
+                const cards = tierDiv.querySelectorAll('.grid .card');
+                cards.forEach(card => {
+                    let boss = {
                         name: "",
                         tier: currentTier,
                         canBeShiny: false,
                         types: [],
                         combatPower: {
-                            normal: {
-                                min: -1,
-                                max: -1
-                            },
-                            boosted: {
-                                min: -1,
-                                max: -1
-                            }
+                            normal: { min: -1, max: -1 },
+                            boosted: { min: -1, max: -1 }
                         },
                         boostedWeather: [],
                         image: ""
-                    }
+                    };
 
-                    boss.name = e.getElementsByClassName("boss-1")[0].getElementsByClassName("boss-name")[0].textContent;
-                    
-                    var images = e.getElementsByClassName("boss-img")[0].getElementsByTagName("img");
-                    (Array.prototype.slice.call(images)).forEach(img =>
-                    {
-                        if (img.className == "shiny-icon")
-                        {
-                            boss.canBeShiny = true;
-                        }
-                        else{
-                            boss.image = img.src;
-                        }
+                    // Name
+                    boss.name = card.querySelector('.identity .name')?.textContent.trim() || "";
+
+                    // Image
+                    boss.image = card.querySelector('.boss-img img')?.src || "";
+
+                    // Shiny
+                    boss.canBeShiny = !!card.querySelector('.boss-img .shiny-icon');
+
+                    // Types
+                    card.querySelectorAll('.boss-type .type img').forEach(img => {
+                        boss.types.push({
+                            name: img.getAttribute('title')?.toLowerCase() || "",
+                            image: img.src
+                        });
                     });
 
-                    e.getElementsByClassName("boss-1")[0].getElementsByClassName("boss-type")[0].childNodes.forEach(img =>
-                    {
-                        if (img && img.className && img.className.startsWith("type"))
-                        {
-                            boss.types.push({ name: img.getAttribute("title").toLowerCase(), image: img.src });
-                        }
-                    });
+                    // Combat Power (normal)
+                    let cpText = card.querySelector('.cp-range')?.textContent.replace('CP', '').trim() || "";
+                    let [cpMin, cpMax] = cpText.split('-').map(s => parseInt(s.trim()));
+                    boss.combatPower.normal.min = cpMin || -1;
+                    boss.combatPower.normal.max = cpMax || -1;
 
-                    var tempPower = e.getElementsByClassName("boss-2")[0].textContent.trim().substring(3);
-                    boss.combatPower.normal.min = parseInt(tempPower.split(" - ")[0]);
-                    boss.combatPower.normal.max = parseInt(tempPower.split(" - ")[1]);
+                    // Combat Power (boosted)
+                    let boostedText = card.querySelector('.boosted-cp-row .boosted-cp')?.textContent.replace('CP', '').trim() || "";
+                    let [boostMin, boostMax] = boostedText.split('-').map(s => parseInt(s.trim()));
+                    boss.combatPower.boosted.min = boostMin || -1;
+                    boss.combatPower.boosted.max = boostMax || -1;
 
-                    var tempBoost = e.getElementsByClassName("boss-3")[0];
-                    tempBoost.getElementsByClassName("boss-weather")[0].childNodes.forEach(img =>
-                    {
-                        if (img && img.className && img.className.startsWith("weather"))
-                        {
-                            boss.boostedWeather.push({ name: img.getAttribute("title").toLowerCase(), image: img.src });
-                        }
+                    // Boosted Weather
+                    card.querySelectorAll('.weather-boosted .boss-weather .weather-pill img').forEach(img => {
+                        boss.boostedWeather.push({
+                            name: img.getAttribute('alt')?.toLowerCase() || "",
+                            image: img.src
+                        });
                     });
-                    var tempBoostPower = tempBoost.getElementsByClassName("boosted-cp")[0].textContent.trim().substring(3);
-                    boss.combatPower.boosted.min = parseInt(tempBoostPower.split(" - ")[0]);
-                    boss.combatPower.boosted.max = parseInt(tempBoostPower.split(" - ")[1]);
 
                     bosses.push(boss);
-                }
+                });
             });
 
             fs.writeFile('files/raids.json', JSON.stringify(bosses, null, 4), err => {
