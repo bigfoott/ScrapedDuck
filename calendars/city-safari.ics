@@ -1,0 +1,130 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — City Safari
+X-WR-CALNAME:Pokémon Go — City Safari
+X-WR-CALDESC:Pokémon Go City Safari events.
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-city-safari-bangkok-2025
+SEQUENCE:0
+DTSTAMP:20250927T160303Z
+DTSTART:20250927T030000Z
+DTEND:20250928T110000Z
+SUMMARY:City Safari — Bangkok\, Thailand - Pokémon GO City Safari
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-city-safari-ba
+ ngkok-2025/">Bangkok\, Thailand - Pokémon GO City Safari</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:City Safari
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-city-safari-bangkok-2
+ 025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 09-27-pokemon-go-city-safari-bangkok-2025/city-safari-bangkok-2025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:City Safari — Bangkok\, Thailand - Poké
+ mon GO City Safari
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-09-27-pokemon-go-city-safari-bangkok-2025/city-saf
+ ari-bangkok-2025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-city-safari-amsterdam-2025
+SEQUENCE:0
+DTSTAMP:20250927T160303Z
+DTSTART:20250927T080000Z
+DTEND:20250928T160000Z
+SUMMARY:City Safari — Amsterdam\, Netherlands - Pokémon GO City Safari
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-city-safari-am
+ sterdam-2025/">Amsterdam\, Netherlands - Pokémon GO City Safari</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:City Safari
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-city-safari-amsterdam
+ -2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 09-27-pokemon-go-city-safari-amsterdam-2025/city-safari-amsterdam-2025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:City Safari — Amsterdam\, Netherlands - 
+ Pokémon GO City Safari
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-09-27-pokemon-go-city-safari-amsterdam-2025/city-s
+ afari-amsterdam-2025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-city-safari-valencia-2025
+SEQUENCE:0
+DTSTAMP:20250927T160303Z
+DTSTART:20250927T080000Z
+DTEND:20250928T160000Z
+SUMMARY:City Safari — Valencia\, Spain - Pokémon GO City Safari
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-city-safari-va
+ lencia-2025/">Valencia\, Spain - Pokémon GO City Safari</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:City Safari
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-city-safari-valencia-
+ 2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 09-27-pokemon-go-city-safari-valencia-2025/city-safari-valencia-2025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:City Safari — Valencia\, Spain - Pokémo
+ n GO City Safari
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-09-27-pokemon-go-city-safari-valencia-2025/city-sa
+ fari-valencia-2025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-city-safari-cancun-2025
+SEQUENCE:0
+DTSTAMP:20250927T160303Z
+DTSTART:20250927T150000Z
+DTEND:20250928T230000Z
+SUMMARY:City Safari — Cancún\, Mexico - Pokémon GO City Safari
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-city-safari-ca
+ ncun-2025/">Cancún\, Mexico - Pokémon GO City Safari</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:City Safari
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-city-safari-cancun-20
+ 25/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 09-27-pokemon-go-city-safari-cancun-2025/city-safari-cancun-2025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:City Safari — Cancún\, Mexico - Pokémo
+ n GO City Safari
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-09-27-pokemon-go-city-safari-cancun-2025/city-safa
+ ri-cancun-2025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-city-safari-vancouver-2025
+SEQUENCE:0
+DTSTAMP:20250927T160303Z
+DTSTART:20250927T170000Z
+DTEND:20250929T010000Z
+SUMMARY:City Safari — Vancouver\, Canada - Pokémon GO City Safari
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-city-safari-va
+ ncouver-2025/">Vancouver\, Canada - Pokémon GO City Safari</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:City Safari
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-city-safari-vancouver
+ -2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 09-27-pokemon-go-city-safari-vancouver-2025/city-safari-vancouver-2025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:City Safari — Vancouver\, Canada - Poké
+ mon GO City Safari
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-09-27-pokemon-go-city-safari-vancouver-2025/city-s
+ afari-vancouver-2025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

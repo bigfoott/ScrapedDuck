@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Season
+X-WR-CALNAME:Pokémon Go — Season
+X-WR-CALDESC:Pokémon Go Season events.
+BEGIN:VEVENT
+UID:scraped-duck-season-20-tales-of-transformation
+SEQUENCE:0
+DTSTAMP:20250927T160303Z
+DTSTART:20250902T100000Z
+DTEND:20251202T100000Z
+SUMMARY:Season — Tales of Transformation
+DESCRIPTION:<a href="https://leekduck.com/events/season-20-tales-of-transf
+ ormation/">Tales of Transformation</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Season
+URL;VALUE=URI:https://leekduck.com/events/season-20-tales-of-transformatio
+ n/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 09-02-season-20-tales-of-transformation/season-20-tales-of-transformation.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Season — Tales of Transformation
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-09-02-season-20-tales-of-transformation/season-20-
+ tales-of-transformation.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
