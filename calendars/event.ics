@@ -1,0 +1,186 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Event
+X-WR-CALNAME:Pokémon Go — Event
+X-WR-CALDESC:Pokémon Go Event events.
+BEGIN:VEVENT
+UID:scraped-duck-steel-skyline-2025
+SEQUENCE:0
+DTSTAMP:20251004T164416Z
+DTSTART:20250930T100000Z
+DTEND:20251007T200000Z
+SUMMARY:Event — Steel Skyline
+DESCRIPTION:<a href="https://leekduck.com/events/steel-skyline-2025/">Stee
+ l Skyline</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/steel-skyline-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 09-30-steel-skyline-2025/steel-skyline.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Steel Skyline
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-09-30-steel-skyline-2025/steel-skyline.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-xp-celebration-event-2025
+SEQUENCE:0
+DTSTAMP:20251004T164416Z
+DTSTART:20250825T130000Z
+DTEND:20251014T235900Z
+SUMMARY:Event — XP Celebration
+DESCRIPTION:<a href="https://leekduck.com/events/xp-celebration-event-2025
+ /">XP Celebration</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/xp-celebration-event-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 08-25-xp-celebration-event-2025/xp-event.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — XP Celebration
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-08-25-xp-celebration-event-2025/xp-event.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-harvest-festival-2025
+SEQUENCE:0
+DTSTAMP:20251004T164416Z
+DTSTART:20251010T100000Z
+DTEND:20251016T200000Z
+SUMMARY:Event — Harvest Festival
+DESCRIPTION:<a href="https://leekduck.com/events/harvest-festival-2025/">H
+ arvest Festival</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/harvest-festival-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 10-10-harvest-festival-2025/harvest-festival-2025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Harvest Festival
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-10-10-harvest-festival-2025/harvest-festival-2025.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-legends-za-celebration-event-2025
+SEQUENCE:0
+DTSTAMP:20251004T164416Z
+DTSTART:20251016T100000Z
+DTEND:20251020T200000Z
+SUMMARY:Event — Pokémon Legends: Z-A Celebration Event
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-legends-za-celebr
+ ation-event-2025/">Pokémon Legends: Z-A Celebration Event</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/pokemon-legends-za-celebration-e
+ vent-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 10-16-pokemon-legends-za-celebration-event-2025/pokemon-legends-za-celebra
+ tion-event.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Pokémon Legends: Z-A Celebratio
+ n Event
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-10-16-pokemon-legends-za-celebration-event-2025/po
+ kemon-legends-za-celebration-event.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-go-battle-weekend-tales-of-transformation
+SEQUENCE:0
+DTSTAMP:20251004T164416Z
+DTSTART:20251025T000000Z
+DTEND:20251026T235900Z
+SUMMARY:Event — GO Battle Weekend: Tales of Transformation
+DESCRIPTION:<a href="https://leekduck.com/events/go-battle-weekend-tales-o
+ f-transformation/">GO Battle Weekend: Tales of Transformation</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/go-battle-weekend-tales-of-trans
+ formation/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 4-tales-of-transformation.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — GO Battle Weekend: Tales of Tran
+ sformation
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-24-tales-of-transformation.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-halloween-2025-part-i
+SEQUENCE:0
+DTSTAMP:20251004T164416Z
+DTSTART:20251021T100000Z
+DTEND:20251027T200000Z
+SUMMARY:Event — Halloween 2025 Part I
+DESCRIPTION:<a href="https://leekduck.com/events/halloween-2025-part-i/">H
+ alloween 2025 Part I</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/halloween-2025-part-i/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Halloween 2025 Part I
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-halloween-2025-part-ii
+SEQUENCE:0
+DTSTAMP:20251004T164416Z
+DTSTART:20251027T100000Z
+DTEND:20251102T200000Z
+SUMMARY:Event — Halloween 2025 Part II
+DESCRIPTION:<a href="https://leekduck.com/events/halloween-2025-part-ii/">
+ Halloween 2025 Part II</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/halloween-2025-part-ii/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Halloween 2025 Part II
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-trade-days-tales-of-transformation
+SEQUENCE:0
+DTSTAMP:20251004T164416Z
+DTSTART:20250907T000000Z
+DTEND:20251130T235959Z
+SUMMARY:Event — Trade Days | Tales of Transformation
+DESCRIPTION:<a href="https://leekduck.com/events/trade-days-tales-of-trans
+ formation/">Trade Days | Tales of Transformation</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/trade-days-tales-of-transformati
+ on/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 09-07-trade-days-tales-of-transformation/trade-days.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Trade Days | Tales of Transforma
+ tion
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-day
+ s.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

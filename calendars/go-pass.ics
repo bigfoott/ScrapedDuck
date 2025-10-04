@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — GO Pass
+X-WR-CALNAME:Pokémon Go — GO Pass
+X-WR-CALDESC:Pokémon Go GO Pass events.
+BEGIN:VEVENT
+UID:scraped-duck-go-pass-september-2025
+SEQUENCE:0
+DTSTAMP:20251004T164416Z
+DTSTART:20250902T100000Z
+DTEND:20251007T100000Z
+SUMMARY:GO Pass — GO Pass: September
+DESCRIPTION:<a href="https://leekduck.com/events/go-pass-september-2025/">
+ GO Pass: September</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Pass
+URL;VALUE=URI:https://leekduck.com/events/go-pass-september-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 09-02-go-pass-september-2025/go-pass-september-2025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Pass — GO Pass: September
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-09-02-go-pass-september-2025/go-pass-september-202
+ 5.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-go-pass-october-2025
+SEQUENCE:0
+DTSTAMP:20251004T164416Z
+DTSTART:20251007T100000Z
+DTEND:20251104T100000Z
+SUMMARY:GO Pass — GO Pass: October
+DESCRIPTION:<a href="https://leekduck.com/events/go-pass-october-2025/">GO
+  Pass: October</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Pass
+URL;VALUE=URI:https://leekduck.com/events/go-pass-october-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 10-07-go-pass-october-2025/go-pass-october-2025.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Pass — GO Pass: October
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-10-07-go-pass-october-2025/go-pass-october-2025.jp
+ g
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
