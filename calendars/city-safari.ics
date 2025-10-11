@@ -1,0 +1,83 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — City Safari
+X-WR-CALNAME:Pokémon Go — City Safari
+X-WR-CALDESC:Pokémon Go City Safari events.
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-city-safari-sydney-2025
+SEQUENCE:0
+DTSTAMP:20251011T165140Z
+DTSTART:20251212T230000Z
+DTEND:20251214T070000Z
+SUMMARY:City Safari — Sydney\, Australia - Pokémon GO City Safari
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-city-safari-sy
+ dney-2025/">Sydney\, Australia - Pokémon GO City Safari</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:City Safari
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-city-safari-sydney-20
+ 25/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 12-13-pokemon-go-city-safari-sydney-2025/city-safari-sydney-2025.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TITLE:City Safari — Sydney\, Australia - Poké
+ mon GO City Safari
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-12-13-pokemon-go-city-safari-sydney-2025/city-safa
+ ri-sydney-2025.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-city-safari-buenos-aires-2025
+SEQUENCE:0
+DTSTAMP:20251011T165140Z
+DTSTART:20251213T130000Z
+DTEND:20251214T210000Z
+SUMMARY:City Safari — Buenos Aires\, Argentina - Pokémon GO City Safari
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-city-safari-bu
+ enos-aires-2025/">Buenos Aires\, Argentina - Pokémon GO City Safari</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:City Safari
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-city-safari-buenos-ai
+ res-2025/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 12-13-pokemon-go-city-safari-buenos-aires-2025/city-safari-buenos-aires-20
+ 25.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TITLE:City Safari — Buenos Aires\, Argentina -
+  Pokémon GO City Safari
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-12-13-pokemon-go-city-safari-buenos-aires-2025/cit
+ y-safari-buenos-aires-2025.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-city-safari-miami-2025
+SEQUENCE:0
+DTSTAMP:20251011T165140Z
+DTSTART:20251213T150000Z
+DTEND:20251214T230000Z
+SUMMARY:City Safari — Miami\, USA - Pokémon GO City Safari
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-city-safari-mi
+ ami-2025/">Miami\, USA - Pokémon GO City Safari</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:City Safari
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-city-safari-miami-202
+ 5/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 12-13-pokemon-go-city-safari-miami-2025/city-safari-miami-2025.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TITLE:City Safari — Miami\, USA - Pokémon GO 
+ City Safari
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-12-13-pokemon-go-city-safari-miami-2025/city-safar
+ i-miami-2025.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
