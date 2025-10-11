@@ -126,6 +126,5 @@ function get()
             });
     })
 }
-get();
 
 module.exports = { get }
