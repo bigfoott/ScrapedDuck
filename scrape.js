@@ -3,6 +3,7 @@ const events = require('./pages/events')
 const raids = require('./pages/raids')
 const research = require('./pages/research')
 const eggs = require('./pages/eggs')
+const rocketLineups = require('./pages/rocketLineups')
 
 function main()
 {
@@ -13,6 +14,7 @@ function main()
     raids.get();
     research.get();
     eggs.get();
+    rocketLineups.get();
 }
 
 try
