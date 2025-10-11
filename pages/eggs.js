@@ -41,13 +41,14 @@ function get()
                                 max: -1
                             },
                             isRegional: false,
-                            isGiftExchange: false
+                            isGiftExchange: false,
+                            rarity: 0
                         };
 
-                        pokemon.name = e.querySelector(".name").innerHTML;
+                        pokemon.name = e.querySelector(".name").innerHTML || "";
                         pokemon.eggType = currentType;
                         pokemon.isAdventureSync = currentAdventureSync;
-                        pokemon.image = e.querySelector(".icon img").src;
+                        pokemon.image = e.querySelector(".icon img").src || "";
                         pokemon.canBeShiny = e.querySelector(".shiny-icon") != null;
                         pokemon.isRegional = e.querySelector(".regional-icon") != null;
                         pokemon.isGiftExchange = currentGiftExchange;
@@ -62,6 +63,12 @@ function get()
                         } else {
                             pokemon.combatPower.min = parseInt(cpValue);
                             pokemon.combatPower.max = parseInt(cpValue);
+                        }
+
+                        var rarityDiv = e.querySelector(".rarity");
+                        if (rarityDiv) {
+                            var miniEggs = rarityDiv.querySelectorAll("svg.mini-egg");
+                            pokemon.rarity = miniEggs.length;
                         }
 
                         eggs.push(pokemon);
@@ -119,5 +126,6 @@ function get()
             });
     })
 }
+get();
 
 module.exports = { get }
