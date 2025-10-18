@@ -1,0 +1,817 @@
+[
+    {
+        "eventID": "mega-rayquaza-raid-day-november-2025",
+        "name": "Mega Rayquaza Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/mega-rayquaza-raid-day-november-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-18-mega-rayquaza-raid-day-november-2025/mega-rayquaza-raid-day.jpg",
+        "start": "2025-10-18T14:00:00.000",
+        "end": "2025-10-18T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-showcase-rayquaza-2025-10-18",
+        "name": "Rayquaza PokéStop Showcase",
+        "eventType": "pokestop-showcase",
+        "heading": "PokéStop Showcase",
+        "link": "https://leekduck.com/events/pokemon-showcase-rayquaza-2025-10-18/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+        "start": "2025-10-18T10:00:00.000",
+        "end": "2025-10-19T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2025-10-20",
+        "name": "Dynamax Gastly during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2025-10-20/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2025-10-20T18:00:00.000",
+        "end": "2025-10-20T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-legends-za-celebration-event-2025",
+        "name": "Pokémon Legends: Z-A Celebration Event",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/pokemon-legends-za-celebration-event-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-16-pokemon-legends-za-celebration-event-2025/pokemon-legends-za-celebration-event.jpg",
+        "start": "2025-10-16T10:00:00.000",
+        "end": "2025-10-20T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "deoxys-attack-speed-in-5-star-raid-battles-october-2025",
+        "name": "Deoxys (Attack &amp; Speed Forme) in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/deoxys-attack-speed-in-5-star-raid-battles-october-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/deoxys-all-formes.jpg",
+        "start": "2025-10-14T10:00:00.000",
+        "end": "2025-10-21T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Deoxys (Attack)",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_12.png",
+                        "canBeShiny": true
+                    },
+                    {
+                        "name": "Deoxys (Speed)",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_14.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Deoxys (Attack)",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_12_shiny.png"
+                    },
+                    {
+                        "name": "Deoxys (Speed)",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_386_14_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "mega-mawile-mega-salamence-in-mega-raids-october-2025",
+        "name": "Mega Mawile and Mega Salamence in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-mawile-mega-salamence-in-mega-raids-october-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2025-10-14T10:00:00.000",
+        "end": "2025-10-21T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Mega Mawile",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_303_51.png",
+                        "canBeShiny": true
+                    },
+                    {
+                        "name": "Mega Salamence",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm373.fMEGA.icon.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Mawile",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_303_00_shiny.png"
+                    },
+                    {
+                        "name": "Mega Mawile",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_303_51_shiny.png"
+                    },
+                    {
+                        "name": "Salamence",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_373_00_shiny.png"
+                    },
+                    {
+                        "name": "Mega Salamence",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm373.fMEGA.s.icon.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-tales-of-transformation_master-premier_great-league-remix",
+        "name": "Master Premier and Great League Remix | Tales of Transformation",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-tales-of-transformation_master-premier_great-league-remix/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+        "start": "2025-10-14T20:00:00.000Z",
+        "end": "2025-10-21T20:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2025-10-21",
+        "name": "Gastly Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2025-10-21/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2025-10-21T18:00:00.000",
+        "end": "2025-10-21T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Gastly",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png",
+                "bonus": "2× Catch XP",
+                "list": [
+                    {
+                        "name": "Gastly",
+                        "canBeShiny": true,
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_092_00.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20251022",
+        "name": "Genesect Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20251022/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2025-10-22T18:00:00.000",
+        "end": "2025-10-22T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "go-battle-weekend-tales-of-transformation",
+        "name": "GO Battle Weekend: Tales of Transformation",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/go-battle-weekend-tales-of-transformation/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
+        "start": "2025-10-25T00:00:00.000",
+        "end": "2025-10-26T23:59:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "halloween-2025-part-i",
+        "name": "Halloween 2025 Part I",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/halloween-2025-part-i/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-21-halloween-2025-part-i/halloween-2025-part-i.jpg",
+        "start": "2025-10-21T10:00:00.000",
+        "end": "2025-10-27T10:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2025-10-27",
+        "name": "Dynamax Woobat during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2025-10-27/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2025-10-27T18:00:00.000",
+        "end": "2025-10-27T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "genesect-douse-shock-in-5-star-raid-battles-october-2025",
+        "name": "Genesect (Douse &amp; Shock Drive) in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/genesect-douse-shock-in-5-star-raid-battles-october-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/genesect.jpg",
+        "start": "2025-10-21T10:00:00.000",
+        "end": "2025-10-28T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Genesect",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_649_11.png",
+                        "canBeShiny": true
+                    },
+                    {
+                        "name": "Genesect (Douse)",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_649_12.png",
+                        "canBeShiny": true
+                    },
+                    {
+                        "name": "Genesect (Shock)",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_649_13.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Genesect",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_649_11_shiny.png"
+                    },
+                    {
+                        "name": "Genesect (Douse)",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_649_12_shiny.png"
+                    },
+                    {
+                        "name": "Genesect (Shock)",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_649_13_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "mega-houndoom-mega-absol-in-mega-raids-october-2025",
+        "name": "Mega Houndoom and Mega Absol in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-houndoom-mega-absol-in-mega-raids-october-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2025-10-21T10:00:00.000",
+        "end": "2025-10-28T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Mega Houndoom",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_51.png",
+                        "canBeShiny": true
+                    },
+                    {
+                        "name": "Mega Absol",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm359.fMEGA.icon.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Houndoom",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_00_shiny.png"
+                    },
+                    {
+                        "name": "Mega Houndoom",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_229_51_shiny.png"
+                    },
+                    {
+                        "name": "Absol",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_359_00_shiny.png"
+                    },
+                    {
+                        "name": "Mega Absol",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm359.fMEGA.s.icon.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-tales-of-transformation_great-league_ultra-league_master-league-split-2",
+        "name": "Great League, Ultra League, and Master League | Tales of Transformation",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-2/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
+        "start": "2025-10-21T20:00:00.000Z",
+        "end": "2025-10-28T20:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2025-10-28",
+        "name": "Sinistea Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2025-10-28/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2025-10-28T18:00:00.000",
+        "end": "2025-10-28T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Sinistea",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm854.icon.png",
+                "bonus": "2× Catch Candy",
+                "list": [
+                    {
+                        "name": "Sinistea",
+                        "canBeShiny": true,
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm854.icon.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20251029",
+        "name": "Giratina (Origin Forme) Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20251029/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2025-10-29T18:00:00.000",
+        "end": "2025-10-29T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gigantamax-garbodor-max-battle-day",
+        "name": "Gigantamax Garbodor Max Battle Day",
+        "eventType": "max-battles",
+        "heading": "Max Battles",
+        "link": "https://leekduck.com/events/gigantamax-garbodor-max-battle-day/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-01-gigantamax-garbodor-max-battle-day/gigantamax-garbodor-max-battle-day.jpg",
+        "start": "2025-11-01T14:00:00.000",
+        "end": "2025-11-01T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "go-pass-halloween-2025",
+        "name": "GO Pass: Halloween 2025",
+        "eventType": "go-pass",
+        "heading": "GO Pass",
+        "link": "https://leekduck.com/events/go-pass-halloween-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-21-go-pass-halloween-2025/go-pass-halloween-2025.jpg",
+        "start": "2025-10-21T10:00:00.000",
+        "end": "2025-11-02T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "halloween-2025-part-ii",
+        "name": "Halloween 2025 Part II",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/halloween-2025-part-ii/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-27-halloween-2025-part-ii/halloween-2025-part-ii.jpg",
+        "start": "2025-10-27T10:00:00.000",
+        "end": "2025-11-02T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "go-pass-october-2025",
+        "name": "GO Pass: October",
+        "eventType": "go-pass",
+        "heading": "GO Pass",
+        "link": "https://leekduck.com/events/go-pass-october-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-10-07-go-pass-october-2025/go-pass-october-2025.jpg",
+        "start": "2025-10-07T10:00:00.000",
+        "end": "2025-11-04T10:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "giratina-altered-in-5-star-raid-battles-october-2025",
+        "name": "Giratina (Altered Forme) in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/giratina-altered-in-5-star-raid-battles-october-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/giratinaaltered.jpg",
+        "start": "2025-10-28T10:00:00.000",
+        "end": "2025-11-04T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Giratina (Altered)",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Giratina (Altered)",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_487_11_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "mega-gengar-mega-sableye-mega-banette-in-mega-raids-october-2025",
+        "name": "Mega Gengar, Mega Sableye, and Mega Banette in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-gengar-mega-sableye-mega-banette-in-mega-raids-october-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2025-10-28T10:00:00.000",
+        "end": "2025-11-04T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Mega Gengar",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_51.png",
+                        "canBeShiny": true
+                    },
+                    {
+                        "name": "Mega Sableye",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51.png",
+                        "canBeShiny": true
+                    },
+                    {
+                        "name": "Mega Banette",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm354.fMEGA.icon.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Gengar",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_00_shiny.png"
+                    },
+                    {
+                        "name": "Mega Gengar",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_094_51_shiny.png"
+                    },
+                    {
+                        "name": "Sableye",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00_shiny.png"
+                    },
+                    {
+                        "name": "Mega Sableye",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51_shiny.png"
+                    },
+                    {
+                        "name": "Banette",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_354_00_shiny.png"
+                    },
+                    {
+                        "name": "Mega Banette",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm354.fMEGA.s.icon.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-tales-of-transformation_great-league_halloween-cup-great-league-edition",
+        "name": "Great League and Halloween Cup: Great League Edition | Tales of Transformation",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_halloween-cup-great-league-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2025-10-28T21:00:00.000Z",
+        "end": "2025-11-04T21:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-go-wild-area-2025-nagasaki-japan",
+        "name": "Pokémon GO Wild Area: Nagasaki",
+        "eventType": "wild-area",
+        "heading": "Wild Area",
+        "link": "https://leekduck.com/events/pokemon-go-wild-area-2025-nagasaki-japan/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-07-pokemon-go-wild-area-2025-nagasaki-japan/wild-area-2025-nagasaki-key-art.jpg",
+        "start": "2025-11-07T00:00:00.000Z",
+        "end": "2025-11-09T08:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition-2",
+        "name": "Ultra League and Jungle Cup: Great League Edition | Tales of Transformation",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-tales-of-transformation_ultra-league_jungle-cup-great-league-edition-2/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+        "start": "2025-11-04T21:00:00.000Z",
+        "end": "2025-11-11T21:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "into-the-wild-2025",
+        "name": "Into the Wild",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/into-the-wild-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-10-into-the-wild-2025/into-the-wild-2025.jpg",
+        "start": "2025-11-10T10:00:00.000",
+        "end": "2025-11-14T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "go-pass-into-the-wild",
+        "name": "GO Pass: Into the Wild",
+        "eventType": "go-pass",
+        "heading": "GO Pass",
+        "link": "https://leekduck.com/events/go-pass-into-the-wild/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-10-go-pass-into-the-wild/go-pass-into-the-wild.jpg",
+        "start": "2025-11-10T10:00:00.000",
+        "end": "2025-11-16T18:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-go-wild-area-2025-global",
+        "name": "Pokémon GO Wild Area: Global",
+        "eventType": "wild-area",
+        "heading": "Wild Area",
+        "link": "https://leekduck.com/events/pokemon-go-wild-area-2025-global/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-11-15-pokemon-go-wild-area-2025-global/wild-area-2025-global-key-art.jpg",
+        "start": "2025-11-15T10:00:00.000",
+        "end": "2025-11-16T18:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "gbl-tales-of-transformation_great-league_ultra-league_master-league-split-3",
+        "name": "Great League, Ultra League, and Master League | Tales of Transformation",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-tales-of-transformation_great-league_ultra-league_master-league-split-3/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
+        "start": "2025-11-11T21:00:00.000Z",
+        "end": "2025-11-18T21:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-tales-of-transformation_2025-championship-series-cup_master-league-mega-edition",
+        "name": "2025 Championship Series Cup and Master League: Mega Edition | Tales of Transformation",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-tales-of-transformation_2025-championship-series-cup_master-league-mega-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+        "start": "2025-11-18T21:00:00.000Z",
+        "end": "2025-11-25T21:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "november-communityday2025",
+        "name": "November Community Day",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/november-communityday2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+        "start": "2025-11-30T14:00:00.000",
+        "end": "2025-11-30T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "trade-days-tales-of-transformation",
+        "name": "Trade Days | Tales of Transformation",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/trade-days-tales-of-transformation/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-07-trade-days-tales-of-transformation/trade-days.jpg",
+        "start": "2025-09-07T00:00:00.000",
+        "end": "2025-11-30T23:59:59.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "season-20-tales-of-transformation",
+        "name": "Tales of Transformation",
+        "eventType": "season",
+        "heading": "Season",
+        "link": "https://leekduck.com/events/season-20-tales-of-transformation/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-09-02-season-20-tales-of-transformation/season-20-tales-of-transformation.jpg",
+        "start": "2025-09-02T10:00:00.000",
+        "end": "2025-12-02T10:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league",
+        "name": "Catch Cup: Tales of Transformation: Great Edition, Ultra League, and Master League | Tales of Transformation",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-tales-of-transformation_catch-cup-tales-of-transformation-great-edition_ultra-league_master-league/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-24-tales-of-transformation.jpg",
+        "start": "2025-11-25T21:00:00.000Z",
+        "end": "2025-12-02T21:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-go-city-safari-sydney-2025",
+        "name": "Sydney, Australia - Pokémon GO City Safari",
+        "eventType": "city-safari",
+        "heading": "City Safari",
+        "link": "https://leekduck.com/events/pokemon-go-city-safari-sydney-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-13-pokemon-go-city-safari-sydney-2025/city-safari-sydney-2025.jpg?v2",
+        "start": "2025-12-12T23:00:00.000Z",
+        "end": "2025-12-14T07:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-go-city-safari-buenos-aires-2025",
+        "name": "Buenos Aires, Argentina - Pokémon GO City Safari",
+        "eventType": "city-safari",
+        "heading": "City Safari",
+        "link": "https://leekduck.com/events/pokemon-go-city-safari-buenos-aires-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-13-pokemon-go-city-safari-buenos-aires-2025/city-safari-buenos-aires-2025.jpg?v2",
+        "start": "2025-12-13T13:00:00.000Z",
+        "end": "2025-12-14T21:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-go-city-safari-miami-2025",
+        "name": "Miami, USA - Pokémon GO City Safari",
+        "eventType": "city-safari",
+        "heading": "City Safari",
+        "link": "https://leekduck.com/events/pokemon-go-city-safari-miami-2025/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-13-pokemon-go-city-safari-miami-2025/city-safari-miami-2025.jpg?v2",
+        "start": "2025-12-13T15:00:00.000Z",
+        "end": "2025-12-14T23:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    }
+]

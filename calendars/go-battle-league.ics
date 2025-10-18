@@ -1,0 +1,195 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — GO Battle League
+X-WR-CALNAME:Pokémon Go — GO Battle League
+X-WR-CALDESC:Pokémon Go GO Battle League events.
+BEGIN:VEVENT
+UID:scraped-duck-gbl-tales-of-transformation_master-premier_great-league-r
+ emix
+SEQUENCE:0
+DTSTAMP:20251018T193151Z
+DTSTART:20251014T200000Z
+DTEND:20251021T200000Z
+SUMMARY:GO Battle League — Master Premier and Great League Remix | Tales
+  of Transformation
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-tales-of-transformati
+ on_master-premier_great-league-remix/">Master Premier and Great League Rem
+ ix | Tales of Transformation</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-tales-of-transformation_mast
+ er-premier_great-league-remix/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Master Premier and Gr
+ eat League Remix | Tales of Transformation
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-tales-of-transformation_great-league_ultra-league_mas
+ ter-league-split-2
+SEQUENCE:0
+DTSTAMP:20251018T193151Z
+DTSTART:20251021T200000Z
+DTEND:20251028T200000Z
+SUMMARY:GO Battle League — Great League\, Ultra League\, and Master Leag
+ ue | Tales of Transformation
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-tales-of-transformati
+ on_great-league_ultra-league_master-league-split-2/">Great League\, Ultra 
+ League\, and Master League | Tales of Transformation</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-tales-of-transformation_grea
+ t-league_ultra-league_master-league-split-2/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 4-tales-of-transformation.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League\, and Master League | Tales of Transformation
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-24-tales-of-transformation.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-tales-of-transformation_great-league_halloween-cup-gr
+ eat-league-edition
+SEQUENCE:0
+DTSTAMP:20251018T193151Z
+DTSTART:20251028T210000Z
+DTEND:20251104T210000Z
+SUMMARY:GO Battle League — Great League and Halloween Cup: Great League 
+ Edition | Tales of Transformation
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-tales-of-transformati
+ on_great-league_halloween-cup-great-league-edition/">Great League and Hall
+ oween Cup: Great League Edition | Tales of Transformation</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-tales-of-transformation_grea
+ t-league_halloween-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League and Hall
+ oween Cup: Great League Edition | Tales of Transformation
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-tales-of-transformation_ultra-league_jungle-cup-great
+ -league-edition-2
+SEQUENCE:0
+DTSTAMP:20251018T193151Z
+DTSTART:20251104T210000Z
+DTEND:20251111T210000Z
+SUMMARY:GO Battle League — Ultra League and Jungle Cup: Great League Edi
+ tion | Tales of Transformation
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-tales-of-transformati
+ on_ultra-league_jungle-cup-great-league-edition-2/">Ultra League and Jungl
+ e Cup: Great League Edition | Tales of Transformation</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-tales-of-transformation_ultr
+ a-league_jungle-cup-great-league-edition-2/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-le
+ ague-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Ultra League and Jung
+ le Cup: Great League Edition | Tales of Transformation
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-ultra-league-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-tales-of-transformation_great-league_ultra-league_mas
+ ter-league-split-3
+SEQUENCE:0
+DTSTAMP:20251018T193151Z
+DTSTART:20251111T210000Z
+DTEND:20251118T210000Z
+SUMMARY:GO Battle League — Great League\, Ultra League\, and Master Leag
+ ue | Tales of Transformation
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-tales-of-transformati
+ on_great-league_ultra-league_master-league-split-3/">Great League\, Ultra 
+ League\, and Master League | Tales of Transformation</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-tales-of-transformation_grea
+ t-league_ultra-league_master-league-split-3/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 4-tales-of-transformation.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League\, and Master League | Tales of Transformation
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-24-tales-of-transformation.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-tales-of-transformation_2025-championship-series-cup_
+ master-league-mega-edition
+SEQUENCE:0
+DTSTAMP:20251018T193151Z
+DTSTART:20251118T210000Z
+DTEND:20251125T210000Z
+SUMMARY:GO Battle League — 2025 Championship Series Cup and Master Leagu
+ e: Mega Edition | Tales of Transformation
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-tales-of-transformati
+ on_2025-championship-series-cup_master-league-mega-edition/">2025 Champion
+ ship Series Cup and Master League: Mega Edition | Tales of Transformation<
+ /a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-tales-of-transformation_2025
+ -championship-series-cup_master-league-mega-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — 2025 Championship Ser
+ ies Cup and Master League: Mega Edition | Tales of Transformation
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-tales-of-transformation_catch-cup-tales-of-transforma
+ tion-great-edition_ultra-league_master-league
+SEQUENCE:0
+DTSTAMP:20251018T193151Z
+DTSTART:20251125T210000Z
+DTEND:20251202T210000Z
+SUMMARY:GO Battle League — Catch Cup: Tales of Transformation: Great Edi
+ tion\, Ultra League\, and Master League | Tales of Transformation
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-tales-of-transformati
+ on_catch-cup-tales-of-transformation-great-edition_ultra-league_master-lea
+ gue/">Catch Cup: Tales of Transformation: Great Edition\, Ultra League\, a
+ nd Master League | Tales of Transformation</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-tales-of-transformation_catc
+ h-cup-tales-of-transformation-great-edition_ultra-league_master-league/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 4-tales-of-transformation.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Catch Cup: Tales of T
+ ransformation: Great Edition\, Ultra League\, and Master League | Tales of
+  Transformation
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-24-tales-of-transformation.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

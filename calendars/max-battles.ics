@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Max Battles
+X-WR-CALNAME:Pokémon Go — Max Battles
+X-WR-CALDESC:Pokémon Go Max Battles events.
+BEGIN:VEVENT
+UID:scraped-duck-gigantamax-garbodor-max-battle-day
+SEQUENCE:0
+DTSTAMP:20251018T193151Z
+DTSTART:20251101T140000Z
+DTEND:20251101T170000Z
+SUMMARY:Max Battles — Gigantamax Garbodor Max Battle Day
+DESCRIPTION:<a href="https://leekduck.com/events/gigantamax-garbodor-max-b
+ attle-day/">Gigantamax Garbodor Max Battle Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/gigantamax-garbodor-max-battle-d
+ ay/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 11-01-gigantamax-garbodor-max-battle-day/gigantamax-garbodor-max-battle-da
+ y.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Gigantamax Garbodor Max Ba
+ ttle Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-11-01-gigantamax-garbodor-max-battle-day/gigantama
+ x-garbodor-max-battle-day.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
