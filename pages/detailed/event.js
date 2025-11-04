@@ -160,26 +160,43 @@ function getTierFromRaidType(raidType) {
  * Parse raid type and date from header text
  */
 function parseRaidHeader(headerText, contextRaidType) {
+  // Day name pattern for strict date matching
+  var dayPattern = '(Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday)';
+  var datePattern = dayPattern + ',\\s+\\w+\\s+\\d+'; // e.g., "Monday, November 10"
+  
   // Try to parse "Type: Date" format first
   // Examples: "Five-Star Raids: Tuesday, November 11" or "Five-Star Shadow Raids: Monday, November 10"
   var typeAndDateMatch = headerText.match(/([^:]+):\s*(.+)/);
-  if (
-    typeAndDateMatch &&
-    typeAndDateMatch[2].match(/\w+,?\s+\w+\s+\d+/) // Validates day/date pattern like "Tuesday, November 11"
-  ) {
-    return {
-      raidType: typeAndDateMatch[1].trim(),
-      date: typeAndDateMatch[2].trim()
-    };
+  if (typeAndDateMatch) {
+    var dateRegex = new RegExp(datePattern, 'i');
+    if (dateRegex.test(typeAndDateMatch[2])) {
+      return {
+        raidType: typeAndDateMatch[1].trim(),
+        date: typeAndDateMatch[2].trim()
+      };
+    }
   }
   
   // Try date-only format when we have context from section headers
   // Examples: "Tuesday, November 19" when contextRaidType is "Five-Star Raids"
-  var dateOnlyMatch = headerText.match(/^(\w+,?\s+\w+\s+\d+)/);
+  // Must start with a day name to avoid matching "Appearing in X-Star Raids"
+  var dateOnlyRegex = new RegExp('^' + datePattern, 'i');
+  var dateOnlyMatch = headerText.match(dateOnlyRegex);
   if (dateOnlyMatch && contextRaidType) {
     return {
       raidType: contextRaidType,
-      date: dateOnlyMatch[1].trim()
+      date: dateOnlyMatch[0].trim()
+    };
+  }
+  
+  // Try "Appearing in X-Star Raids (DayName)" format
+  // Examples: "Appearing in 5-Star Raids (Saturday)", "Appearing in 3-Star Raids (Sunday)"
+  var dayInParensRegex = new RegExp('appearing in\\s+([\\w-]+[\\s-]*star[\\s-]*(?:shadow\\s+)?raids?)\\s*\\((' + dayPattern + ')\\)', 'i');
+  var dayInParensMatch = headerText.match(dayInParensRegex);
+  if (dayInParensMatch) {
+    return {
+      raidType: dayInParensMatch[1].trim(),
+      date: dayInParensMatch[2].trim() // Just the day name, no full date
     };
   }
   
