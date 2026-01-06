@@ -61,7 +61,7 @@ function get()
                             }
                             
                             var eventItemWrapper = e.querySelector(":scope > .event-item-wrapper");
-                            var eventType = (eventItemWrapper.classList + "").replace("event-item-wrapper ", "");
+                            var eventType = (eventItemWrapper.classList + "").replace("event-item-wrapper ", "").replace(" skeleton-loading", "");
                             eventType = eventType.replace("é", "e");
 
                             var start = eventDates[eventID]?.start || null;
