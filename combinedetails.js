@@ -55,6 +55,19 @@ function main()
                         }
                         e.extraData.raidbattles = data.data
                     }
+                    else if (data.type == "event")
+                    {
+                        if (e.extraData === null) {
+                            e.extraData = {};
+                        }
+                        // Merge event data directly into extraData (flattened structure)
+                        if (data.data.raidSchedule) {
+                            e.extraData.raidSchedule = data.data.raidSchedule;
+                        }
+                        if (data.data.raidbattles) {
+                            e.extraData.raidbattles = data.data.raidbattles;
+                        }
+                    }
                     else if (data.type == "promo-codes")
                     {
                         if (e.extraData === null) {

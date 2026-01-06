@@ -6,6 +6,7 @@ const spotlight = require('./pages/detailed/spotlight')
 const communityday = require('./pages/detailed/communityday')
 const raidbattles = require('./pages/detailed/raidbattles')
 const research = require('./pages/detailed/research')
+const event = require('./pages/detailed/event')
 const generic = require('./pages/detailed/generic')
 
 function main()
@@ -48,6 +49,10 @@ function main()
                     else if (e.eventType == "research")
                     {
                         research.get(e.link, e.eventID, bkp);
+                    }
+                    else if (e.eventType == "event")
+                    {
+                        event.get(e.link, e.eventID, bkp);
                     }
                 });
             }
