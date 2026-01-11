@@ -1,0 +1,172 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Raid Battles
+X-WR-CALNAME:Pokémon Go — Raid Battles
+X-WR-CALDESC:Pokémon Go Raid Battles events.
+BEGIN:VEVENT
+UID:scraped-duck-genesect-burn-drive-genesect-chill-drive-in-5-star-raid-b
+ attles-january-2026
+SEQUENCE:0
+DTSTAMP:20260111T205433Z
+DTSTART:20260105T100000Z
+DTEND:20260116T100000Z
+SUMMARY:Raid Battles — Genesect (Burn Drive)\, Genesect (Chill Drive) in
+  5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/genesect-burn-drive-genes
+ ect-chill-drive-in-5-star-raid-battles-january-2026/">Genesect (Burn Drive
+ )\, Genesect (Chill Drive) in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/genesect-burn-drive-genesect-chi
+ ll-drive-in-5-star-raid-battles-january-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/genesect.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Genesect (Burn Drive)\, G
+ enesect (Chill Drive) in 5-star Raid Battles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ enesect.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-blaziken-in-mega-raids-january-2026
+SEQUENCE:0
+DTSTAMP:20260111T205433Z
+DTSTART:20260105T100000Z
+DTEND:20260116T100000Z
+SUMMARY:Raid Battles — Mega Blaziken in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-blaziken-in-mega-rai
+ ds-january-2026/">Mega Blaziken in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-blaziken-in-mega-raids-janu
+ ary-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Blaziken in Mega Rai
+ ds
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-sceptile-in-mega-raids-january-2026
+SEQUENCE:0
+DTSTAMP:20260111T205433Z
+DTSTART:20260116T100000Z
+DTEND:20260125T100000Z
+SUMMARY:Raid Battles — Mega Sceptile in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-sceptile-in-mega-rai
+ ds-january-2026/">Mega Sceptile in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-sceptile-in-mega-raids-janu
+ ary-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Sceptile in Mega Rai
+ ds
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-thundurus-incarnate-forme-in-5-star-raid-battles-january-
+ 2026
+SEQUENCE:0
+DTSTAMP:20260111T205433Z
+DTSTART:20260116T100000Z
+DTEND:20260125T100000Z
+SUMMARY:Raid Battles — Thundurus (Incarnate Forme) in 5-star Raid Battle
+ s
+DESCRIPTION:<a href="https://leekduck.com/events/thundurus-incarnate-forme
+ -in-5-star-raid-battles-january-2026/">Thundurus (Incarnate Forme) in 5-st
+ ar Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/thundurus-incarnate-forme-in-5-s
+ tar-raid-battles-january-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Thundurus (Incarnate Form
+ e) in 5-star Raid Battles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-shadow-cresselia-in-shadow-raids-january-february-2026
+SEQUENCE:0
+DTSTAMP:20260111T205433Z
+DTSTART:20260102T060000Z
+DTEND:20260201T220000Z
+SUMMARY:Raid Battles — Shadow Cresselia in Shadow Raids
+DESCRIPTION:<a href="https://leekduck.com/events/shadow-cresselia-in-shado
+ w-raids-january-february-2026/">Shadow Cresselia in Shadow Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/shadow-cresselia-in-shadow-raids
+ -january-february-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Shadow Cresselia in Shado
+ w Raids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-ampharos-in-mega-raids-january-2026
+SEQUENCE:0
+DTSTAMP:20260111T205433Z
+DTSTART:20260125T100000Z
+DTEND:20260204T100000Z
+SUMMARY:Raid Battles — Mega Ampharos in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-ampharos-in-mega-rai
+ ds-january-2026/">Mega Ampharos in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-ampharos-in-mega-raids-janu
+ ary-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Ampharos in Mega Rai
+ ds
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-tornadus-incarnate-forme-in-5-star-raid-battles-january-2
+ 026
+SEQUENCE:0
+DTSTAMP:20260111T205433Z
+DTSTART:20260125T100000Z
+DTEND:20260204T100000Z
+SUMMARY:Raid Battles — Tornadus (Incarnate Forme) in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/tornadus-incarnate-forme-
+ in-5-star-raid-battles-january-2026/">Tornadus (Incarnate Forme) in 5-star
+  Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/tornadus-incarnate-forme-in-5-st
+ ar-raid-battles-january-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Tornadus (Incarnate Forme
+ ) in 5-star Raid Battles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

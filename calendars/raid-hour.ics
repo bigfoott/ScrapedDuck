@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Raid Hour
+X-WR-CALNAME:Pokémon Go — Raid Hour
+X-WR-CALDESC:Pokémon Go Raid Hour events.
+BEGIN:VEVENT
+UID:scraped-duck-raidhour20260114
+SEQUENCE:0
+DTSTAMP:20260111T205433Z
+DTSTART:20260114T180000Z
+DTEND:20260114T190000Z
+SUMMARY:Raid Hour — Genesect (Burn Drive)\, Genesect (Chill Drive) Raid 
+ Hour
+DESCRIPTION:<a href="https://leekduck.com/events/raidhour20260114/">Genese
+ ct (Burn Drive)\, Genesect (Chill Drive) Raid Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Hour
+URL;VALUE=URI:https://leekduck.com/events/raidhour20260114/
+IMAGE:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Hour — Genesect (Burn Drive)\, Gene
+ sect (Chill Drive) Raid Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ aidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raidhour20260121
+SEQUENCE:0
+DTSTAMP:20260111T205433Z
+DTSTART:20260121T180000Z
+DTEND:20260121T190000Z
+SUMMARY:Raid Hour — Thundurus (Incarnate Forme) Raid Hour
+DESCRIPTION:<a href="https://leekduck.com/events/raidhour20260121/">Thundu
+ rus (Incarnate Forme) Raid Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Hour
+URL;VALUE=URI:https://leekduck.com/events/raidhour20260121/
+IMAGE:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Hour — Thundurus (Incarnate Forme) 
+ Raid Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ aidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raidhour20260128
+SEQUENCE:0
+DTSTAMP:20260111T205433Z
+DTSTART:20260128T180000Z
+DTEND:20260128T190000Z
+SUMMARY:Raid Hour — Tornadus (Incarnate Forme) Raid Hour
+DESCRIPTION:<a href="https://leekduck.com/events/raidhour20260128/">Tornad
+ us (Incarnate Forme) Raid Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Hour
+URL;VALUE=URI:https://leekduck.com/events/raidhour20260128/
+IMAGE:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Hour — Tornadus (Incarnate Forme) R
+ aid Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ aidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

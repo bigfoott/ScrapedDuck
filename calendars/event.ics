@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Event
+X-WR-CALNAME:Pokémon Go — Event
+X-WR-CALDESC:Pokémon Go Event events.
+BEGIN:VEVENT
+UID:scraped-duck-pinch-perfect-2026
+SEQUENCE:0
+DTSTAMP:20260111T205433Z
+DTSTART:20260106T100000Z
+DTEND:20260111T200000Z
+SUMMARY:Event — Pinch Perfect
+DESCRIPTION:<a href="https://leekduck.com/events/pinch-perfect-2026/">Pinc
+ h Perfect</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/pinch-perfect-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 01-06-pinch-perfect-2026/pinch-perfect-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Pinch Perfect
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-01-06-pinch-perfect-2026/pinch-perfect-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-high-zaptitude-2026
+SEQUENCE:0
+DTSTAMP:20260111T205433Z
+DTSTART:20260113T100000Z
+DTEND:20260118T200000Z
+SUMMARY:Event — High Zaptitude
+DESCRIPTION:<a href="https://leekduck.com/events/high-zaptitude-2026/">Hig
+ h Zaptitude</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/high-zaptitude-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 01-13-high-zaptitude-2026/high-zaptitude-2026.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — High Zaptitude
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-01-13-high-zaptitude-2026/high-zaptitude-2026.jpg?
+ v2
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-precious-pals-2026
+SEQUENCE:0
+DTSTAMP:20260111T205433Z
+DTSTART:20260120T100000Z
+DTEND:20260125T200000Z
+SUMMARY:Event — Precious Pals
+DESCRIPTION:<a href="https://leekduck.com/events/precious-pals-2026/">Prec
+ ious Pals</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/precious-pals-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 01-20-precious-pals-2026/precious-pals.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Precious Pals
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-01-20-precious-pals-2026/precious-pals.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-into-the-depths-2026
+SEQUENCE:0
+DTSTAMP:20260111T205433Z
+DTSTART:20260127T100000Z
+DTEND:20260201T200000Z
+SUMMARY:Event — Into the Depths
+DESCRIPTION:<a href="https://leekduck.com/events/into-the-depths-2026/">In
+ to the Depths</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/into-the-depths-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Into the Depths
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-catch-mastery-day-february-2026
+SEQUENCE:0
+DTSTAMP:20260111T205433Z
+DTSTART:20260207T100000Z
+DTEND:20260207T200000Z
+SUMMARY:Event — Catch Mastery Day
+DESCRIPTION:<a href="https://leekduck.com/events/catch-mastery-day-februar
+ y-2026/">Catch Mastery Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/catch-mastery-day-february-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Catch Mastery Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
