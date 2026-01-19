@@ -1,0 +1,190 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — GO Battle League
+X-WR-CALNAME:Pokémon Go — GO Battle League
+X-WR-CALDESC:Pokémon Go GO Battle League events.
+BEGIN:VEVENT
+UID:scraped-duck-gbl-precious-paths_master-premier_retro-cup-great-league-
+ edition
+SEQUENCE:0
+DTSTAMP:20260119T025528Z
+DTSTART:20260113T210000Z
+DTEND:20260120T210000Z
+SUMMARY:GO Battle League — Master Premier and Retro Cup: Great League Ed
+ ition | Precious Paths
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-precious-paths_master
+ -premier_retro-cup-great-league-edition/">Master Premier and Retro Cup: Gr
+ eat League Edition | Precious Paths</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-precious-paths_master-premie
+ r_retro-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Master Premier and Re
+ tro Cup: Great League Edition | Precious Paths
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-precious-paths_great-league_ultra-premier
+SEQUENCE:0
+DTSTAMP:20260119T025528Z
+DTSTART:20260120T210000Z
+DTEND:20260127T210000Z
+SUMMARY:GO Battle League — Great League and Ultra Premier | Precious Pat
+ hs
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-precious-paths_great-
+ league_ultra-premier/">Great League and Ultra Premier | Precious Paths</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-precious-paths_great-league_
+ ultra-premier/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League and Ultr
+ a Premier | Precious Paths
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-precious-paths_great-league_ultra-league_master-leagu
+ e-split-3
+SEQUENCE:0
+DTSTAMP:20260119T025528Z
+DTSTART:20260127T210000Z
+DTEND:20260203T210000Z
+SUMMARY:GO Battle League — Great League\, Ultra League\, and Master Leag
+ ue | Precious Paths
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-precious-paths_great-
+ league_ultra-league_master-league-split-3/">Great League\, Ultra League\, 
+ and Master League | Precious Paths</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-precious-paths_great-league_
+ ultra-league_master-league-split-3/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 5-precious-paths.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League\, and Master League | Precious Paths
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-25-precious-paths.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-precious-paths_ultra-league_2026-championship-series-
+ cup
+SEQUENCE:0
+DTSTAMP:20260119T025528Z
+DTSTART:20260203T210000Z
+DTEND:20260210T210000Z
+SUMMARY:GO Battle League — Ultra League and 2026 Championship Series Cup
+  | Precious Paths
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-precious-paths_ultra-
+ league_2026-championship-series-cup/">Ultra League and 2026 Championship S
+ eries Cup | Precious Paths</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-precious-paths_ultra-league_
+ 2026-championship-series-cup/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-le
+ ague-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Ultra League and 2026
+  Championship Series Cup | Precious Paths
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-ultra-league-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-precious-paths_master-league_2026-championship-series
+ -cup
+SEQUENCE:0
+DTSTAMP:20260119T025528Z
+DTSTART:20260210T210000Z
+DTEND:20260217T210000Z
+SUMMARY:GO Battle League — Master League and 2026 Championship Series Cu
+ p | Precious Paths
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-precious-paths_master
+ -league_2026-championship-series-cup/">Master League and 2026 Championship
+  Series Cup | Precious Paths</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-precious-paths_master-league
+ _2026-championship-series-cup/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Master League and 202
+ 6 Championship Series Cup | Precious Paths
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-precious-paths_great-league_love-cup-great-league-edi
+ tion
+SEQUENCE:0
+DTSTAMP:20260119T025528Z
+DTSTART:20260217T210000Z
+DTEND:20260224T210000Z
+SUMMARY:GO Battle League — Great League and Love Cup: Great League Editi
+ on | Precious Paths
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-precious-paths_great-
+ league_love-cup-great-league-edition/">Great League and Love Cup: Great Le
+ ague Edition | Precious Paths</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-precious-paths_great-league_
+ love-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League and Love
+  Cup: Great League Edition | Precious Paths
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-precious-paths_great-league_ultra-league_master-leagu
+ e-mega-edition
+SEQUENCE:0
+DTSTAMP:20260119T025528Z
+DTSTART:20260224T210000Z
+DTEND:20260303T210000Z
+SUMMARY:GO Battle League — Great League\, Ultra League\, and Master Leag
+ ue: Mega Edition | Precious Paths
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-precious-paths_great-
+ league_ultra-league_master-league-mega-edition/">Great League\, Ultra Leag
+ ue\, and Master League: Mega Edition | Precious Paths</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-precious-paths_great-league_
+ ultra-league_master-league-mega-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 5-precious-paths.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League\, and Master League: Mega Edition | Precious Paths
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-25-precious-paths.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Team GO Rocket
+X-WR-CALNAME:Pokémon Go — Team GO Rocket
+X-WR-CALDESC:Pokémon Go Team GO Rocket events.
+BEGIN:VEVENT
+UID:scraped-duck-precious-pals-taken-over-2026
+SEQUENCE:0
+DTSTAMP:20260119T025528Z
+DTSTART:20260123T000000Z
+DTEND:20260125T200000Z
+SUMMARY:Team GO Rocket — Precious Pals: Taken Over
+DESCRIPTION:<a href="https://leekduck.com/events/precious-pals-taken-over-
+ 2026/">Precious Pals: Taken Over</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Team GO Rocket
+URL;VALUE=URI:https://leekduck.com/events/precious-pals-taken-over-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 01-23-precious-pals-taken-over-2026/precious-pals-taken-over.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Team GO Rocket — Precious Pals: Taken Ov
+ er
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-01-23-precious-pals-taken-over-2026/precious-pals-
+ taken-over.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

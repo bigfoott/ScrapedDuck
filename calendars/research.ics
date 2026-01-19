@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Research
+X-WR-CALNAME:Pokémon Go — Research
+X-WR-CALDESC:Pokémon Go Research events.
+BEGIN:VEVENT
+UID:scraped-duck-masterwork-research-a-precious-catch
+SEQUENCE:0
+DTSTAMP:20260119T025528Z
+DTSTART:20251202T100000Z
+DTEND:20260303T100000Z
+SUMMARY:Research — Masterwork Research: A Precious Catch
+DESCRIPTION:<a href="https://leekduck.com/events/masterwork-research-a-pre
+ cious-catch/">Masterwork Research: A Precious Catch</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Research
+URL;VALUE=URI:https://leekduck.com/events/masterwork-research-a-precious-c
+ atch/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 12-02-masterwork-research-a-precious-catch/masterball.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Research — Masterwork Research: A Precio
+ us Catch
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-12-02-masterwork-research-a-precious-catch/masterb
+ all.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
