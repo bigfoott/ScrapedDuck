@@ -1,0 +1,157 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Event
+X-WR-CALNAME:Pokémon Go — Event
+X-WR-CALDESC:Pokémon Go Event events.
+BEGIN:VEVENT
+UID:scraped-duck-into-the-depths-2026
+SEQUENCE:0
+DTSTAMP:20260129T095618Z
+DTSTART:20260127T100000Z
+DTEND:20260201T200000Z
+SUMMARY:Event — Into the Depths
+DESCRIPTION:<a href="https://leekduck.com/events/into-the-depths-2026/">In
+ to the Depths</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/into-the-depths-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 01-27-into-the-depths-2026/into-the-depths-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Into the Depths
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-01-27-into-the-depths-2026/into-the-depths-2026.jp
+ g
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-oricorio-catch-mastery-day-february-2026
+SEQUENCE:0
+DTSTAMP:20260129T095618Z
+DTSTART:20260207T100000Z
+DTEND:20260207T200000Z
+SUMMARY:Event — Oricorio Catch Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/oricorio-catch-mastery-da
+ y-february-2026/">Oricorio Catch Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/oricorio-catch-mastery-day-febru
+ ary-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 02-07-oricorio-catch-mastery-day-february-2026/oricorio-catch-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Oricorio Catch Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-02-07-oricorio-catch-mastery-day-february-2026/ori
+ corio-catch-mastery.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-carnival-of-flamigo
+SEQUENCE:0
+DTSTAMP:20260129T095618Z
+DTSTART:20260203T100000Z
+DTEND:20260208T200000Z
+SUMMARY:Event — Carnival of Flamigo
+DESCRIPTION:<a href="https://leekduck.com/events/carnival-of-flamigo/">Car
+ nival of Flamigo</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/carnival-of-flamigo/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 02-03-carnival-of-flamigo/carnival-of-flamigo.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Carnival of Flamigo
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-02-03-carnival-of-flamigo/carnival-of-flamigo.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-valentines-day-2026
+SEQUENCE:0
+DTSTAMP:20260129T095618Z
+DTSTART:20260210T100000Z
+DTEND:20260215T200000Z
+SUMMARY:Event — Valentine's Day 2026
+DESCRIPTION:<a href="https://leekduck.com/events/valentines-day-2026/">Val
+ entine's Day 2026</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/valentines-day-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Valentine's Day 2026
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-lunar-new-year-2026
+SEQUENCE:0
+DTSTAMP:20260129T095618Z
+DTSTART:20260217T100000Z
+DTEND:20260221T200000Z
+SUMMARY:Event — Lunar New Year 2026
+DESCRIPTION:<a href="https://leekduck.com/events/lunar-new-year-2026/">Lun
+ ar New Year 2026</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/lunar-new-year-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Lunar New Year 2026
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-road-to-kalos
+SEQUENCE:0
+DTSTAMP:20260129T095618Z
+DTSTART:20260223T000000Z
+DTEND:20260227T235900Z
+SUMMARY:Event — Road to Kalos
+DESCRIPTION:<a href="https://leekduck.com/events/road-to-kalos/">Road to K
+ alos</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/road-to-kalos/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 02-23-road-to-kalos/road-to-kalos.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Road to Kalos
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-02-23-road-to-kalos/road-to-kalos.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-hatch-day-april-2026
+SEQUENCE:0
+DTSTAMP:20260129T095618Z
+DTSTART:20260418T140000Z
+DTEND:20260418T170000Z
+SUMMARY:Event — Hatch Day
+DESCRIPTION:<a href="https://leekduck.com/events/hatch-day-april-2026/">Ha
+ tch Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/hatch-day-april-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Hatch Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
