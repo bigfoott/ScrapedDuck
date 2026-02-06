@@ -5,22 +5,27 @@ const https = require('https');
 
 function get() {
     return new Promise(resolve => {
-        JSDOM.fromURL("https://leekduck.com/boss/", {
+        JSDOM.fromURL("https://leekduck.com/raid-bosses/", {
         })
             .then((dom) => {
 
                 let bosses = [];
-                const raidBosses = dom.window.document.querySelectorAll('.raid-bosses, .shadow-raid-bosses');
+                const grids = dom.window.document.querySelectorAll('div.grid');
 
-                raidBosses.forEach(raidBossContainer => {
-                    const tiers = raidBossContainer.querySelectorAll('.tier');
+                grids.forEach((grid) => {
+                    let tierHeader = grid.previousElementSibling;
+                    while (tierHeader && (tierHeader.tagName.toLowerCase() !== 'h2' || !tierHeader.getAttribute('class') || !tierHeader.getAttribute('class').includes('header'))) {
+                        tierHeader = tierHeader.previousElementSibling;
+                    }
+                    let currentTier = tierHeader ? (tierHeader.textContent.trim() || "") : "";
+                    if (!currentTier && tierHeader) {
+                        const dataTier = tierHeader.getAttribute('data-tier') || "";
+                        const tierMap = { '1': '1-Star Raids', '3': '3-Star Raids', '5': '5-Star Raids', 'mega': 'Mega Raids' };
+                        currentTier = tierMap[dataTier.toLowerCase()] || dataTier;
+                    }
 
-                    tiers.forEach(tierDiv => {
-                        const tierHeader = tierDiv.querySelector('h2.header');
-                        const currentTier = tierHeader ? tierHeader.textContent.trim() : "";
-
-                        const cards = tierDiv.querySelectorAll('.grid .card');
-                        cards.forEach(card => {
+                    const cards = grid.querySelectorAll('div.card');
+                    cards.forEach((card) => {
                             let boss = {
                                 name: "",
                                 tier: currentTier,
@@ -35,40 +40,52 @@ function get() {
                             };
 
                             // Name
-                            boss.name = card.querySelector('.identity .name')?.textContent.trim() || "";
+                        const nameEl = card.querySelector('p.name') || card.querySelector('.identity .name');
+                        boss.name = nameEl ? (nameEl.textContent.trim() || "") : "";
 
                             // Image
-                            boss.image = card.querySelector('.boss-img img')?.src || "";
+                        boss.image = card.querySelector('div.boss-img img')?.src || "";
 
                             // Shiny
-                            boss.canBeShiny = !!card.querySelector('.boss-img .shiny-icon');
+                        boss.canBeShiny = !!card.querySelector('div.boss-img .shiny-icon');
 
                             // Types
-                            card.querySelectorAll('.boss-type .type img').forEach(img => {
+                        card.querySelectorAll('div.boss-type img, div.boss-type .type img').forEach((img) => {
+                            const typeName = img.getAttribute('title') || img.getAttribute('alt') || "";
+                            if (typeName) {
                                 boss.types.push({
-                                    name: img.getAttribute('title')?.toLowerCase() || "",
-                                    image: img.src
+                                    name: typeName.toLowerCase(),
+                                    image: img.src || ""
                                 });
+                            }
                             });
 
                             // Combat Power (normal)
-                            let cpText = card.querySelector('.cp-range')?.textContent.replace('CP', '').trim() || "";
-                            let [cpMin, cpMax] = cpText.split('-').map(s => parseInt(s.trim()));
+                        let cpText = (card.querySelector('div.cp-range')?.textContent || "").replace(/^CP\s*/i, "").trim();
+                        let [cpMin, cpMax] = cpText.split('-').map(s => parseInt(s.trim(), 10));
                             boss.combatPower.normal.min = cpMin || -1;
                             boss.combatPower.normal.max = cpMax || -1;
 
                             // Combat Power (boosted)
-                            let boostedText = card.querySelector('.boosted-cp-row .boosted-cp')?.textContent.replace('CP', '').trim() || "";
-                            let [boostMin, boostMax] = boostedText.split('-').map(s => parseInt(s.trim()));
+                        let boostedText = (card.querySelector('div.boosted-cp-row .boosted-cp, div.boosted-cp-row span.boosted-cp')?.textContent || "").replace(/^CP\s*/i, "").trim();
+                        let [boostMin, boostMax] = boostedText.split('-').map(s => parseInt(s.trim(), 10));
                             boss.combatPower.boosted.min = boostMin || -1;
                             boss.combatPower.boosted.max = boostMax || -1;
 
                             // Boosted Weather
-                            card.querySelectorAll('.weather-boosted .boss-weather .weather-pill img').forEach(img => {
+                        const weatherContainer = card.querySelector('div.weather-boosted') || card.querySelector('div.boss-3');
+                        (weatherContainer?.querySelectorAll('.boss-weather img, .weather-pill img') || []).forEach((img) => {
+                            let weatherName = (img.getAttribute('alt') || "").toLowerCase();
+                            if (!weatherName && img.getAttribute('src')) {
+                                const match = img.getAttribute('src').match(/(\w+)\.png$/);
+                                weatherName = match ? match[1].toLowerCase() : "";
+                            }
+                            if (weatherName) {
                                 boss.boostedWeather.push({
-                                    name: img.getAttribute('alt')?.toLowerCase() || "",
-                                    image: img.src
+                                    name: weatherName,
+                                    image: img.src || ""
                                 });
+                            }
                             });
 
                             bosses.push(boss);
@@ -86,7 +103,6 @@ function get() {
                             console.error(err);
                             return;
                         }
-                    });
                 });
             }).catch(_err => {
                 console.log(_err);
