@@ -1,0 +1,941 @@
+[
+    {
+        "eventID": "oricorio-catch-mastery-day-february-2026",
+        "name": "Oricorio Catch Mastery",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/oricorio-catch-mastery-day-february-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-07-oricorio-catch-mastery-day-february-2026/oricorio-catch-mastery.jpg",
+        "start": "2026-02-07T10:00:00.000",
+        "end": "2026-02-07T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "carnival-of-flamigo",
+        "name": "Carnival of Flamigo",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/carnival-of-flamigo/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-03-carnival-of-flamigo/carnival-of-flamigo.jpg",
+        "start": "2026-02-03T10:00:00.000",
+        "end": "2026-02-08T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "flamigo-showcase-february-2026",
+        "name": "Flamigo PokéStop Showcase",
+        "eventType": "pokestop-showcase",
+        "heading": "PokéStop Showcase",
+        "link": "https://leekduck.com/events/flamigo-showcase-february-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokestop-showcases-default.jpg",
+        "start": "2026-02-07T10:00:00.000",
+        "end": "2026-02-08T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2026-02-09",
+        "name": "Dynamax Growlithe during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2026-02-09/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2026-02-09T18:00:00.000",
+        "end": "2026-02-09T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-precious-paths_ultra-league_2026-championship-series-cup",
+        "name": "Ultra League and 2026 Championship Series Cup | Precious Paths",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-precious-paths_ultra-league_2026-championship-series-cup/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-league-machamp-swampert.jpg",
+        "start": "2026-02-03T21:00:00.000Z",
+        "end": "2026-02-10T21:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2026-02-10",
+        "name": "Munna Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2026-02-10/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2026-02-10T18:00:00.000",
+        "end": "2026-02-10T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Munna",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_517_00.png",
+                "bonus": "2× Catch XP",
+                "list": [
+                    {
+                        "name": "Munna",
+                        "canBeShiny": true,
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_517_00.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20260211",
+        "name": "Dialga and Palkia Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20260211/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2026-02-11T18:00:00.000",
+        "end": "2026-02-11T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "therian-forme-enamorus-raid-day-2026",
+        "name": "Therian Forme Enamorus Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/therian-forme-enamorus-raid-day-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-14-therian-forme-enamorus-raid-day-2026/therian-forme-enamorus-raid-day.jpg",
+        "start": "2026-02-14T14:00:00.000",
+        "end": "2026-02-14T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "max-battle-day-february-2026",
+        "name": "Max Battle Day",
+        "eventType": "max-battles",
+        "heading": "Max Battles",
+        "link": "https://leekduck.com/events/max-battle-day-february-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-02-15T14:00:00.000",
+        "end": "2026-02-15T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gigantamax-meowth-max-battle-day-2026",
+        "name": "Gigantamax Meowth Max Battle Day",
+        "eventType": "max-battles",
+        "heading": "Max Battles",
+        "link": "https://leekduck.com/events/gigantamax-meowth-max-battle-day-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-15-gigantamax-meowth-max-battle-day-2026/gigantamax-meowth-max-battle-day.jpg",
+        "start": "2026-02-15T14:00:00.000",
+        "end": "2026-02-15T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "valentines-day-2026",
+        "name": "Valentine's Day 2026",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/valentines-day-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-10-valentines-day-2026/valentines-day-2026.jpg",
+        "start": "2026-02-10T10:00:00.000",
+        "end": "2026-02-15T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "dialga-and-palkia-in-5-star-raid-battles-february-2026",
+        "name": "Dialga and Palkia in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/dialga-and-palkia-in-5-star-raid-battles-february-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-02-04T10:00:00.000",
+        "end": "2026-02-16T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Dialga",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00.png",
+                        "canBeShiny": true
+                    },
+                    {
+                        "name": "Palkia",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Dialga",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_483_00_shiny.png"
+                    },
+                    {
+                        "name": "Palkia",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_484_00_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "mega-pidgeot-in-mega-raids-february-2026",
+        "name": "Mega Pidgeot in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-pidgeot-in-mega-raids-february-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2026-02-04T10:00:00.000",
+        "end": "2026-02-16T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Mega Pidgeot",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_018_51.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Pidgeot",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_018_00_shiny.png"
+                    },
+                    {
+                        "name": "Mega Pidgeot",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_018_51_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2026-02-16",
+        "name": "Dynamax Machop during Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2026-02-16/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2026-02-16T18:00:00.000",
+        "end": "2026-02-16T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-precious-paths_master-league_2026-championship-series-cup",
+        "name": "Master League and 2026 Championship Series Cup | Precious Paths",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-precious-paths_master-league_2026-championship-series-cup/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key.jpg",
+        "start": "2026-02-10T21:00:00.000Z",
+        "end": "2026-02-17T21:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2026-02-17",
+        "name": "Horsea Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2026-02-17/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2026-02-17T18:00:00.000",
+        "end": "2026-02-17T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Horsea",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_116_00.png",
+                "bonus": "2× Transfer Candy",
+                "list": [
+                    {
+                        "name": "Horsea",
+                        "canBeShiny": true,
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_116_00.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20260218",
+        "name": "Solgaleo Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20260218/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2026-02-18T18:00:00.000",
+        "end": "2026-02-18T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "mega-sableye-in-mega-raids-february-2026",
+        "name": "Mega Sableye in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-sableye-in-mega-raids-february-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2026-02-16T10:00:00.000",
+        "end": "2026-02-21T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Mega Sableye",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Sableye",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_00_shiny.png"
+                    },
+                    {
+                        "name": "Mega Sableye",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_302_51_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "solgaleo-in-5-star-raid-battles-february-2026",
+        "name": "Solgaleo in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/solgaleo-in-5-star-raid-battles-february-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/solgaleo.jpg?v2",
+        "start": "2026-02-16T10:00:00.000",
+        "end": "2026-02-21T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Solgaleo",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm791.icon.png",
+                        "canBeShiny": false
+                    }
+                ],
+                "shinies": []
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "lunar-new-year-2026",
+        "name": "Lunar New Year 2026",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/lunar-new-year-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-17-lunar-new-year-2026/lunar-new-year-2026.jpg",
+        "start": "2026-02-17T10:00:00.000",
+        "end": "2026-02-21T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-go-tour-kalos-tainan-2026",
+        "name": "Pokémon GO Tour: Kalos - Tainan 2026",
+        "eventType": "pokemon-go-tour",
+        "heading": "Pokémon GO Tour",
+        "link": "https://leekduck.com/events/pokemon-go-tour-kalos-tainan-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-20-pokemon-go-tour-kalos-tainan-2026/pokemon-go-tour-kalos-tainan-2026.jpg",
+        "start": "2026-02-20T01:00:00.000Z",
+        "end": "2026-02-22T09:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "mega-night-pokemon-go-tour-kalos-tainan-2026",
+        "name": "Mega Night at Pokémon GO Tour: Kalos - Tainan 2026",
+        "eventType": "pokemon-go-tour",
+        "heading": "Pokémon GO Tour",
+        "link": "https://leekduck.com/events/mega-night-pokemon-go-tour-kalos-tainan-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-20-mega-night-pokemon-go-tour-kalos-tainan-2026/mega-night-pokemon-go-tour-kalos-tainan-2026.jpg",
+        "start": "2026-02-20T09:00:00.000Z",
+        "end": "2026-02-22T11:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-go-tour-kalos-los-angeles-2026",
+        "name": "Pokémon GO Tour: Kalos - Los Angeles 2026",
+        "eventType": "pokemon-go-tour",
+        "heading": "Pokémon GO Tour",
+        "link": "https://leekduck.com/events/pokemon-go-tour-kalos-los-angeles-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-20-pokemon-go-tour-kalos-los-angeles-2026/pokemon-go-tour-kalos-los-angeles-2026.jpg",
+        "start": "2026-02-20T17:00:00.000Z",
+        "end": "2026-02-23T01:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "mega-night-pokemon-go-tour-kalos-los-angeles-2026",
+        "name": "Mega Night at Pokémon GO Tour: Kalos - Los Angeles 2026",
+        "eventType": "pokemon-go-tour",
+        "heading": "Pokémon GO Tour",
+        "link": "https://leekduck.com/events/mega-night-pokemon-go-tour-kalos-los-angeles-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-20-mega-night-pokemon-go-tour-kalos-los-angeles-2026/mega-night-pokemon-go-tour-kalos-los-angeles-2026.jpg",
+        "start": "2026-02-21T02:00:00.000Z",
+        "end": "2026-02-23T04:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "max-mondays-2026-02-23",
+        "name": "Unannounced Max Monday",
+        "eventType": "max-mondays",
+        "heading": "Max Mondays",
+        "link": "https://leekduck.com/events/max-mondays-2026-02-23/",
+        "image": "https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg",
+        "start": "2026-02-23T18:00:00.000",
+        "end": "2026-02-23T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-precious-paths_great-league_love-cup-great-league-edition",
+        "name": "Great League and Love Cup: Great League Edition | Precious Paths",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-precious-paths_great-league_love-cup-great-league-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.jpg",
+        "start": "2026-02-17T21:00:00.000Z",
+        "end": "2026-02-24T21:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "pokemonspotlighthour2026-02-24",
+        "name": "Totodile Spotlight Hour",
+        "eventType": "pokemon-spotlight-hour",
+        "heading": "Pokémon Spotlight Hour",
+        "link": "https://leekduck.com/events/pokemonspotlighthour2026-02-24/",
+        "image": "https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg",
+        "start": "2026-02-24T18:00:00.000",
+        "end": "2026-02-24T19:00:00.000",
+        "extraData": {
+            "spotlight": {
+                "name": "Totodile",
+                "canBeShiny": true,
+                "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png",
+                "bonus": "2× Catch Stardust",
+                "list": [
+                    {
+                        "name": "Totodile",
+                        "canBeShiny": true,
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_158_00.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "raidhour20260225",
+        "name": "Lunala Raid Hour",
+        "eventType": "raid-hour",
+        "heading": "Raid Hour",
+        "link": "https://leekduck.com/events/raidhour20260225/",
+        "image": "https://cdn.leekduck.com/assets/img/events/raidhour.jpg",
+        "start": "2026-02-25T18:00:00.000",
+        "end": "2026-02-25T19:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "road-to-kalos",
+        "name": "Road to Kalos",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/road-to-kalos/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-23-road-to-kalos/road-to-kalos.jpg",
+        "start": "2026-02-23T00:00:00.000",
+        "end": "2026-02-27T23:59:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": true
+            }
+        }
+    },
+    {
+        "eventID": "pokemon-go-tour-kalos-global-2026",
+        "name": "Pokémon GO Tour: Kalos - Global 2026",
+        "eventType": "pokemon-go-tour",
+        "heading": "Pokémon GO Tour",
+        "link": "https://leekduck.com/events/pokemon-go-tour-kalos-global-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-28-pokemon-go-tour-kalos-global-2026/pokemon-go-tour-kalos-global-2026.jpg",
+        "start": "2026-02-28T10:00:00.000",
+        "end": "2026-03-01T18:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "go-pass-road-to-kalos",
+        "name": "GO Pass: Road to Kalos",
+        "eventType": "go-pass",
+        "heading": "GO Pass",
+        "link": "https://leekduck.com/events/go-pass-road-to-kalos/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-23-go-pass-road-to-kalos/go-pass-road-to-kalos.jpg",
+        "start": "2026-02-23T10:00:00.000",
+        "end": "2026-03-01T18:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "season-21-precious-paths",
+        "name": "Precious Paths",
+        "eventType": "season",
+        "heading": "Season",
+        "link": "https://leekduck.com/events/season-21-precious-paths/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-12-02-season-21-precious-paths/season-21-precious-paths.jpg",
+        "start": "2025-12-02T10:00:00.000",
+        "end": "2026-03-03T10:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": true,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "go-pass-february-2026",
+        "name": "GO Pass: February",
+        "eventType": "go-pass",
+        "heading": "GO Pass",
+        "link": "https://leekduck.com/events/go-pass-february-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-02-03-go-pass-february-2026/go-pass-february-2026.jpg",
+        "start": "2026-02-03T10:00:00.000",
+        "end": "2026-03-03T10:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "gbl-precious-paths_great-league_ultra-league_master-league-mega-edition",
+        "name": "Great League, Ultra League, and Master League: Mega Edition | Precious Paths",
+        "eventType": "go-battle-league",
+        "heading": "GO Battle League",
+        "link": "https://leekduck.com/events/gbl-precious-paths_great-league_ultra-league_master-league-mega-edition/",
+        "image": "https://cdn.leekduck.com/assets/img/events/go-battle-league-season-25-precious-paths.jpg",
+        "start": "2026-02-24T21:00:00.000Z",
+        "end": "2026-03-03T21:00:00.000Z",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "lunala-in-5-star-raid-battles-february-2026",
+        "name": "Lunala in 5-star Raid Battles",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/lunala-in-5-star-raid-battles-february-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2",
+        "start": "2026-02-21T10:00:00.000",
+        "end": "2026-03-04T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Lunala",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm792.icon.png",
+                        "canBeShiny": false
+                    }
+                ],
+                "shinies": []
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "mega-absol-in-mega-raids-february-2026",
+        "name": "Mega Absol in Mega Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/mega-absol-in-mega-raids-february-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/mega-default.jpg",
+        "start": "2026-02-21T10:00:00.000",
+        "end": "2026-03-04T10:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Mega Absol",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm359.fMEGA.icon.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Absol",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_359_00_shiny.png"
+                    },
+                    {
+                        "name": "Mega Absol",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pm359.fMEGA.s.icon.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "shadow-regigigas-in-shadow-raids-february-march-2026",
+        "name": "Shadow Regigigas in Shadow Raids",
+        "eventType": "raid-battles",
+        "heading": "Raid Battles",
+        "link": "https://leekduck.com/events/shadow-regigigas-in-shadow-raids-february-march-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-02-01T06:00:00.000",
+        "end": "2026-03-04T22:00:00.000",
+        "extraData": {
+            "raidbattles": {
+                "bosses": [
+                    {
+                        "name": "Regigigas",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_486_00.png",
+                        "canBeShiny": true
+                    }
+                ],
+                "shinies": [
+                    {
+                        "name": "Regigigas",
+                        "image": "https://cdn.leekduck.com/assets/img/pokemon_icons/pokemon_icon_486_00_shiny.png"
+                    }
+                ]
+            },
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "season-event-march-2026",
+        "name": "Season Event",
+        "eventType": "season",
+        "heading": "Season",
+        "link": "https://leekduck.com/events/season-event-march-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-03-07T10:00:00.000",
+        "end": "2026-03-09T20:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "march-communityday2026",
+        "name": "March Community Day",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/march-communityday2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+        "start": "2026-03-14T14:00:00.000",
+        "end": "2026-03-14T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "research-day-march-2026",
+        "name": "Research Day",
+        "eventType": "research-day",
+        "heading": "Research Day",
+        "link": "https://leekduck.com/events/research-day-march-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-03-21T14:00:00.000",
+        "end": "2026-03-21T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "max-battle-day-march-2026",
+        "name": "Max Battle Day",
+        "eventType": "max-battles",
+        "heading": "Max Battles",
+        "link": "https://leekduck.com/events/max-battle-day-march-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-03-28T14:00:00.000",
+        "end": "2026-03-28T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "raid-day-april-2026",
+        "name": "Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/raid-day-april-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-04-04T14:00:00.000",
+        "end": "2026-04-04T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "april-communityday2026",
+        "name": "April Community Day",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/april-communityday2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+        "start": "2026-04-11T14:00:00.000",
+        "end": "2026-04-11T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "hatch-day-april-2026",
+        "name": "Hatch Day",
+        "eventType": "event",
+        "heading": "Event",
+        "link": "https://leekduck.com/events/hatch-day-april-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-04-18T14:00:00.000",
+        "end": "2026-04-18T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "max-battle-day-april-2026",
+        "name": "Max Battle Day",
+        "eventType": "max-battles",
+        "heading": "Max Battles",
+        "link": "https://leekduck.com/events/max-battle-day-april-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-04-25T14:00:00.000",
+        "end": "2026-04-25T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "shadow-raid-day-may-2026",
+        "name": "Shadow Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/shadow-raid-day-may-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-05-02T14:00:00.000",
+        "end": "2026-05-02T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "may-communityday2026",
+        "name": "May Community Day",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/may-communityday2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+        "start": "2026-05-09T14:00:00.000",
+        "end": "2026-05-09T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "may-communitydayclassic2026",
+        "name": "May Community Day Classic",
+        "eventType": "community-day",
+        "heading": "Community Day",
+        "link": "https://leekduck.com/events/may-communitydayclassic2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/cd-default.jpg",
+        "start": "2026-05-16T14:00:00.000",
+        "end": "2026-05-16T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    },
+    {
+        "eventID": "raid-day-may-2026",
+        "name": "Raid Day",
+        "eventType": "raid-day",
+        "heading": "Raid Day",
+        "link": "https://leekduck.com/events/raid-day-may-2026/",
+        "image": "https://cdn.leekduck.com/assets/img/events/events-default-img.jpg",
+        "start": "2026-05-23T14:00:00.000",
+        "end": "2026-05-23T17:00:00.000",
+        "extraData": {
+            "generic": {
+                "hasSpawns": false,
+                "hasFieldResearchTasks": false
+            }
+        }
+    }
+]
