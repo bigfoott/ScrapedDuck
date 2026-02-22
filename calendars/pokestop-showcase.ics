@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — PokéStop Showcase
+X-WR-CALNAME:Pokémon Go — PokéStop Showcase
+X-WR-CALDESC:Pokémon Go PokéStop Showcase events.
+BEGIN:VEVENT
+UID:scraped-duck-meowth-vulpix-alolan-vulpix-showcase-february-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260221T100000Z
+DTEND:20260222T200000Z
+SUMMARY:PokéStop Showcase — Meowth\, Vulpix\, and Alolan Vulpix PokéSt
+ op Showcase
+DESCRIPTION:<a href="https://leekduck.com/events/meowth-vulpix-alolan-vulp
+ ix-showcase-february-2026/">Meowth\, Vulpix\, and Alolan Vulpix PokéStop 
+ Showcase</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:PokéStop Showcase
+URL;VALUE=URI:https://leekduck.com/events/meowth-vulpix-alolan-vulpix-show
+ case-february-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/pokestop-showcases-defaul
+ t.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:PokéStop Showcase — Meowth\, Vulpix\, a
+ nd Alolan Vulpix PokéStop Showcase
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ okestop-showcases-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

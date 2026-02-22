@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Research
+X-WR-CALNAME:Pokémon Go — Research
+X-WR-CALDESC:Pokémon Go Research events.
+BEGIN:VEVENT
+UID:scraped-duck-go-tour-fairy-type-timed-research
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260219T190000Z
+DTEND:20260302T000000Z
+SUMMARY:Research — [Promo Code] GO Tour Fairy Type Timed Research
+DESCRIPTION:<a href="https://leekduck.com/events/go-tour-fairy-type-timed-
+ research/">[Promo Code] GO Tour Fairy Type Timed Research</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Research
+URL;VALUE=URI:https://leekduck.com/events/go-tour-fairy-type-timed-researc
+ h/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 02-20-go-tour-fairy-type-timed-research/sylveon.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Research — [Promo Code] GO Tour Fairy Ty
+ pe Timed Research
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-02-20-go-tour-fairy-type-timed-research/sylveon.jp
+ g
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Season
+X-WR-CALNAME:Pokémon Go — Season
+X-WR-CALDESC:Pokémon Go Season events.
+BEGIN:VEVENT
+UID:scraped-duck-season-21-precious-paths
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20251202T100000Z
+DTEND:20260303T100000Z
+SUMMARY:Season — Precious Paths
+DESCRIPTION:<a href="https://leekduck.com/events/season-21-precious-paths/
+ ">Precious Paths</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Season
+URL;VALUE=URI:https://leekduck.com/events/season-21-precious-paths/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 12-02-season-21-precious-paths/season-21-precious-paths.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Season — Precious Paths
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-12-02-season-21-precious-paths/season-21-precious-
+ paths.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-season-event-march-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260307T100000Z
+DTEND:20260309T200000Z
+SUMMARY:Season — Season Event
+DESCRIPTION:<a href="https://leekduck.com/events/season-event-march-2026/"
+ >Season Event</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Season
+URL;VALUE=URI:https://leekduck.com/events/season-event-march-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Season — Season Event
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

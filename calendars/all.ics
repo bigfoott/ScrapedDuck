@@ -1,0 +1,709 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — All Events
+X-WR-CALNAME:Pokémon Go — All Events
+X-WR-CALDESC:All Pokémon Go events.
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-tour-kalos-los-angeles-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260220T170000Z
+DTEND:20260223T010000Z
+SUMMARY:Pokémon GO Tour — Pokémon GO Tour: Kalos - Los Angeles 2026
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-tour-kalos-los
+ -angeles-2026/">Pokémon GO Tour: Kalos - Los Angeles 2026</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Pokémon GO Tour
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-tour-kalos-los-angele
+ s-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 02-20-pokemon-go-tour-kalos-los-angeles-2026/pokemon-go-tour-kalos-los-ang
+ eles-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Pokémon GO Tour — Pokémon GO Tour: Kal
+ os - Los Angeles 2026
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-02-20-pokemon-go-tour-kalos-los-angeles-2026/pokem
+ on-go-tour-kalos-los-angeles-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-night-pokemon-go-tour-kalos-los-angeles-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260221T020000Z
+DTEND:20260223T040000Z
+SUMMARY:Pokémon GO Tour — Mega Night at Pokémon GO Tour: Kalos - Los A
+ ngeles 2026
+DESCRIPTION:<a href="https://leekduck.com/events/mega-night-pokemon-go-tou
+ r-kalos-los-angeles-2026/">Mega Night at Pokémon GO Tour: Kalos - Los Ang
+ eles 2026</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Pokémon GO Tour
+URL;VALUE=URI:https://leekduck.com/events/mega-night-pokemon-go-tour-kalos
+ -los-angeles-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 02-20-mega-night-pokemon-go-tour-kalos-los-angeles-2026/mega-night-pokemon
+ -go-tour-kalos-los-angeles-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Pokémon GO Tour — Mega Night at Pokémo
+ n GO Tour: Kalos - Los Angeles 2026
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-02-20-mega-night-pokemon-go-tour-kalos-los-angeles
+ -2026/mega-night-pokemon-go-tour-kalos-los-angeles-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-lunala-in-5-star-raid-battles-february-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260221T100000Z
+DTEND:20260222T200000Z
+SUMMARY:Raid Battles — Lunala in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/lunala-in-5-star-raid-bat
+ tles-february-2026/">Lunala in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/lunala-in-5-star-raid-battles-fe
+ bruary-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Lunala in 5-star Raid Bat
+ tles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/l
+ unala.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-absol-in-mega-raids-february-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260221T100000Z
+DTEND:20260222T200000Z
+SUMMARY:Raid Battles — Mega Absol in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-absol-in-mega-raids-
+ february-2026/">Mega Absol in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-absol-in-mega-raids-februar
+ y-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Absol in Mega Raids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-meowth-vulpix-alolan-vulpix-showcase-february-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260221T100000Z
+DTEND:20260222T200000Z
+SUMMARY:PokéStop Showcase — Meowth\, Vulpix\, and Alolan Vulpix PokéSt
+ op Showcase
+DESCRIPTION:<a href="https://leekduck.com/events/meowth-vulpix-alolan-vulp
+ ix-showcase-february-2026/">Meowth\, Vulpix\, and Alolan Vulpix PokéStop 
+ Showcase</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:PokéStop Showcase
+URL;VALUE=URI:https://leekduck.com/events/meowth-vulpix-alolan-vulpix-show
+ case-february-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/pokestop-showcases-defaul
+ t.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:PokéStop Showcase — Meowth\, Vulpix\, a
+ nd Alolan Vulpix PokéStop Showcase
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ okestop-showcases-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-02-23
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260223T180000Z
+DTEND:20260223T190000Z
+SUMMARY:Max Mondays — Unannounced Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-02-23/">
+ Unannounced Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-02-23/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Unannounced Max Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-precious-paths_great-league_love-cup-great-league-edi
+ tion
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260217T210000Z
+DTEND:20260224T210000Z
+SUMMARY:GO Battle League — Great League and Love Cup: Great League Editi
+ on | Precious Paths
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-precious-paths_great-
+ league_love-cup-great-league-edition/">Great League and Love Cup: Great Le
+ ague Edition | Precious Paths</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-precious-paths_great-league_
+ love-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League and Love
+  Cup: Great League Edition | Precious Paths
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemonspotlighthour2026-02-24
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260224T180000Z
+DTEND:20260224T190000Z
+SUMMARY:Pokémon Spotlight Hour — Totodile Spotlight Hour
+DESCRIPTION:<a href="https://leekduck.com/events/pokemonspotlighthour2026-
+ 02-24/">Totodile Spotlight Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Pokémon Spotlight Hour
+URL;VALUE=URI:https://leekduck.com/events/pokemonspotlighthour2026-02-24/
+IMAGE:https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Pokémon Spotlight Hour — Totodile Spotl
+ ight Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ okemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raidhour20260225
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260225T180000Z
+DTEND:20260225T190000Z
+SUMMARY:Raid Hour — Lunala Raid Hour
+DESCRIPTION:<a href="https://leekduck.com/events/raidhour20260225/">Lunala
+  Raid Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Hour
+URL;VALUE=URI:https://leekduck.com/events/raidhour20260225/
+IMAGE:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Hour — Lunala Raid Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ aidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-road-to-kalos
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260223T000000Z
+DTEND:20260227T235900Z
+SUMMARY:Event — Road to Kalos
+DESCRIPTION:<a href="https://leekduck.com/events/road-to-kalos/">Road to K
+ alos</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/road-to-kalos/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 02-23-road-to-kalos/road-to-kalos.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Road to Kalos
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-02-23-road-to-kalos/road-to-kalos.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-tour-kalos-global-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260228T100000Z
+DTEND:20260301T180000Z
+SUMMARY:Pokémon GO Tour — Pokémon GO Tour: Kalos - Global 2026
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-tour-kalos-glo
+ bal-2026/">Pokémon GO Tour: Kalos - Global 2026</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Pokémon GO Tour
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-tour-kalos-global-202
+ 6/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 02-28-pokemon-go-tour-kalos-global-2026/pokemon-go-tour-kalos-global-2026.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Pokémon GO Tour — Pokémon GO Tour: Kal
+ os - Global 2026
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-02-28-pokemon-go-tour-kalos-global-2026/pokemon-go
+ -tour-kalos-global-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-go-pass-road-to-kalos
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260223T100000Z
+DTEND:20260301T180000Z
+SUMMARY:GO Pass — GO Pass: Road to Kalos
+DESCRIPTION:<a href="https://leekduck.com/events/go-pass-road-to-kalos/">G
+ O Pass: Road to Kalos</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Pass
+URL;VALUE=URI:https://leekduck.com/events/go-pass-road-to-kalos/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 02-23-go-pass-road-to-kalos/go-pass-road-to-kalos.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Pass — GO Pass: Road to Kalos
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-02-23-go-pass-road-to-kalos/go-pass-road-to-kalos.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-go-tour-fairy-type-timed-research
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260219T190000Z
+DTEND:20260302T000000Z
+SUMMARY:Research — [Promo Code] GO Tour Fairy Type Timed Research
+DESCRIPTION:<a href="https://leekduck.com/events/go-tour-fairy-type-timed-
+ research/">[Promo Code] GO Tour Fairy Type Timed Research</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Research
+URL;VALUE=URI:https://leekduck.com/events/go-tour-fairy-type-timed-researc
+ h/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 02-20-go-tour-fairy-type-timed-research/sylveon.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Research — [Promo Code] GO Tour Fairy Ty
+ pe Timed Research
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-02-20-go-tour-fairy-type-timed-research/sylveon.jp
+ g
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-season-21-precious-paths
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20251202T100000Z
+DTEND:20260303T100000Z
+SUMMARY:Season — Precious Paths
+DESCRIPTION:<a href="https://leekduck.com/events/season-21-precious-paths/
+ ">Precious Paths</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Season
+URL;VALUE=URI:https://leekduck.com/events/season-21-precious-paths/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2025/2025-
+ 12-02-season-21-precious-paths/season-21-precious-paths.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Season — Precious Paths
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2025/2025-12-02-season-21-precious-paths/season-21-precious-
+ paths.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-go-pass-february-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260203T100000Z
+DTEND:20260303T100000Z
+SUMMARY:GO Pass — GO Pass: February
+DESCRIPTION:<a href="https://leekduck.com/events/go-pass-february-2026/">G
+ O Pass: February</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Pass
+URL;VALUE=URI:https://leekduck.com/events/go-pass-february-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 02-03-go-pass-february-2026/go-pass-february-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Pass — GO Pass: February
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-02-03-go-pass-february-2026/go-pass-february-2026.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-precious-paths_great-league_ultra-league_master-leagu
+ e-mega-edition
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260224T210000Z
+DTEND:20260303T210000Z
+SUMMARY:GO Battle League — Great League\, Ultra League\, and Master Leag
+ ue: Mega Edition | Precious Paths
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-precious-paths_great-
+ league_ultra-league_master-league-mega-edition/">Great League\, Ultra Leag
+ ue\, and Master League: Mega Edition | Precious Paths</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-precious-paths_great-league_
+ ultra-league_master-league-mega-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 5-precious-paths.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League\, and Master League: Mega Edition | Precious Paths
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-25-precious-paths.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-lunala-in-5-star-raid-battles-march-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260302T100000Z
+DTEND:20260303T200000Z
+SUMMARY:Raid Battles — Lunala in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/lunala-in-5-star-raid-bat
+ tles-march-2026/">Lunala in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/lunala-in-5-star-raid-battles-ma
+ rch-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Lunala in 5-star Raid Bat
+ tles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/l
+ unala.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-absol-in-mega-raids-march-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260302T100000Z
+DTEND:20260303T200000Z
+SUMMARY:Raid Battles — Mega Absol in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-absol-in-mega-raids-
+ march-2026/">Mega Absol in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-absol-in-mega-raids-march-2
+ 026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Absol in Mega Raids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-shadow-regigigas-in-shadow-raids-february-march-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260201T060000Z
+DTEND:20260304T220000Z
+SUMMARY:Raid Battles — Shadow Regigigas in Shadow Raids
+DESCRIPTION:<a href="https://leekduck.com/events/shadow-regigigas-in-shado
+ w-raids-february-march-2026/">Shadow Regigigas in Shadow Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/shadow-regigigas-in-shadow-raids
+ -february-march-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Shadow Regigigas in Shado
+ w Raids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-season-event-march-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260307T100000Z
+DTEND:20260309T200000Z
+SUMMARY:Season — Season Event
+DESCRIPTION:<a href="https://leekduck.com/events/season-event-march-2026/"
+ >Season Event</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Season
+URL;VALUE=URI:https://leekduck.com/events/season-event-march-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Season — Season Event
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-march-communityday2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260314T140000Z
+DTEND:20260314T170000Z
+SUMMARY:Community Day — Scorbunny Community Day
+DESCRIPTION:<a href="https://leekduck.com/events/march-communityday2026/">
+ Scorbunny Community Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Community Day
+URL;VALUE=URI:https://leekduck.com/events/march-communityday2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 03-14-march-communityday2026/scorbunny-cd-placeholder.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Community Day — Scorbunny Community Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-03-14-march-communityday2026/scorbunny-cd-placehol
+ der.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-research-day-march-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260321T140000Z
+DTEND:20260321T170000Z
+SUMMARY:Research Day — Research Day
+DESCRIPTION:<a href="https://leekduck.com/events/research-day-march-2026/"
+ >Research Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Research Day
+URL;VALUE=URI:https://leekduck.com/events/research-day-march-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Research Day — Research Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-battle-day-march-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260328T140000Z
+DTEND:20260328T170000Z
+SUMMARY:Max Battles — Max Battle Day
+DESCRIPTION:<a href="https://leekduck.com/events/max-battle-day-march-2026
+ /">Max Battle Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/max-battle-day-march-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Max Battle Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raid-day-april-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260404T140000Z
+DTEND:20260404T170000Z
+SUMMARY:Raid Day — Raid Day
+DESCRIPTION:<a href="https://leekduck.com/events/raid-day-april-2026/">Rai
+ d Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/raid-day-april-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Raid Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-april-communityday2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260411T140000Z
+DTEND:20260411T170000Z
+SUMMARY:Community Day — April Community Day
+DESCRIPTION:<a href="https://leekduck.com/events/april-communityday2026/">
+ April Community Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Community Day
+URL;VALUE=URI:https://leekduck.com/events/april-communityday2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Community Day — April Community Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/c
+ d-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-hatch-day-april-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260418T140000Z
+DTEND:20260418T170000Z
+SUMMARY:Event — Hatch Day
+DESCRIPTION:<a href="https://leekduck.com/events/hatch-day-april-2026/">Ha
+ tch Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/hatch-day-april-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Hatch Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-battle-day-april-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260425T140000Z
+DTEND:20260425T170000Z
+SUMMARY:Max Battles — Max Battle Day
+DESCRIPTION:<a href="https://leekduck.com/events/max-battle-day-april-2026
+ /">Max Battle Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/max-battle-day-april-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Max Battle Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-shadow-raid-day-may-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260502T140000Z
+DTEND:20260502T170000Z
+SUMMARY:Raid Day — Shadow Raid Day
+DESCRIPTION:<a href="https://leekduck.com/events/shadow-raid-day-may-2026/
+ ">Shadow Raid Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/shadow-raid-day-may-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Shadow Raid Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-may-communityday2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260509T140000Z
+DTEND:20260509T170000Z
+SUMMARY:Community Day — May Community Day
+DESCRIPTION:<a href="https://leekduck.com/events/may-communityday2026/">Ma
+ y Community Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Community Day
+URL;VALUE=URI:https://leekduck.com/events/may-communityday2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Community Day — May Community Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/c
+ d-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-may-communitydayclassic2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260516T140000Z
+DTEND:20260516T170000Z
+SUMMARY:Community Day — May Community Day Classic
+DESCRIPTION:<a href="https://leekduck.com/events/may-communitydayclassic20
+ 26/">May Community Day Classic</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Community Day
+URL;VALUE=URI:https://leekduck.com/events/may-communitydayclassic2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Community Day — May Community Day Classi
+ c
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/c
+ d-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raid-day-may-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260523T140000Z
+DTEND:20260523T170000Z
+SUMMARY:Raid Day — Raid Day
+DESCRIPTION:<a href="https://leekduck.com/events/raid-day-may-2026/">Raid 
+ Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/raid-day-may-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Raid Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-example_event
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20261201T100000Z
+DTEND:20261202T200000Z
+SUMMARY:Event — Example Event Template (Auto ToC Demo)
+DESCRIPTION:<a href="https://leekduck.com/events/example_event/">Example E
+ vent Template (Auto ToC Demo)</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/example_event/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/examp
+ le_event/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Example Event Template (Auto ToC
+  Demo)
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/example_event/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

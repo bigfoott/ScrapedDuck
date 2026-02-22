@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Raid Battles
+X-WR-CALNAME:Pokémon Go — Raid Battles
+X-WR-CALDESC:Pokémon Go Raid Battles events.
+BEGIN:VEVENT
+UID:scraped-duck-lunala-in-5-star-raid-battles-february-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260221T100000Z
+DTEND:20260222T200000Z
+SUMMARY:Raid Battles — Lunala in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/lunala-in-5-star-raid-bat
+ tles-february-2026/">Lunala in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/lunala-in-5-star-raid-battles-fe
+ bruary-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Lunala in 5-star Raid Bat
+ tles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/l
+ unala.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-absol-in-mega-raids-february-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260221T100000Z
+DTEND:20260222T200000Z
+SUMMARY:Raid Battles — Mega Absol in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-absol-in-mega-raids-
+ february-2026/">Mega Absol in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-absol-in-mega-raids-februar
+ y-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Absol in Mega Raids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-lunala-in-5-star-raid-battles-march-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260302T100000Z
+DTEND:20260303T200000Z
+SUMMARY:Raid Battles — Lunala in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/lunala-in-5-star-raid-bat
+ tles-march-2026/">Lunala in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/lunala-in-5-star-raid-battles-ma
+ rch-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/lunala.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Lunala in 5-star Raid Bat
+ tles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/l
+ unala.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-absol-in-mega-raids-march-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260302T100000Z
+DTEND:20260303T200000Z
+SUMMARY:Raid Battles — Mega Absol in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-absol-in-mega-raids-
+ march-2026/">Mega Absol in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-absol-in-mega-raids-march-2
+ 026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Absol in Mega Raids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-shadow-regigigas-in-shadow-raids-february-march-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260201T060000Z
+DTEND:20260304T220000Z
+SUMMARY:Raid Battles — Shadow Regigigas in Shadow Raids
+DESCRIPTION:<a href="https://leekduck.com/events/shadow-regigigas-in-shado
+ w-raids-february-march-2026/">Shadow Regigigas in Shadow Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/shadow-regigigas-in-shadow-raids
+ -february-march-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Shadow Regigigas in Shado
+ w Raids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

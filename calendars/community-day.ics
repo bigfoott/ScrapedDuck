@@ -1,0 +1,93 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Community Day
+X-WR-CALNAME:Pokémon Go — Community Day
+X-WR-CALDESC:Pokémon Go Community Day events.
+BEGIN:VEVENT
+UID:scraped-duck-march-communityday2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260314T140000Z
+DTEND:20260314T170000Z
+SUMMARY:Community Day — Scorbunny Community Day
+DESCRIPTION:<a href="https://leekduck.com/events/march-communityday2026/">
+ Scorbunny Community Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Community Day
+URL;VALUE=URI:https://leekduck.com/events/march-communityday2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 03-14-march-communityday2026/scorbunny-cd-placeholder.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Community Day — Scorbunny Community Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-03-14-march-communityday2026/scorbunny-cd-placehol
+ der.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-april-communityday2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260411T140000Z
+DTEND:20260411T170000Z
+SUMMARY:Community Day — April Community Day
+DESCRIPTION:<a href="https://leekduck.com/events/april-communityday2026/">
+ April Community Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Community Day
+URL;VALUE=URI:https://leekduck.com/events/april-communityday2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Community Day — April Community Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/c
+ d-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-may-communityday2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260509T140000Z
+DTEND:20260509T170000Z
+SUMMARY:Community Day — May Community Day
+DESCRIPTION:<a href="https://leekduck.com/events/may-communityday2026/">Ma
+ y Community Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Community Day
+URL;VALUE=URI:https://leekduck.com/events/may-communityday2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Community Day — May Community Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/c
+ d-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-may-communitydayclassic2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260516T140000Z
+DTEND:20260516T170000Z
+SUMMARY:Community Day — May Community Day Classic
+DESCRIPTION:<a href="https://leekduck.com/events/may-communitydayclassic20
+ 26/">May Community Day Classic</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Community Day
+URL;VALUE=URI:https://leekduck.com/events/may-communitydayclassic2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Community Day — May Community Day Classi
+ c
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/c
+ d-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

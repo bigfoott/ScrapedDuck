@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — GO Battle League
+X-WR-CALNAME:Pokémon Go — GO Battle League
+X-WR-CALDESC:Pokémon Go GO Battle League events.
+BEGIN:VEVENT
+UID:scraped-duck-gbl-precious-paths_great-league_love-cup-great-league-edi
+ tion
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260217T210000Z
+DTEND:20260224T210000Z
+SUMMARY:GO Battle League — Great League and Love Cup: Great League Editi
+ on | Precious Paths
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-precious-paths_great-
+ league_love-cup-great-league-edition/">Great League and Love Cup: Great Le
+ ague Edition | Precious Paths</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-precious-paths_great-league_
+ love-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League and Love
+  Cup: Great League Edition | Precious Paths
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-precious-paths_great-league_ultra-league_master-leagu
+ e-mega-edition
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260224T210000Z
+DTEND:20260303T210000Z
+SUMMARY:GO Battle League — Great League\, Ultra League\, and Master Leag
+ ue: Mega Edition | Precious Paths
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-precious-paths_great-
+ league_ultra-league_master-league-mega-edition/">Great League\, Ultra Leag
+ ue\, and Master League: Mega Edition | Precious Paths</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-precious-paths_great-league_
+ ultra-league_master-league-mega-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 5-precious-paths.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League\, and Master League: Mega Edition | Precious Paths
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-25-precious-paths.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

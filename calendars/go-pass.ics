@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — GO Pass
+X-WR-CALNAME:Pokémon Go — GO Pass
+X-WR-CALDESC:Pokémon Go GO Pass events.
+BEGIN:VEVENT
+UID:scraped-duck-go-pass-road-to-kalos
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260223T100000Z
+DTEND:20260301T180000Z
+SUMMARY:GO Pass — GO Pass: Road to Kalos
+DESCRIPTION:<a href="https://leekduck.com/events/go-pass-road-to-kalos/">G
+ O Pass: Road to Kalos</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Pass
+URL;VALUE=URI:https://leekduck.com/events/go-pass-road-to-kalos/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 02-23-go-pass-road-to-kalos/go-pass-road-to-kalos.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Pass — GO Pass: Road to Kalos
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-02-23-go-pass-road-to-kalos/go-pass-road-to-kalos.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-go-pass-february-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260203T100000Z
+DTEND:20260303T100000Z
+SUMMARY:GO Pass — GO Pass: February
+DESCRIPTION:<a href="https://leekduck.com/events/go-pass-february-2026/">G
+ O Pass: February</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Pass
+URL;VALUE=URI:https://leekduck.com/events/go-pass-february-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 02-03-go-pass-february-2026/go-pass-february-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Pass — GO Pass: February
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-02-03-go-pass-february-2026/go-pass-february-2026.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

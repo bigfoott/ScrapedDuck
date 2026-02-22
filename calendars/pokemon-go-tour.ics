@@ -1,0 +1,87 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Pokémon GO Tour
+X-WR-CALNAME:Pokémon Go — Pokémon GO Tour
+X-WR-CALDESC:Pokémon Go Pokémon GO Tour events.
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-tour-kalos-los-angeles-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260220T170000Z
+DTEND:20260223T010000Z
+SUMMARY:Pokémon GO Tour — Pokémon GO Tour: Kalos - Los Angeles 2026
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-tour-kalos-los
+ -angeles-2026/">Pokémon GO Tour: Kalos - Los Angeles 2026</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Pokémon GO Tour
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-tour-kalos-los-angele
+ s-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 02-20-pokemon-go-tour-kalos-los-angeles-2026/pokemon-go-tour-kalos-los-ang
+ eles-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Pokémon GO Tour — Pokémon GO Tour: Kal
+ os - Los Angeles 2026
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-02-20-pokemon-go-tour-kalos-los-angeles-2026/pokem
+ on-go-tour-kalos-los-angeles-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-night-pokemon-go-tour-kalos-los-angeles-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260221T020000Z
+DTEND:20260223T040000Z
+SUMMARY:Pokémon GO Tour — Mega Night at Pokémon GO Tour: Kalos - Los A
+ ngeles 2026
+DESCRIPTION:<a href="https://leekduck.com/events/mega-night-pokemon-go-tou
+ r-kalos-los-angeles-2026/">Mega Night at Pokémon GO Tour: Kalos - Los Ang
+ eles 2026</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Pokémon GO Tour
+URL;VALUE=URI:https://leekduck.com/events/mega-night-pokemon-go-tour-kalos
+ -los-angeles-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 02-20-mega-night-pokemon-go-tour-kalos-los-angeles-2026/mega-night-pokemon
+ -go-tour-kalos-los-angeles-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Pokémon GO Tour — Mega Night at Pokémo
+ n GO Tour: Kalos - Los Angeles 2026
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-02-20-mega-night-pokemon-go-tour-kalos-los-angeles
+ -2026/mega-night-pokemon-go-tour-kalos-los-angeles-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-tour-kalos-global-2026
+SEQUENCE:0
+DTSTAMP:20260222T174658Z
+DTSTART:20260228T100000Z
+DTEND:20260301T180000Z
+SUMMARY:Pokémon GO Tour — Pokémon GO Tour: Kalos - Global 2026
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-tour-kalos-glo
+ bal-2026/">Pokémon GO Tour: Kalos - Global 2026</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Pokémon GO Tour
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-tour-kalos-global-202
+ 6/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 02-28-pokemon-go-tour-kalos-global-2026/pokemon-go-tour-kalos-global-2026.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Pokémon GO Tour — Pokémon GO Tour: Kal
+ os - Global 2026
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-02-28-pokemon-go-tour-kalos-global-2026/pokemon-go
+ -tour-kalos-global-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
