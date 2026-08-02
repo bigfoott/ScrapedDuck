@@ -1,96 +1,103 @@
 const fs = require('fs');
+const fsp = fs.promises;
 const ical = require('ical-generator');
+const config = require('./config');
 
-function main()
+async function main()
 {
-    var events = JSON.parse(fs.readFileSync("./files/events.min.json"));
+    var events = JSON.parse(await fsp.readFile("./files/events.min.json"));
 
-    fs.readdir("files/temp", function (err, files) {
-        if (err) {
-            return console.log('Unable to scan directory: ' + err);
-        }
+    var files = await fsp.readdir("files/temp");
 
-        files.forEach(f =>
+    for (const f of files)
+    {
+        var data = JSON.parse(await fsp.readFile("./files/temp/" + f));
+
+        events.forEach(e =>
         {
-            var data = JSON.parse(fs.readFileSync("./files/temp/" + f));
-
-            events.forEach(e =>
+            if (e.eventID == data.id)
             {
-                if (e.eventID == data.id)
+                // add always generic data as 'generic' block in 'extraData' (available for all possible events)
+                if (data.type == "generic")
                 {
-                    // add always generic data as 'generic' block in 'extraData' (available for all possible events)
-                    if (data.type == "generic")
-                    {
-                        if (e.extraData === null) {
-                            e.extraData = {};
-                        }
-                        e.extraData.generic = data.data;
+                    if (e.extraData === null) {
+                        e.extraData = {};
                     }
-                    // add event specific extra data. Block named as event type name
-                    if (data.type == "research-breakthrough")
-                    {
-                        if (e.extraData === null) {
-                            e.extraData = {};
-                        }
-                        e.extraData.breakthrough = data.data;
-                    }
-                    else if (data.type == "pokemon-spotlight-hour")
-                    {
-                        if (e.extraData === null) {
-                            e.extraData = {};
-                        }
-                        e.extraData.spotlight = data.data
-                    }
-                    else if (data.type == "community-day")
-                    {
-                        if (e.extraData === null) {
-                            e.extraData = {};
-                        }
-                        e.extraData.communityday = data.data
-                    }
-                    else if (data.type == "raid-battles")
-                    {
-                        if (e.extraData === null) {
-                            e.extraData = {};
-                        }
-                        e.extraData.raidbattles = data.data
-                    }
-                    else if (data.type == "promo-codes")
-                    {
-                        if (e.extraData === null) {
-                            e.extraData = {};
-                        }
-                        e.extraData.promocodes = data.data
-                    }
+                    e.extraData.generic = data.data;
                 }
-            });
-        });
-
-        fs.writeFile('files/events.json', JSON.stringify(events, null, 4), err => {
-            if (err) {
-                console.error(err);
-                return;
+                // add event specific extra data. Block named as event type name
+                if (data.type == "research-breakthrough")
+                {
+                    if (e.extraData === null) {
+                        e.extraData = {};
+                    }
+                    e.extraData.breakthrough = data.data;
+                }
+                else if (data.type == "pokemon-spotlight-hour")
+                {
+                    if (e.extraData === null) {
+                        e.extraData = {};
+                    }
+                    e.extraData.spotlight = data.data
+                }
+                else if (data.type == "community-day")
+                {
+                    if (e.extraData === null) {
+                        e.extraData = {};
+                    }
+                    e.extraData.communityday = data.data
+                }
+                else if (data.type == "raid-battles")
+                {
+                    if (e.extraData === null) {
+                        e.extraData = {};
+                    }
+                    e.extraData.raidbattles = data.data
+                }
+                else if (data.type == "promo-codes")
+                {
+                    if (e.extraData === null) {
+                        e.extraData = {};
+                    }
+                    e.extraData.promocodes = data.data
+                }
+                else if (data.type == "raid-hour")
+                {
+                    if (e.extraData === null) {
+                        e.extraData = {};
+                    }
+                    e.extraData.raidhour = data.data;
+                }
+                else if (data.type == "max-battles")
+                {
+                    if (e.extraData === null) {
+                        e.extraData = {};
+                    }
+                    e.extraData.maxbattles = data.data;
+                }
+                else if (data.type == "go-battle-league")
+                {
+                    if (e.extraData === null) {
+                        e.extraData = {};
+                    }
+                    e.extraData.gobattleleague = data.data;
+                }
             }
         });
-        fs.writeFile('files/events.min.json', JSON.stringify(events), err => {
-            if (err) {
-                console.error(err);
-                return;
-            }
-        });
+    }
 
-        generateCalendars(events);
+    await fsp.writeFile('files/events.json', JSON.stringify(events, null, 4));
+    await fsp.writeFile('files/events.min.json', JSON.stringify(events));
 
-        fs.rm("files/temp", { recursive: true }, (err) => {
-            if (err) { throw err; }
-        });
-    });
+    await generateCalendars(events);
+
+    await fsp.rm("files/temp", { recursive: true });
 }
 
-function generateCalendars(events) {
+async function generateCalendars(events) {
     const leekDuckFavIconUrl = "https://leekduck.com/assets/img/favicon/favicon-16x16.png";
     const generatorName = "ScrapedDuck";
-    const generatorUrl = "https://github.com/bigfoott/ScrapedDuck";
+    const generatorUrl = config.generatorUrl;
     const icalMeta = [
         ["x-origin", "https://leekduck.com/events/"],
         ["x-generator", generatorName],
@@ -101,6 +108,11 @@ function generateCalendars(events) {
     icals.set("all", ical.default({ name: "Pokémon Go — All Events", description: "All Pokémon Go events.", x: icalMeta }));
 
     events.forEach(e => {
+
+        if (!e.start || !e.end) {
+            console.warn(`Skipping calendar entry for '${e.eventID}': missing date.`);
+            return;
+        }
 
         if (!icals.has(e.eventType)) {
             icals.set(e.eventType, ical.default({ name: `Pokémon Go — ${e.heading}`, description: `Pokémon Go ${e.heading} events.`, x: icalMeta }));
@@ -143,21 +155,11 @@ function generateCalendars(events) {
     for (const [key, cal] of icals) {
         cal.prodId({ company: generatorName, product: "Scraped LeekDuck Events", language: "EN" })
 
-        fs.writeFile(`files/calendars/${key}.ics`, cal.toString(), err => {
-            if (err) {
-                console.error(err);
-                return;
-            }
-        });
+        await fsp.writeFile(`files/calendars/${key}.ics`, cal.toString());
     }
 }
 
-try
-{
-    main();
-}
-catch (e)
-{
+main().catch(e => {
     console.error("ERROR: " + e);
     process.exit(1);
-}
+});
