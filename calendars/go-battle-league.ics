@@ -1,0 +1,337 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — GO Battle League
+X-WR-CALNAME:Pokémon Go — GO Battle League
+X-WR-CALDESC:Pokémon Go GO Battle League events.
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_great-league-mega-edition_ultra-leagu
+ e-mega-edition_master-league-mega-edition-split-1
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20260908T200000Z
+DTEND:20260915T200000Z
+SUMMARY:GO Battle League — Great League: Mega Edition\, Ultra League: Me
+ ga Edition\, and Master League: Mega Edition | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_great
+ -league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-
+ split-1/">Great League: Mega Edition\, Ultra League: Mega Edition\, and Ma
+ ster League: Mega Edition | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_great-league
+ -mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-1
+ /
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 8-twilight-trails.png
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League: Mega Ed
+ ition\, Ultra League: Mega Edition\, and Master League: Mega Edition | Twi
+ light Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-28-twilight-trails.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_great-league_ultra-league-mega-editio
+ n_willpower-cup-great-league-edition
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20260915T200000Z
+DTEND:20260922T200000Z
+SUMMARY:GO Battle League — Great League\, Ultra League: Mega Edition\, a
+ nd Willpower Cup: Great League Edition | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_great
+ -league_ultra-league-mega-edition_willpower-cup-great-league-edition/">Gre
+ at League\, Ultra League: Mega Edition\, and Willpower Cup: Great League E
+ dition | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_great-league
+ _ultra-league-mega-edition_willpower-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League: Mega Edition\, and Willpower Cup: Great League Edition | Twilight 
+ Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_ultra-league_master-league-mega-editi
+ on_retro-cup-great-league-edition
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20260922T200000Z
+DTEND:20260929T200000Z
+SUMMARY:GO Battle League — Ultra League\, Master League: Mega Edition\, 
+ and Retro Cup: Great League Edition | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_ultra
+ -league_master-league-mega-edition_retro-cup-great-league-edition/">Ultra 
+ League\, Master League: Mega Edition\, and Retro Cup: Great League Edition
+  | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_ultra-league
+ _master-league-mega-edition_retro-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-le
+ ague-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Ultra League\, Master
+  League: Mega Edition\, and Retro Cup: Great League Edition | Twilight Tra
+ ils
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-ultra-league-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_master-league_mega-color-cup-great-le
+ ague-edition
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20260929T200000Z
+DTEND:20261006T200000Z
+SUMMARY:GO Battle League — Master League and Mega Color Cup: Great Leagu
+ e Edition | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_maste
+ r-league_mega-color-cup-great-league-edition/">Master League and Mega Colo
+ r Cup: Great League Edition | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_master-leagu
+ e_mega-color-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Master League and Meg
+ a Color Cup: Great League Edition | Twilight Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_great-league-mega-edition_ultra-leagu
+ e-mega-edition_master-league-mega-edition-split-2
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20261006T200000Z
+DTEND:20261013T200000Z
+SUMMARY:GO Battle League — Great League: Mega Edition\, Ultra League: Me
+ ga Edition\, and Master League: Mega Edition | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_great
+ -league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-
+ split-2/">Great League: Mega Edition\, Ultra League: Mega Edition\, and Ma
+ ster League: Mega Edition | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_great-league
+ -mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2
+ /
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 8-twilight-trails.png
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League: Mega Ed
+ ition\, Ultra League: Mega Edition\, and Master League: Mega Edition | Twi
+ light Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-28-twilight-trails.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_great-league_ultra-league-mega-editio
+ n_little-cup
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20261013T200000Z
+DTEND:20261020T200000Z
+SUMMARY:GO Battle League — Great League\, Ultra League: Mega Edition\, a
+ nd Little Cup | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_great
+ -league_ultra-league-mega-edition_little-cup/">Great League\, Ultra League
+ : Mega Edition\, and Little Cup | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_great-league
+ _ultra-league-mega-edition_little-cup/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League: Mega Edition\, and Little Cup | Twilight Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_ultra-league_master-league-mega-editi
+ on_fantasy-cup-great-league-edition
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20261020T200000Z
+DTEND:20261027T200000Z
+SUMMARY:GO Battle League — Ultra League\, Master League: Mega Edition\, 
+ and Fantasy Cup: Great League Edition | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_ultra
+ -league_master-league-mega-edition_fantasy-cup-great-league-edition/">Ultr
+ a League\, Master League: Mega Edition\, and Fantasy Cup: Great League Edi
+ tion | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_ultra-league
+ _master-league-mega-edition_fantasy-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-le
+ ague-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Ultra League\, Master
+  League: Mega Edition\, and Fantasy Cup: Great League Edition | Twilight T
+ rails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-ultra-league-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_master-league_mega-halloween-cup-grea
+ t-league-edition
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20261027T210000Z
+DTEND:20261103T210000Z
+SUMMARY:GO Battle League — Master League and Mega Halloween Cup: Great L
+ eague Edition | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_maste
+ r-league_mega-halloween-cup-great-league-edition/">Master League and Mega 
+ Halloween Cup: Great League Edition | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_master-leagu
+ e_mega-halloween-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Master League and Meg
+ a Halloween Cup: Great League Edition | Twilight Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_great-league-mega-edition_ultra-leagu
+ e-mega-edition_master-league-mega-edition-split-3
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20261103T210000Z
+DTEND:20261110T210000Z
+SUMMARY:GO Battle League — Great League: Mega Edition\, Ultra League: Me
+ ga Edition\, and Master League: Mega Edition | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_great
+ -league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-
+ split-3/">Great League: Mega Edition\, Ultra League: Mega Edition\, and Ma
+ ster League: Mega Edition | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_great-league
+ -mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3
+ /
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 8-twilight-trails.png
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League: Mega Ed
+ ition\, Ultra League: Mega Edition\, and Master League: Mega Edition | Twi
+ light Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-28-twilight-trails.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_great-league_ultra-league-mega-editio
+ n_2026-go-laic-cup
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20261110T210000Z
+DTEND:20261117T210000Z
+SUMMARY:GO Battle League — Great League\, Ultra League: Mega Edition\, a
+ nd 2026 GO LAIC Cup | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_great
+ -league_ultra-league-mega-edition_2026-go-laic-cup/">Great League\, Ultra 
+ League: Mega Edition\, and 2026 GO LAIC Cup | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_great-league
+ _ultra-league-mega-edition_2026-go-laic-cup/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League: Mega Edition\, and 2026 GO LAIC Cup | Twilight Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_ultra-league_master-league-mega-editi
+ on_2026-go-laic-cup
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20261118T210000Z
+DTEND:20261125T210000Z
+SUMMARY:GO Battle League — Ultra League\, Master League: Mega Edition\, 
+ and 2026 GO LAIC Cup | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_ultra
+ -league_master-league-mega-edition_2026-go-laic-cup/">Ultra League\, Maste
+ r League: Mega Edition\, and 2026 GO LAIC Cup | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_ultra-league
+ _master-league-mega-edition_2026-go-laic-cup/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-le
+ ague-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Ultra League\, Master
+  League: Mega Edition\, and 2026 GO LAIC Cup | Twilight Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-ultra-league-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_master-league_mega-catch-cup-great-le
+ ague-edition
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20261124T210000Z
+DTEND:20261201T210000Z
+SUMMARY:GO Battle League — Master League and Mega Catch Cup: Great Leagu
+ e Edition | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_maste
+ r-league_mega-catch-cup-great-league-edition/">Master League and Mega Catc
+ h Cup: Great League Edition | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_master-leagu
+ e_mega-catch-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Master League and Meg
+ a Catch Cup: Great League Edition | Twilight Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

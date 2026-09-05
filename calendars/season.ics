@@ -1,0 +1,54 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Season
+X-WR-CALNAME:Pokémon Go — Season
+X-WR-CALDESC:Pokémon Go Season events.
+BEGIN:VEVENT
+UID:scraped-duck-season-23-forever-forward
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20260602T100000Z
+DTEND:20260908T100000Z
+SUMMARY:Season — Forever Forward
+DESCRIPTION:<a href="https://leekduck.com/events/season-23-forever-forward
+ /">Forever Forward</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Season
+URL;VALUE=URI:https://leekduck.com/events/season-23-forever-forward/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 06-02-season-23-forever-forward/season-23-forever-forward.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Season — Forever Forward
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-06-02-season-23-forever-forward/season-23-forever-
+ forward.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-season-24-twilight-trails
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20260908T100000Z
+DTEND:20261201T100000Z
+SUMMARY:Season — Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/season-24-twilight-trails
+ /">Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Season
+URL;VALUE=URI:https://leekduck.com/events/season-24-twilight-trails/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 09-08-season-24-twilight-trails/season-24-twilight-trails.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Season — Twilight Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-09-08-season-24-twilight-trails/season-24-twilight
+ -trails.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

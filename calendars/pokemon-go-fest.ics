@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Pokémon GO Fest
+X-WR-CALNAME:Pokémon Go — Pokémon GO Fest
+X-WR-CALDESC:Pokémon Go Pokémon GO Fest events.
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-fest-2026-mega-finale
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20260905T100000Z
+DTEND:20260906T180000Z
+SUMMARY:Pokémon GO Fest — Pokémon GO Fest 2026: Mega Finale
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-fest-2026-mega
+ -finale/">Pokémon GO Fest 2026: Mega Finale</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Pokémon GO Fest
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-fest-2026-mega-finale
+ /
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 09-05-pokemon-go-fest-2026-mega-finale/pokemon-go-fest-2026-mega-finale.jp
+ g
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Pokémon GO Fest — Pokémon GO Fest 2026
+ : Mega Finale
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-09-05-pokemon-go-fest-2026-mega-finale/pokemon-go-
+ fest-2026-mega-finale.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

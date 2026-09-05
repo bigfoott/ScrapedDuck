@@ -1,0 +1,186 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Event
+X-WR-CALNAME:Pokémon Go — Event
+X-WR-CALDESC:Pokémon Go Event events.
+BEGIN:VEVENT
+UID:scraped-duck-mega-ascension
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20260831T100000Z
+DTEND:20260904T235900Z
+SUMMARY:Event — Mega Ascension
+DESCRIPTION:<a href="https://leekduck.com/events/mega-ascension/">Mega Asc
+ ension</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/mega-ascension/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 08-31-mega-ascension/mega-ascension.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Mega Ascension
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-08-31-mega-ascension/mega-ascension.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-10th-anniversary-celebration
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20260812T160000Z
+DTEND:20260906T235900Z
+SUMMARY:Event — 10th Anniversary Celebration - Perfect Mewtwo Timed Rese
+ arch
+DESCRIPTION:<a href="https://leekduck.com/events/10th-anniversary-celebrat
+ ion/">10th Anniversary Celebration - Perfect Mewtwo Timed Research</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/10th-anniversary-celebration/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 08-12-10th-anniversary-celebration/10th-anniversary-celebration-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — 10th Anniversary Celebration - P
+ erfect Mewtwo Timed Research
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-08-12-10th-anniversary-celebration/10th-anniversar
+ y-celebration-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-squads
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20260908T100000Z
+DTEND:20260914T200000Z
+SUMMARY:Event — Mega Squads
+DESCRIPTION:<a href="https://leekduck.com/events/mega-squads/">Mega Squads
+ </a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/mega-squads/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 09-08-mega-squads/mega-squads.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Mega Squads
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-09-08-mega-squads/mega-squads.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-horizons-the-series-celebration-event-2026
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20260916T100000Z
+DTEND:20260922T200000Z
+SUMMARY:Event — Pokémon Horizons: The Series Celebration Event
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-horizons-the-seri
+ es-celebration-event-2026/">Pokémon Horizons: The Series Celebration Even
+ t</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/pokemon-horizons-the-series-cele
+ bration-event-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 09-16-pokemon-horizons-the-series-celebration-event-2026/pokemon-horizons-
+ celebration-event-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Pokémon Horizons: The Series Ce
+ lebration Event
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-09-16-pokemon-horizons-the-series-celebration-even
+ t-2026/pokemon-horizons-celebration-event-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-catch-mastery-phantump-2026
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20260926T100000Z
+DTEND:20260926T200000Z
+SUMMARY:Event — Phantump Catch Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/catch-mastery-phantump-20
+ 26/">Phantump Catch Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/catch-mastery-phantump-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 09-26-catch-mastery-phantump-2026/phantump-catch-mastery.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Phantump Catch Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-09-26-catch-mastery-phantump-2026/phantump-catch-m
+ astery.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-lego-pokemon-go-2026
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20260803T100000Z
+DTEND:20260930T235900Z
+SUMMARY:Event — LEGO Stores and Pokémon GO
+DESCRIPTION:<a href="https://leekduck.com/events/lego-pokemon-go-2026/">LE
+ GO Stores and Pokémon GO</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/lego-pokemon-go-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 08-03-lego-pokemon-go-2026/lego-stores-pokemon-go.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — LEGO Stores and Pokémon GO
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-08-03-lego-pokemon-go-2026/lego-stores-pokemon-go.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-harvest-festival-2026
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20260929T100000Z
+DTEND:20261005T200000Z
+SUMMARY:Event — Harvest Festival
+DESCRIPTION:<a href="https://leekduck.com/events/harvest-festival-2026/">H
+ arvest Festival</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/harvest-festival-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Harvest Festival
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-hatch-day-october-2026
+SEQUENCE:0
+DTSTAMP:20260905T161015Z
+DTSTART:20261017T110000Z
+DTEND:20261017T170000Z
+SUMMARY:Event — Hatch Day
+DESCRIPTION:<a href="https://leekduck.com/events/hatch-day-october-2026/">
+ Hatch Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/hatch-day-october-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Hatch Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
