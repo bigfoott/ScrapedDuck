@@ -25,6 +25,14 @@ type Source = (typeof SOURCES)[number];
 const isSource = (s: string): s is Source =>
   (SOURCES as readonly string[]).includes(s);
 
+/// Same check on a token so the manual refresh endpoint can't be called by
+/// third parties. Set with: npx wrangler secret put REFRESH_TOKEN
+const authorized = (request: Request, env: Env): boolean => {
+  const token = env.REFRESH_TOKEN;
+  if (!token) return false;
+  return request.headers.get("authorization") === `Bearer ${token}`;
+};
+
 export default {
   async scheduled(
     _controller: ScheduledController,
@@ -42,10 +50,25 @@ export default {
   async fetch(
     request: Request,
     env: Env,
-    _ctx: ExecutionContext,
+    ctx: ExecutionContext,
   ): Promise<Response> {
     const url = new URL(request.url);
     const source = url.pathname.replace(/^\//, "").replace(/\.json$/, "");
+
+    // POST /:source/refresh — run the scraper now, no cron wait.
+    if (request.method === "POST" && url.pathname.endsWith("/refresh")) {
+      if (!authorized(request, env)) {
+        return json({ error: "unauthorized" }, 401);
+      }
+      const target = url.pathname
+        .replace(/^\//, "")
+        .replace(/\/refresh$/, "");
+      if (!isSource(target)) {
+        return json({ sources: SOURCES }, 404);
+      }
+      ctx.waitUntil(refresh(env, target));
+      return json({ started: target }, 202);
+    }
 
     if (!isSource(source)) {
       return json({ sources: SOURCES }, 404);

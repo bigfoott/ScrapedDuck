@@ -80,9 +80,16 @@ export async function scrapeEvents(): Promise<EventEntry[]> {
 
   await rewriter.transform(res).arrayBuffer();
 
-  return cards.flatMap((card) => {
+  // The page lists each event under both "current" and "upcoming"; the old
+  // scraper deduped by eventID and merged the date fields. Same here: first
+  // occurrence wins, which keeps the entry whose window is current.
+  const seen = new Map<string, Card>();
+  for (const card of cards) {
     const slug = card.href.split("/events/")[1]?.replace(/\/$/, "") ?? "";
-    if (!slug) return [];
+    if (slug && !seen.has(slug)) seen.set(slug, card);
+  }
+
+  return Array.from(seen.entries()).flatMap(([slug, card]) => {
     const d = dates.get(slug);
     return [
       {
