@@ -1,0 +1,16 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "scrapedduck-api",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-08-01",
+  "triggers": {
+    "crons": ["*/10 * * * *"]
+  },
+  "kv_namespaces": [
+    // Create with: npx wrangler kv namespace create DATA
+    { "binding": "DATA", "id": "REPLACE_WITH_KV_NAMESPACE_ID" }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
