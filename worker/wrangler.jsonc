@@ -1,0 +1,32 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "scrapedduck-api",
+  "main": "src/index.ts",
+  "routes": [
+    // Custom domain on the hyrmedia.app zone; created automatically on deploy.
+    { "pattern": "api.scrapeduck.hyrmedia.app", "custom_domain": true }
+  ],
+  "compatibility_date": "2026-08-01",
+  "triggers": {
+    "crons": ["*/10 * * * *"]
+  },
+  "kv_namespaces": [
+    { "binding": "DATA", "id": "c807d66a5d374f84b01857e248c348c8" }
+  ],
+  "observability": {
+    "enabled": true,
+    "logs": {
+      "enabled": true,
+      "head_sampling_rate": 1,
+      "invocation_logs": true,
+      "destinations": ["grafana-logs"],
+      "persist": true
+    },
+    "traces": {
+      "enabled": true,
+      "head_sampling_rate": 1,
+      "destinations": ["grafana-traces"],
+      "persist": true
+    }
+  }
+}

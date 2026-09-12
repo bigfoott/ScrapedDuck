@@ -4,25 +4,23 @@ const raids = require('./pages/raids')
 const research = require('./pages/research')
 const eggs = require('./pages/eggs')
 const rocketLineups = require('./pages/rocketLineups')
+const promoCodes = require('./pages/promoCodes')
 
-function main()
-{
+async function main() {
     if (!fs.existsSync('files'))
         fs.mkdirSync('files');
 
-    events.get();
-    raids.get();
-    research.get();
-    eggs.get();
-    rocketLineups.get();
+    await Promise.all([
+        events.get(),
+        raids.get(),
+        research.get(),
+        eggs.get(),
+        rocketLineups.get(),
+        promoCodes.get()
+    ]);
 }
 
-try
-{
-    main();
-}
-catch (e)
-{
+main().catch(e => {
     console.error("ERROR: " + e);
     process.exit(1);
-}
+});

@@ -1,5 +1,6 @@
-const fs = require('fs');
-const https = require('https');
+const fsp = require('fs').promises;
+const { fallbackBaseUrl } = require('./config');
+const { fetchJSON } = require('./utils');
 
 const breakthrough = require('./pages/detailed/breakthrough')
 const spotlight = require('./pages/detailed/spotlight')
@@ -7,67 +8,64 @@ const communityday = require('./pages/detailed/communityday')
 const raidbattles = require('./pages/detailed/raidbattles')
 const research = require('./pages/detailed/research')
 const generic = require('./pages/detailed/generic')
+const raidhour = require('./pages/detailed/raidhour')
+const maxbattles = require('./pages/detailed/maxbattles')
+const gobattleleague = require('./pages/detailed/gobattleleague')
 
-function main()
+async function main()
 {
+    const fs = require('fs');
     if (!fs.existsSync('files/temp'))
         fs.mkdirSync('files/temp');
 
-    var events = JSON.parse(fs.readFileSync("./files/events.min.json"));
+    var events = JSON.parse(await fsp.readFile("./files/events.min.json", "utf-8"));
 
-    https.get("https://raw.githubusercontent.com/bigfoott/ScrapedDuck/data/events.min.json", (res) =>
-    {
-        let body = "";
-        res.on("data", (chunk) => { body += chunk; });
-    
-        res.on("end", () => {
-            try
-            {
-                let bkp = JSON.parse(body);
+    var bkp = await fetchJSON(`${fallbackBaseUrl}/events.min.json`);
 
-                events.forEach(e => {
-                    // get generic extra data independend from event type
-                    generic.get(e.link, e.eventID, bkp);
-                    // get event type specific extra data
-                    if (e.eventType == "research-breakthrough")
-                    {
-                        breakthrough.get(e.link, e.eventID, bkp);
-                    }
-                    else if (e.eventType == "pokemon-spotlight-hour")
-                    {
-                        spotlight.get(e.link, e.eventID, bkp);
-                    }
-                    else if (e.eventType == "community-day")
-                    {
-                        communityday.get(e.link, e.eventID, bkp);
-                    }
-                    else if (e.eventType == "raid-battles")
-                    {
-                        raidbattles.get(e.link, e.eventID, bkp);
-                    }
-                    else if (e.eventType == "research")
-                    {
-                        research.get(e.link, e.eventID, bkp);
-                    }
-                });
-            }
-            catch (error)
-            {
-                console.error(error.message);
-            };
-        });
-    
-    }).on("error", (error) => {
-        console.error(error.message);
+    var promises = [];
+
+    events.forEach(e => {
+        // get generic extra data independend from event type
+        promises.push(generic.get(e.link, e.eventID, bkp));
+        // get event type specific extra data
+        if (e.eventType == "research-breakthrough")
+        {
+            promises.push(breakthrough.get(e.link, e.eventID, bkp));
+        }
+        else if (e.eventType == "pokemon-spotlight-hour")
+        {
+            promises.push(spotlight.get(e.link, e.eventID, bkp));
+        }
+        else if (e.eventType == "community-day")
+        {
+            promises.push(communityday.get(e.link, e.eventID, bkp));
+        }
+        else if (e.eventType == "raid-battles")
+        {
+            promises.push(raidbattles.get(e.link, e.eventID, bkp));
+        }
+        else if (e.eventType == "research")
+        {
+            promises.push(research.get(e.link, e.eventID, bkp));
+        }
+        else if (e.eventType == "raid-hour")
+        {
+            promises.push(raidhour.get(e.link, e.eventID, bkp));
+        }
+        else if (e.eventType == "max-battles" || e.eventType == "max-monday")
+        {
+            promises.push(maxbattles.get(e.link, e.eventID, bkp));
+        }
+        else if (e.eventType == "go-battle-league")
+        {
+            promises.push(gobattleleague.get(e.link, e.eventID, bkp));
+        }
     });
+
+    await Promise.all(promises);
 }
 
-try
-{
-    main();
-}
-catch (e)
-{
+main().catch(e => {
     console.error("ERROR: " + e);
     process.exit(1);
-}
+});
