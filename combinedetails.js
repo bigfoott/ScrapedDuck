@@ -121,9 +121,12 @@ async function generateCalendars(events) {
         const calAll = icals.get("all");
         const calType = icals.get(e.eventType);
 
-        // ensure the timestamps are all in zulu time
-        const startZulu = new Date(e.start).toISOString();
-        const endZulu = new Date(e.end).toISOString();
+        // The events feed timestamps are already offset-qualified ISO 8601 and are copied into
+        // the calendars as-is. Normalising them to zulu here dropped the offset — go-battle-league's
+        // -0700 became an ambiguous Z — and new Date() on bare wall-clock strings read them as the
+        // runner's local time instead of UTC. Downstream consumers want what Leek Duck published.
+        const startZulu = e.start;
+        const endZulu = e.end;
         const calEventTitle = `${e.heading} — ${e.name}`
 
         const calEvent = {

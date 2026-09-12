@@ -51,12 +51,11 @@ async function get() {
                 var start = eventDates[eventID]?.start || null;
                 var end = eventDates[eventID]?.end || null;
 
-                if (start?.length > 24) {
-                    start = "" + new Date(Date.parse(start)).toISOString();
-                }
-                if (end?.length > 24) {
-                    end = "" + new Date(Date.parse(end)).toISOString();
-                }
+                // Pass Leek Duck's timestamps through verbatim. They are valid ISO 8601 and the
+                // offset is part of the meaning: go-battle-league carries -0700, city events carry
+                // their host offset, and raid events are bare wall-clock. Converting through
+                // new Date()/toISOString() here turned bare wall-clock times into the CI runner's
+                // local zone read as UTC, which is how the Mega Finale window shifted on event day.
 
                 allEvents.push({ "eventID": eventID, "name": name, "eventType": eventType, "heading": heading, "link": link, "image": image, "start": start, "end": end, "extraData": null });
             });
