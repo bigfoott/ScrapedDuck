@@ -2,6 +2,10 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "scrapedduck-api",
   "main": "src/index.ts",
+  "routes": [
+    // Custom domain on the hyrmedia.app zone; created automatically on deploy.
+    { "pattern": "api.scrapeduck.hyrmedia.app", "custom_domain": true }
+  ],
   "compatibility_date": "2026-08-01",
   "triggers": {
     "crons": ["*/10 * * * *"]

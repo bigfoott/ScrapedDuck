@@ -22,10 +22,16 @@ npx wrangler kv namespace create DATA   # paste the id into wrangler.jsonc
 npx wrangler deploy
 ```
 
+Serves at `https://api.scrapeduck.hyrmedia.app` — a custom domain on the
+hyrmedia.app zone (Cloudflare nameservers already host it), declared in
+`wrangler.jsonc` with `custom_domain: true` so deploy creates the DNS record
+and certificate automatically. `workers_dev` stays enabled so the
+`*.workers.dev` preview URL also works before the domain resolves.
+
 ## Consumer cutover
 
 Point the What's The Hundo worker's `EVENTS_URL`/`RAIDS_URL` at
-`https://scrapedduck-api.<account>.workers.dev/events` and `/raids` once this
+`https://api.scrapeduck.hyrmedia.app/events` and `/raids` once this
 is deployed. The JSON shapes match the old `data` branch files; timestamps in
 `events` are passed through verbatim from Leek Duck's feed (see the comment in
 `src/scrapers/events.ts` — this is the fix for the Mega Finale fault).
