@@ -1,0 +1,81 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Wild Area
+X-WR-CALNAME:Pokémon Go — Wild Area
+X-WR-CALDESC:Pokémon Go Wild Area events.
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-wild-area-2026-sendai-japan
+SEQUENCE:0
+DTSTAMP:20260913T050445Z
+DTSTART:20261106T010000Z
+DTEND:20261108T090000Z
+SUMMARY:Wild Area — Pokémon GO Wild Area 2026: Sendai • Tohoku
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-wild-area-2026
+ -sendai-japan/">Pokémon GO Wild Area 2026: Sendai • Tohoku</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Wild Area
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-wild-area-2026-sendai
+ -japan/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 11-06-pokemon-go-wild-area-2026-sendai-japan/key-art.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Wild Area — Pokémon GO Wild Area 2026: 
+ Sendai • Tohoku
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-11-06-pokemon-go-wild-area-2026-sendai-japan/key-a
+ rt.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-wild-area-2026-mexico-city
+SEQUENCE:0
+DTSTAMP:20260913T050445Z
+DTSTART:20261106T160000Z
+DTEND:20261109T000000Z
+SUMMARY:Wild Area — Pokémon GO Wild Area 2026: Mexico City
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-wild-area-2026
+ -mexico-city/">Pokémon GO Wild Area 2026: Mexico City</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Wild Area
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-wild-area-2026-mexico
+ -city/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 11-06-pokemon-go-wild-area-2026-mexico-city/key-art.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Wild Area — Pokémon GO Wild Area 2026: 
+ Mexico City
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-11-06-pokemon-go-wild-area-2026-mexico-city/key-ar
+ t.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-wild-area-2026-global
+SEQUENCE:0
+DTSTAMP:20260913T050445Z
+DTSTART:20261114T100000Z
+DTEND:20261115T180000Z
+SUMMARY:Wild Area — Pokémon GO Wild Area 2026: Global
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-wild-area-2026
+ -global/">Pokémon GO Wild Area 2026: Global</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Wild Area
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-wild-area-2026-global
+ /
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 11-14-pokemon-go-wild-area-2026-global/key-art.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Wild Area — Pokémon GO Wild Area 2026: 
+ Global
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-11-14-pokemon-go-wild-area-2026-global/key-art.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
