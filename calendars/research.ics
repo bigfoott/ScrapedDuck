@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Research
+X-WR-CALNAME:Pokémon Go — Research
+X-WR-CALDESC:Pokémon Go Research events.
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-horizons-bonus-timed-research-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260918T100000Z
+DTEND:20260922T200000Z
+SUMMARY:Research — Pokémon Horizons Bonus Timed Research
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-horizons-bonus-ti
+ med-research-2026/">Pokémon Horizons Bonus Timed Research</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Research
+URL;VALUE=URI:https://leekduck.com/events/pokemon-horizons-bonus-timed-res
+ earch-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 09-18-pokemon-horizons-bonus-timed-research-2026/pokemon-horizons-bonus-ti
+ med-research-2026.png
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Research — Pokémon Horizons Bonus Timed
+  Research
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-09-18-pokemon-horizons-bonus-timed-research-2026/p
+ okemon-horizons-bonus-timed-research-2026.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

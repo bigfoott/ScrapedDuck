@@ -1,0 +1,52 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Community Day
+X-WR-CALNAME:Pokémon Go — Community Day
+X-WR-CALDESC:Pokémon Go Community Day events.
+BEGIN:VEVENT
+UID:scraped-duck-october-communityday2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261010T140000Z
+DTEND:20261010T170000Z
+SUMMARY:Community Day — Zorua Community Day
+DESCRIPTION:<a href="https://leekduck.com/events/october-communityday2026/
+ ">Zorua Community Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Community Day
+URL;VALUE=URI:https://leekduck.com/events/october-communityday2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 10-10-october-communityday2026/zorua-october-cd-2026.png
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Community Day — Zorua Community Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-10-10-october-communityday2026/zorua-october-cd-20
+ 26.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-november-communityday2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261121T140000Z
+DTEND:20261121T170000Z
+SUMMARY:Community Day — November Community Day
+DESCRIPTION:<a href="https://leekduck.com/events/november-communityday2026
+ /">November Community Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Community Day
+URL;VALUE=URI:https://leekduck.com/events/november-communityday2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Community Day — November Community Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/c
+ d-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

@@ -1,0 +1,1629 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — All Events
+X-WR-CALNAME:Pokémon Go — All Events
+X-WR-CALDESC:All Pokémon Go events.
+BEGIN:VEVENT
+UID:scraped-duck-pokemonspotlighthour2026-09-17
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:19700101T000000Z
+DTEND:19700101T000000Z
+SUMMARY:Pokémon Spotlight Hour — Charmander wearing Friede's goggles Sp
+ otlight Hour
+DESCRIPTION:<a href="https://leekduck.com/events/pokemonspotlighthour2026-
+ 09-17/">Charmander wearing Friede's goggles Spotlight Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Pokémon Spotlight Hour
+URL;VALUE=URI:https://leekduck.com/events/pokemonspotlighthour2026-09-17/
+IMAGE:https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Pokémon Spotlight Hour — Charmander wea
+ ring Friede's goggles Spotlight Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ okemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-staraptor-super-mega-raid-day-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260919T140000Z
+DTEND:20260919T170000Z
+SUMMARY:Raid Day — Staraptor Super Mega Raid Day
+DESCRIPTION:<a href="https://leekduck.com/events/staraptor-super-mega-raid
+ -day-2026/">Staraptor Super Mega Raid Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/staraptor-super-mega-raid-day-20
+ 26/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 09-19-staraptor-super-mega-raid-day-2026/staraptor-super-mega-raid-day-202
+ 6.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Staraptor Super Mega Raid Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-09-19-staraptor-super-mega-raid-day-2026/staraptor
+ -super-mega-raid-day-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-09-21
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260921T060000Z
+DTEND:20260921T210000Z
+SUMMARY:Max Mondays — Dynamax Articuno\, Zapdos\, and Moltres during Max
+  Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-09-21/">
+ Dynamax Articuno\, Zapdos\, and Moltres during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-09-21/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Articuno\, Zapdos\
+ , and Moltres during Max Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_great-league_ultra-league-mega-editio
+ n_willpower-cup-great-league-edition
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260915T200000Z
+DTEND:20260922T200000Z
+SUMMARY:GO Battle League — Great League\, Ultra League: Mega Edition\, a
+ nd Willpower Cup: Great League Edition | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_great
+ -league_ultra-league-mega-edition_willpower-cup-great-league-edition/">Gre
+ at League\, Ultra League: Mega Edition\, and Willpower Cup: Great League E
+ dition | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_great-league
+ _ultra-league-mega-edition_willpower-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League: Mega Edition\, and Willpower Cup: Great League Edition | Twilight 
+ Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-horizons-bonus-timed-research-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260918T100000Z
+DTEND:20260922T200000Z
+SUMMARY:Research — Pokémon Horizons Bonus Timed Research
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-horizons-bonus-ti
+ med-research-2026/">Pokémon Horizons Bonus Timed Research</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Research
+URL;VALUE=URI:https://leekduck.com/events/pokemon-horizons-bonus-timed-res
+ earch-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 09-18-pokemon-horizons-bonus-timed-research-2026/pokemon-horizons-bonus-ti
+ med-research-2026.png
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Research — Pokémon Horizons Bonus Timed
+  Research
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-09-18-pokemon-horizons-bonus-timed-research-2026/p
+ okemon-horizons-bonus-timed-research-2026.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-horizons-the-series-celebration-event-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260916T100000Z
+DTEND:20260922T200000Z
+SUMMARY:Event — Pokémon Horizons: The Series Celebration Event 2026
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-horizons-the-seri
+ es-celebration-event-2026/">Pokémon Horizons: The Series Celebration Even
+ t 2026</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/pokemon-horizons-the-series-cele
+ bration-event-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 09-16-pokemon-horizons-the-series-celebration-event-2026/pokemon-horizons-
+ celebration-event-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Pokémon Horizons: The Series Ce
+ lebration Event 2026
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-09-16-pokemon-horizons-the-series-celebration-even
+ t-2026/pokemon-horizons-celebration-event-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-venusaur-in-mega-raids-september-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260916T060000Z
+DTEND:20260922T220000Z
+SUMMARY:Raid Battles — Mega Venusaur in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-venusaur-in-mega-rai
+ ds-september-2026/">Mega Venusaur in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-venusaur-in-mega-raids-sept
+ ember-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Venusaur in Mega Rai
+ ds
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-zamazenta-hero-of-many-battles-in-5-star-raid-battles-sep
+ tember-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260916T060000Z
+DTEND:20260922T220000Z
+SUMMARY:Raid Battles — Zamazenta (Hero of Many Battles) in 5-star Raid B
+ attles
+DESCRIPTION:<a href="https://leekduck.com/events/zamazenta-hero-of-many-ba
+ ttles-in-5-star-raid-battles-september-2026/">Zamazenta (Hero of Many Batt
+ les) in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/zamazenta-hero-of-many-battles-i
+ n-5-star-raid-battles-september-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/zacian-and-zamazenta-2.jp
+ g
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Zamazenta (Hero of Many B
+ attles) in 5-star Raid Battles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/z
+ acian-and-zamazenta-2.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raidhour20260923
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260923T180000Z
+DTEND:20260923T190000Z
+SUMMARY:Raid Hour — Xurkitree\, Pheromosa\, and Buzzwole Raid Hour
+DESCRIPTION:<a href="https://leekduck.com/events/raidhour20260923/">Xurkit
+ ree\, Pheromosa\, and Buzzwole Raid Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Hour
+URL;VALUE=URI:https://leekduck.com/events/raidhour20260923/
+IMAGE:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Hour — Xurkitree\, Pheromosa\, and 
+ Buzzwole Raid Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ aidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemonspotlighthour2026-09-24
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260924T180000Z
+DTEND:20260924T190000Z
+SUMMARY:Pokémon Spotlight Hour — Rattata Spotlight Hour
+DESCRIPTION:<a href="https://leekduck.com/events/pokemonspotlighthour2026-
+ 09-24/">Rattata Spotlight Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Pokémon Spotlight Hour
+URL;VALUE=URI:https://leekduck.com/events/pokemonspotlighthour2026-09-24/
+IMAGE:https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Pokémon Spotlight Hour — Rattata Spotli
+ ght Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ okemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-catch-mastery-phantump-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260926T100000Z
+DTEND:20260926T200000Z
+SUMMARY:Event — Phantump Catch Mastery
+DESCRIPTION:<a href="https://leekduck.com/events/catch-mastery-phantump-20
+ 26/">Phantump Catch Mastery</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/catch-mastery-phantump-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 09-26-catch-mastery-phantump-2026/phantump-catch-mastery.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Phantump Catch Mastery
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-09-26-catch-mastery-phantump-2026/phantump-catch-m
+ astery.jpg?v2
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-choose-your-path-twilight-trails-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260923T100000Z
+DTEND:20260928T200000Z
+SUMMARY:Choose Your Path — Choose Your Path: Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/choose-your-path-twilight
+ -trails-2026/">Choose Your Path: Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Choose Your Path
+URL;VALUE=URI:https://leekduck.com/events/choose-your-path-twilight-trails
+ -2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/choose-your-path-twilight
+ -trails-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Choose Your Path — Choose Your Path: Twi
+ light Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/c
+ hoose-your-path-twilight-trails-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-09-28
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260928T060000Z
+DTEND:20260928T210000Z
+SUMMARY:Max Mondays — Dynamax Sobble during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-09-28/">
+ Dynamax Sobble during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-09-28/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Sobble during Max 
+ Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_ultra-league_master-league-mega-editi
+ on_retro-cup-great-league-edition
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260922T200000Z
+DTEND:20260929T200000Z
+SUMMARY:GO Battle League — Ultra League\, Master League: Mega Edition\, 
+ and Retro Cup: Great League Edition | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_ultra
+ -league_master-league-mega-edition_retro-cup-great-league-edition/">Ultra 
+ League\, Master League: Mega Edition\, and Retro Cup: Great League Edition
+  | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_ultra-league
+ _master-league-mega-edition_retro-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-le
+ ague-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Ultra League\, Master
+  League: Mega Edition\, and Retro Cup: Great League Edition | Twilight Tra
+ ils
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-ultra-league-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-malamar-in-mega-raids-september-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260923T060000Z
+DTEND:20260929T220000Z
+SUMMARY:Raid Battles — Mega Malamar in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-malamar-in-mega-raid
+ s-september-2026/">Mega Malamar in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-malamar-in-mega-raids-septe
+ mber-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Malamar in Mega Raid
+ s
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-septe
+ mber-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260923T060000Z
+DTEND:20260929T220000Z
+SUMMARY:Raid Battles — Xurkitree\, Pheromosa\, and Buzzwole in 5-star Ra
+ id Battles
+DESCRIPTION:<a href="https://leekduck.com/events/xurkitree-pheromosa-buzzw
+ ole-in-5-star-raid-battles-september-2026/">Xurkitree\, Pheromosa\, and Bu
+ zzwole in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/xurkitree-pheromosa-buzzwole-in-
+ 5-star-raid-battles-september-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/buzzwole-xurkitree-pherom
+ osa-ultra-beasts.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Xurkitree\, Pheromosa\, a
+ nd Buzzwole in 5-star Raid Battles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/b
+ uzzwole-xurkitree-pheromosa-ultra-beasts.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raidhour20260930
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260930T180000Z
+DTEND:20260930T190000Z
+SUMMARY:Raid Hour — Xerneas Raid Hour
+DESCRIPTION:<a href="https://leekduck.com/events/raidhour20260930/">Xernea
+ s Raid Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Hour
+URL;VALUE=URI:https://leekduck.com/events/raidhour20260930/
+IMAGE:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Hour — Xerneas Raid Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ aidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-lego-pokemon-go-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260803T100000Z
+DTEND:20260930T235900Z
+SUMMARY:Event — LEGO Stores and Pokémon GO
+DESCRIPTION:<a href="https://leekduck.com/events/lego-pokemon-go-2026/">LE
+ GO Stores and Pokémon GO</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/lego-pokemon-go-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 08-03-lego-pokemon-go-2026/lego-stores-pokemon-go.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — LEGO Stores and Pokémon GO
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-08-03-lego-pokemon-go-2026/lego-stores-pokemon-go.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemonspotlighthour2026-10-01
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261001T180000Z
+DTEND:20261001T190000Z
+SUMMARY:Pokémon Spotlight Hour — Seedot Spotlight Hour
+DESCRIPTION:<a href="https://leekduck.com/events/pokemonspotlighthour2026-
+ 10-01/">Seedot Spotlight Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Pokémon Spotlight Hour
+URL;VALUE=URI:https://leekduck.com/events/pokemonspotlighthour2026-10-01/
+IMAGE:https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Pokémon Spotlight Hour — Seedot Spotlig
+ ht Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ okemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-patterns-of-the-wild-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261002T100000Z
+DTEND:20261002T200000Z
+SUMMARY:Event — Patterns of the Wild
+DESCRIPTION:<a href="https://leekduck.com/events/patterns-of-the-wild-2026
+ /">Patterns of the Wild</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/patterns-of-the-wild-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 10-02-patterns-of-the-wild-2026/patterns-of-the-wild-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Patterns of the Wild
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-10-02-patterns-of-the-wild-2026/patterns-of-the-wi
+ ld-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gigantamax-cinderace-max-battle-day-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261003T140000Z
+DTEND:20261003T170000Z
+SUMMARY:Max Battles — Gigantamax Cinderace Max Battle Day
+DESCRIPTION:<a href="https://leekduck.com/events/gigantamax-cinderace-max-
+ battle-day-2026/">Gigantamax Cinderace Max Battle Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/gigantamax-cinderace-max-battle-
+ day-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 10-03-gigantamax-cinderace-max-battle-day-2026/gigantamax-cinderace-max-ba
+ ttle-day.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Gigantamax Cinderace Max B
+ attle Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-10-03-gigantamax-cinderace-max-battle-day-2026/gig
+ antamax-cinderace-max-battle-day.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-harvest-festival-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260929T100000Z
+DTEND:20261005T200000Z
+SUMMARY:Event — Harvest Festival 2026: Applin Picking
+DESCRIPTION:<a href="https://leekduck.com/events/harvest-festival-2026/">H
+ arvest Festival 2026: Applin Picking</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/harvest-festival-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 09-29-harvest-festival-2026/harvest-festival-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Harvest Festival 2026: Applin Pi
+ cking
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-09-29-harvest-festival-2026/harvest-festival-2026.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-harvest-festival-taken-over-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261002T000000Z
+DTEND:20261005T200000Z
+SUMMARY:Event — Harvest Festival: Taken Over
+DESCRIPTION:<a href="https://leekduck.com/events/harvest-festival-taken-ov
+ er-2026/">Harvest Festival: Taken Over</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/harvest-festival-taken-over-2026
+ /
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 10-02-harvest-festival-taken-over-2026/harvest-festival-taken-over-2026.jp
+ g
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Harvest Festival: Taken Over
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-10-02-harvest-festival-taken-over-2026/harvest-fes
+ tival-taken-over-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-10-05
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261005T060000Z
+DTEND:20261005T210000Z
+SUMMARY:Max Mondays — Dynamax Sizzlipede during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-10-05/">
+ Dynamax Sizzlipede during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-10-05/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Sizzlipede during 
+ Max Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-go-pass-september-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260908T100000Z
+DTEND:20261006T100000Z
+SUMMARY:GO Pass — GO Pass: September
+DESCRIPTION:<a href="https://leekduck.com/events/go-pass-september-2026/">
+ GO Pass: September</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Pass
+URL;VALUE=URI:https://leekduck.com/events/go-pass-september-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 09-08-go-pass-september-2026/go-pass-september-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Pass — GO Pass: September
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-09-08-go-pass-september-2026/go-pass-september-202
+ 6.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_master-league_mega-color-cup-great-le
+ ague-edition
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260929T200000Z
+DTEND:20261006T200000Z
+SUMMARY:GO Battle League — Master League and Mega Color Cup: Great Leagu
+ e Edition | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_maste
+ r-league_mega-color-cup-great-league-edition/">Master League and Mega Colo
+ r Cup: Great League Edition | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_master-leagu
+ e_mega-color-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Master League and Meg
+ a Color Cup: Great League Edition | Twilight Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-shadow-thundurus-incarnate-forme-in-shadow-raids-septembe
+ r-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260909T060000Z
+DTEND:20261006T220000Z
+SUMMARY:Raid Battles — Shadow Thundurus (Incarnate Forme) in Shadow Raid
+ s
+DESCRIPTION:<a href="https://leekduck.com/events/shadow-thundurus-incarnat
+ e-forme-in-shadow-raids-september-2026/">Shadow Thundurus (Incarnate Forme
+ ) in Shadow Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/shadow-thundurus-incarnate-forme
+ -in-shadow-raids-september-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Shadow Thundurus (Incarna
+ te Forme) in Shadow Raids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-victreebel-in-mega-raids-september-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260930T060000Z
+DTEND:20261006T220000Z
+SUMMARY:Raid Battles — Mega Victreebel in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-victreebel-in-mega-r
+ aids-september-2026/">Mega Victreebel in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-victreebel-in-mega-raids-se
+ ptember-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Victreebel in Mega R
+ aids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-xerneas-in-5-star-raid-battles-september-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260930T060000Z
+DTEND:20261006T220000Z
+SUMMARY:Raid Battles — Xerneas in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/xerneas-in-5-star-raid-ba
+ ttles-september-2026/">Xerneas in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/xerneas-in-5-star-raid-battles-s
+ eptember-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/xerneas-woods.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Xerneas in 5-star Raid Ba
+ ttles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/x
+ erneas-woods.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raidhour20261007
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261007T180000Z
+DTEND:20261007T190000Z
+SUMMARY:Raid Hour — Yveltal Raid Hour
+DESCRIPTION:<a href="https://leekduck.com/events/raidhour20261007/">Yvelta
+ l Raid Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Hour
+URL;VALUE=URI:https://leekduck.com/events/raidhour20261007/
+IMAGE:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Hour — Yveltal Raid Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ aidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemonspotlighthour2026-10-08
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261008T180000Z
+DTEND:20261008T190000Z
+SUMMARY:Pokémon Spotlight Hour — Elgyem Spotlight Hour
+DESCRIPTION:<a href="https://leekduck.com/events/pokemonspotlighthour2026-
+ 10-08/">Elgyem Spotlight Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Pokémon Spotlight Hour
+URL;VALUE=URI:https://leekduck.com/events/pokemonspotlighthour2026-10-08/
+IMAGE:https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Pokémon Spotlight Hour — Elgyem Spotlig
+ ht Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ okemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-october-communityday2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261010T140000Z
+DTEND:20261010T170000Z
+SUMMARY:Community Day — Zorua Community Day
+DESCRIPTION:<a href="https://leekduck.com/events/october-communityday2026/
+ ">Zorua Community Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Community Day
+URL;VALUE=URI:https://leekduck.com/events/october-communityday2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 10-10-october-communityday2026/zorua-october-cd-2026.png
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Community Day — Zorua Community Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-10-10-october-communityday2026/zorua-october-cd-20
+ 26.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-unannounced-event-october-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261004T100000Z
+DTEND:20261010T200000Z
+SUMMARY:Event — ???
+DESCRIPTION:<a href="https://leekduck.com/events/unannounced-event-october
+ -2026/">???</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/unannounced-event-october-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — ???
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-10-12
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261012T060000Z
+DTEND:20261012T210000Z
+SUMMARY:Max Mondays — Dynamax Rookidee during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-10-12/">
+ Dynamax Rookidee during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-10-12/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Rookidee during Ma
+ x Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_great-league-mega-edition_ultra-leagu
+ e-mega-edition_master-league-mega-edition-split-2
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261006T200000Z
+DTEND:20261013T200000Z
+SUMMARY:GO Battle League — Great League: Mega Edition\, Ultra League: Me
+ ga Edition\, and Master League: Mega Edition | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_great
+ -league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-
+ split-2/">Great League: Mega Edition\, Ultra League: Mega Edition\, and Ma
+ ster League: Mega Edition | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_great-league
+ -mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-2
+ /
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 8-twilight-trails.png
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League: Mega Ed
+ ition\, Ultra League: Mega Edition\, and Master League: Mega Edition | Twi
+ light Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-28-twilight-trails.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-blastoise-in-mega-raids-october-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261007T060000Z
+DTEND:20261013T220000Z
+SUMMARY:Raid Battles — Mega Blastoise in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-blastoise-in-mega-ra
+ ids-october-2026/">Mega Blastoise in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-blastoise-in-mega-raids-oct
+ ober-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Blastoise in Mega Ra
+ ids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-yveltal-in-5-star-raid-battles-october-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261007T060000Z
+DTEND:20261013T220000Z
+SUMMARY:Raid Battles — Yveltal in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/yveltal-in-5-star-raid-ba
+ ttles-october-2026/">Yveltal in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/yveltal-in-5-star-raid-battles-o
+ ctober-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/yveltal-2.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Yveltal in 5-star Raid Ba
+ ttles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/y
+ veltal-2.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raidhour20261014
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261014T180000Z
+DTEND:20261014T190000Z
+SUMMARY:Raid Hour — Dialga Raid Hour
+DESCRIPTION:<a href="https://leekduck.com/events/raidhour20261014/">Dialga
+  Raid Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Hour
+URL;VALUE=URI:https://leekduck.com/events/raidhour20261014/
+IMAGE:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Hour — Dialga Raid Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ aidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemonspotlighthour2026-10-15
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261015T180000Z
+DTEND:20261015T190000Z
+SUMMARY:Pokémon Spotlight Hour — Stufful Spotlight Hour
+DESCRIPTION:<a href="https://leekduck.com/events/pokemonspotlighthour2026-
+ 10-15/">Stufful Spotlight Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Pokémon Spotlight Hour
+URL;VALUE=URI:https://leekduck.com/events/pokemonspotlighthour2026-10-15/
+IMAGE:https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Pokémon Spotlight Hour — Stufful Spotli
+ ght Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ okemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-hatch-day-october-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261017T110000Z
+DTEND:20261017T170000Z
+SUMMARY:Event — Hatch Day
+DESCRIPTION:<a href="https://leekduck.com/events/hatch-day-october-2026/">
+ Hatch Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/hatch-day-october-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Hatch Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-fall-marathon-buddy-trek-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261013T100000Z
+DTEND:20261019T200000Z
+SUMMARY:Event — Fall Marathon: Buddy Trek
+DESCRIPTION:<a href="https://leekduck.com/events/fall-marathon-buddy-trek-
+ 2026/">Fall Marathon: Buddy Trek</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/fall-marathon-buddy-trek-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Fall Marathon: Buddy Trek
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-10-19
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261019T060000Z
+DTEND:20261019T210000Z
+SUMMARY:Max Mondays — Dynamax Sneasel during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-10-19/">
+ Dynamax Sneasel during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-10-19/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Sneasel during Max
+  Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_great-league_ultra-league-mega-editio
+ n_little-cup
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261013T200000Z
+DTEND:20261020T200000Z
+SUMMARY:GO Battle League — Great League\, Ultra League: Mega Edition\, a
+ nd Little Cup | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_great
+ -league_ultra-league-mega-edition_little-cup/">Great League\, Ultra League
+ : Mega Edition\, and Little Cup | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_great-league
+ _ultra-league-mega-edition_little-cup/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League: Mega Edition\, and Little Cup | Twilight Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-dialga-in-5-star-raid-battles-october-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261014T060000Z
+DTEND:20261020T220000Z
+SUMMARY:Raid Battles — Dialga in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/dialga-in-5-star-raid-bat
+ tles-october-2026/">Dialga in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/dialga-in-5-star-raid-battles-oc
+ tober-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Dialga in 5-star Raid Bat
+ tles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/d
+ ialgaraids.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-dragonite-in-mega-raids-october-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261014T060000Z
+DTEND:20261020T220000Z
+SUMMARY:Raid Battles — Mega Dragonite in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-dragonite-in-mega-ra
+ ids-october-2026/">Mega Dragonite in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-dragonite-in-mega-raids-oct
+ ober-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Dragonite in Mega Ra
+ ids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raidhour20261021
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261021T180000Z
+DTEND:20261021T190000Z
+SUMMARY:Raid Hour — Palkia Raid Hour
+DESCRIPTION:<a href="https://leekduck.com/events/raidhour20261021/">Palkia
+  Raid Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Hour
+URL;VALUE=URI:https://leekduck.com/events/raidhour20261021/
+IMAGE:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Hour — Palkia Raid Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ aidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemonspotlighthour2026-10-22
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261022T180000Z
+DTEND:20261022T190000Z
+SUMMARY:Pokémon Spotlight Hour — Morelull Spotlight Hour
+DESCRIPTION:<a href="https://leekduck.com/events/pokemonspotlighthour2026-
+ 10-22/">Morelull Spotlight Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Pokémon Spotlight Hour
+URL;VALUE=URI:https://leekduck.com/events/pokemonspotlighthour2026-10-22/
+IMAGE:https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Pokémon Spotlight Hour — Morelull Spotl
+ ight Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ okemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-battle-day-october-24-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261024T140000Z
+DTEND:20261024T170000Z
+SUMMARY:Max Battles — Dynamax Max Battle Day
+DESCRIPTION:<a href="https://leekduck.com/events/max-battle-day-october-24
+ -2026/">Dynamax Max Battle Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/max-battle-day-october-24-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Dynamax Max Battle Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-10-26
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261026T060000Z
+DTEND:20261026T210000Z
+SUMMARY:Max Mondays — Dynamax Sableye during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-10-26/">
+ Dynamax Sableye during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-10-26/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Sableye during Max
+  Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_ultra-league_master-league-mega-editi
+ on_fantasy-cup-great-league-edition
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261020T200000Z
+DTEND:20261027T200000Z
+SUMMARY:GO Battle League — Ultra League\, Master League: Mega Edition\, 
+ and Fantasy Cup: Great League Edition | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_ultra
+ -league_master-league-mega-edition_fantasy-cup-great-league-edition/">Ultr
+ a League\, Master League: Mega Edition\, and Fantasy Cup: Great League Edi
+ tion | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_ultra-league
+ _master-league-mega-edition_fantasy-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-le
+ ague-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Ultra League\, Master
+  League: Mega Edition\, and Fantasy Cup: Great League Edition | Twilight T
+ rails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-ultra-league-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-charizard-x-mega-charizard-y-in-mega-raids-october-2
+ 026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261021T060000Z
+DTEND:20261027T220000Z
+SUMMARY:Raid Battles — Mega Charizard X and Mega Charizard Y in Mega Rai
+ ds
+DESCRIPTION:<a href="https://leekduck.com/events/mega-charizard-x-mega-cha
+ rizard-y-in-mega-raids-october-2026/">Mega Charizard X and Mega Charizard 
+ Y in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-charizard-x-mega-charizard-
+ y-in-mega-raids-october-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Charizard X and Mega
+  Charizard Y in Mega Raids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-palkia-in-5-star-raid-battles-october-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261021T060000Z
+DTEND:20261027T220000Z
+SUMMARY:Raid Battles — Palkia in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/palkia-in-5-star-raid-bat
+ tles-october-2026/">Palkia in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/palkia-in-5-star-raid-battles-oc
+ tober-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/palkiaraid.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Palkia in 5-star Raid Bat
+ tles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ alkiaraid.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raidhour20261028
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261028T180000Z
+DTEND:20261028T190000Z
+SUMMARY:Raid Hour — Giratina (Origin Forme) Raid Hour
+DESCRIPTION:<a href="https://leekduck.com/events/raidhour20261028/">Girati
+ na (Origin Forme) Raid Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Hour
+URL;VALUE=URI:https://leekduck.com/events/raidhour20261028/
+IMAGE:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Hour — Giratina (Origin Forme) Raid
+  Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ aidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemonspotlighthour2026-10-29
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261029T180000Z
+DTEND:20261029T190000Z
+SUMMARY:Pokémon Spotlight Hour — Gastly Spotlight Hour
+DESCRIPTION:<a href="https://leekduck.com/events/pokemonspotlighthour2026-
+ 10-29/">Gastly Spotlight Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Pokémon Spotlight Hour
+URL;VALUE=URI:https://leekduck.com/events/pokemonspotlighthour2026-10-29/
+IMAGE:https://cdn.leekduck.com/assets/img/events/pokemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Pokémon Spotlight Hour — Gastly Spotlig
+ ht Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ okemonspotlighthour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-super-mega-raid-day-october-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261031T140000Z
+DTEND:20261031T170000Z
+SUMMARY:Raid Day — Super Mega Raid Day
+DESCRIPTION:<a href="https://leekduck.com/events/super-mega-raid-day-octob
+ er-2026/">Super Mega Raid Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/super-mega-raid-day-october-2026
+ /
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Super Mega Raid Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-halloween-2026-part-1
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261027T100000Z
+DTEND:20261031T200000Z
+SUMMARY:Event — Halloween 2026 Part I
+DESCRIPTION:<a href="https://leekduck.com/events/halloween-2026-part-1/">H
+ alloween 2026 Part I</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/halloween-2026-part-1/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Halloween 2026 Part I
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_master-league_mega-halloween-cup-grea
+ t-league-edition
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261027T210000Z
+DTEND:20261103T210000Z
+SUMMARY:GO Battle League — Master League and Mega Halloween Cup: Great L
+ eague Edition | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_maste
+ r-league_mega-halloween-cup-great-league-edition/">Master League and Mega 
+ Halloween Cup: Great League Edition | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_master-leagu
+ e_mega-halloween-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Master League and Meg
+ a Halloween Cup: Great League Edition | Twilight Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-shadow-landorus-incarnate-forme-in-shadow-raids-october-2
+ 026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261007T060000Z
+DTEND:20261103T220000Z
+SUMMARY:Raid Battles — Shadow Landorus (Incarnate Forme) in Shadow Raids
+DESCRIPTION:<a href="https://leekduck.com/events/shadow-landorus-incarnate
+ -forme-in-shadow-raids-october-2026/">Shadow Landorus (Incarnate Forme) in
+  Shadow Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/shadow-landorus-incarnate-forme-
+ in-shadow-raids-october-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Shadow Landorus (Incarnat
+ e Forme) in Shadow Raids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-giratina-origin-forme-in-5-star-raid-battles-october-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261028T060000Z
+DTEND:20261103T220000Z
+SUMMARY:Raid Battles — Giratina (Origin Forme) in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/giratina-origin-forme-in-
+ 5-star-raid-battles-october-2026/">Giratina (Origin Forme) in 5-star Raid 
+ Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/giratina-origin-forme-in-5-star-
+ raid-battles-october-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/giratinaoriginforme.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Giratina (Origin Forme) i
+ n 5-star Raid Battles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ iratinaoriginforme.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-sableye-in-mega-raids-october-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261028T060000Z
+DTEND:20261103T220000Z
+SUMMARY:Raid Battles — Mega Sableye in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-sableye-in-mega-raid
+ s-october-2026/">Mega Sableye in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-sableye-in-mega-raids-octob
+ er-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Sableye in Mega Raid
+ s
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-halloween-2026-part-2
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261101T100000Z
+DTEND:20261105T200000Z
+SUMMARY:Event — Halloween 2026 Part II
+DESCRIPTION:<a href="https://leekduck.com/events/halloween-2026-part-2/">H
+ alloween 2026 Part II</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Event
+URL;VALUE=URI:https://leekduck.com/events/halloween-2026-part-2/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Event — Halloween 2026 Part II
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-wild-area-2026-sendai-japan
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261106T010000Z
+DTEND:20261108T090000Z
+SUMMARY:Wild Area — Pokémon GO Wild Area 2026: Sendai • Tohoku
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-wild-area-2026
+ -sendai-japan/">Pokémon GO Wild Area 2026: Sendai • Tohoku</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Wild Area
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-wild-area-2026-sendai
+ -japan/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 11-06-pokemon-go-wild-area-2026-sendai-japan/key-art.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Wild Area — Pokémon GO Wild Area 2026: 
+ Sendai • Tohoku
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-11-06-pokemon-go-wild-area-2026-sendai-japan/key-a
+ rt.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-wild-area-2026-mexico-city
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261106T160000Z
+DTEND:20261109T000000Z
+SUMMARY:Wild Area — Pokémon GO Wild Area 2026: Mexico City
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-wild-area-2026
+ -mexico-city/">Pokémon GO Wild Area 2026: Mexico City</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Wild Area
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-wild-area-2026-mexico
+ -city/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 11-06-pokemon-go-wild-area-2026-mexico-city/key-art.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Wild Area — Pokémon GO Wild Area 2026: 
+ Mexico City
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-11-06-pokemon-go-wild-area-2026-mexico-city/key-ar
+ t.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_great-league-mega-edition_ultra-leagu
+ e-mega-edition_master-league-mega-edition-split-3
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261103T210000Z
+DTEND:20261110T210000Z
+SUMMARY:GO Battle League — Great League: Mega Edition\, Ultra League: Me
+ ga Edition\, and Master League: Mega Edition | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_great
+ -league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-
+ split-3/">Great League: Mega Edition\, Ultra League: Mega Edition\, and Ma
+ ster League: Mega Edition | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_great-league
+ -mega-edition_ultra-league-mega-edition_master-league-mega-edition-split-3
+ /
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-season-2
+ 8-twilight-trails.png
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League: Mega Ed
+ ition\, Ultra League: Mega Edition\, and Master League: Mega Edition | Twi
+ light Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-season-28-twilight-trails.png
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-wild-area-2026-global
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261114T100000Z
+DTEND:20261115T180000Z
+SUMMARY:Wild Area — Pokémon GO Wild Area 2026: Global
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-wild-area-2026
+ -global/">Pokémon GO Wild Area 2026: Global</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Wild Area
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-wild-area-2026-global
+ /
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 11-14-pokemon-go-wild-area-2026-global/key-art.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Wild Area — Pokémon GO Wild Area 2026: 
+ Global
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-11-14-pokemon-go-wild-area-2026-global/key-art.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_great-league_ultra-league-mega-editio
+ n_2026-go-laic-cup
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261110T210000Z
+DTEND:20261117T210000Z
+SUMMARY:GO Battle League — Great League\, Ultra League: Mega Edition\, a
+ nd 2026 GO LAIC Cup | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_great
+ -league_ultra-league-mega-edition_2026-go-laic-cup/">Great League\, Ultra 
+ League: Mega Edition\, and 2026 GO LAIC Cup | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_great-league
+ _ultra-league-mega-edition_2026-go-laic-cup/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League\, Ultra 
+ League: Mega Edition\, and 2026 GO LAIC Cup | Twilight Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-november-communityday2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261121T140000Z
+DTEND:20261121T170000Z
+SUMMARY:Community Day — November Community Day
+DESCRIPTION:<a href="https://leekduck.com/events/november-communityday2026
+ /">November Community Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Community Day
+URL;VALUE=URI:https://leekduck.com/events/november-communityday2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/cd-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Community Day — November Community Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/c
+ d-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_ultra-league_master-league-mega-editi
+ on_2026-go-laic-cup
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261118T210000Z
+DTEND:20261125T210000Z
+SUMMARY:GO Battle League — Ultra League\, Master League: Mega Edition\, 
+ and 2026 GO LAIC Cup | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_ultra
+ -league_master-league-mega-edition_2026-go-laic-cup/">Ultra League\, Maste
+ r League: Mega Edition\, and 2026 GO LAIC Cup | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_ultra-league
+ _master-league-mega-edition_2026-go-laic-cup/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-le
+ ague-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Ultra League\, Master
+  League: Mega Edition\, and 2026 GO LAIC Cup | Twilight Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-ultra-league-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-super-mega-raid-day-november-2026
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261128T140000Z
+DTEND:20261128T170000Z
+SUMMARY:Raid Day — Super Mega Raid Day
+DESCRIPTION:<a href="https://leekduck.com/events/super-mega-raid-day-novem
+ ber-2026/">Super Mega Raid Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/super-mega-raid-day-november-202
+ 6/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Super Mega Raid Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-season-24-twilight-trails
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260908T100000Z
+DTEND:20261201T100000Z
+SUMMARY:Season — Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/season-24-twilight-trails
+ /">Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Season
+URL;VALUE=URI:https://leekduck.com/events/season-24-twilight-trails/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 09-08-season-24-twilight-trails/season-24-twilight-trails.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Season — Twilight Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-09-08-season-24-twilight-trails/season-24-twilight
+ -trails.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-twilight-trails_master-league_mega-catch-cup-great-le
+ ague-edition
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261124T210000Z
+DTEND:20261201T210000Z
+SUMMARY:GO Battle League — Master League and Mega Catch Cup: Great Leagu
+ e Edition | Twilight Trails
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-twilight-trails_maste
+ r-league_mega-catch-cup-great-league-edition/">Master League and Mega Catc
+ h Cup: Great League Edition | Twilight Trails</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-twilight-trails_master-leagu
+ e_mega-catch-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Master League and Meg
+ a Catch Cup: Great League Edition | Twilight Trails
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

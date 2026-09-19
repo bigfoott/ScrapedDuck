@@ -1,0 +1,137 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Max Mondays
+X-WR-CALNAME:Pokémon Go — Max Mondays
+X-WR-CALDESC:Pokémon Go Max Mondays events.
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-09-21
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260921T060000Z
+DTEND:20260921T210000Z
+SUMMARY:Max Mondays — Dynamax Articuno\, Zapdos\, and Moltres during Max
+  Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-09-21/">
+ Dynamax Articuno\, Zapdos\, and Moltres during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-09-21/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Articuno\, Zapdos\
+ , and Moltres during Max Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-09-28
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20260928T060000Z
+DTEND:20260928T210000Z
+SUMMARY:Max Mondays — Dynamax Sobble during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-09-28/">
+ Dynamax Sobble during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-09-28/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Sobble during Max 
+ Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-10-05
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261005T060000Z
+DTEND:20261005T210000Z
+SUMMARY:Max Mondays — Dynamax Sizzlipede during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-10-05/">
+ Dynamax Sizzlipede during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-10-05/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Sizzlipede during 
+ Max Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-10-12
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261012T060000Z
+DTEND:20261012T210000Z
+SUMMARY:Max Mondays — Dynamax Rookidee during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-10-12/">
+ Dynamax Rookidee during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-10-12/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Rookidee during Ma
+ x Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-10-19
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261019T060000Z
+DTEND:20261019T210000Z
+SUMMARY:Max Mondays — Dynamax Sneasel during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-10-19/">
+ Dynamax Sneasel during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-10-19/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Sneasel during Max
+  Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-10-26
+SEQUENCE:0
+DTSTAMP:20260919T192905Z
+DTSTART:20261026T060000Z
+DTEND:20261026T210000Z
+SUMMARY:Max Mondays — Dynamax Sableye during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-10-26/">
+ Dynamax Sableye during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-10-26/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Sableye during Max
+  Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
