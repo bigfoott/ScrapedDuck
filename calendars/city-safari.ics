@@ -1,0 +1,131 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — City Safari
+X-WR-CALNAME:Pokémon Go — City Safari
+X-WR-CALDESC:Pokémon Go City Safari events.
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-city-safari-brisbane-2026
+SEQUENCE:0
+DTSTAMP:20260926T175836Z
+DTSTART:20260926T000000Z
+DTEND:20260927T080000Z
+SUMMARY:City Safari — Brisbane\, Australia - Pokémon GO City Safari
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-city-safari-br
+ isbane-2026/">Brisbane\, Australia - Pokémon GO City Safari</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:City Safari
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-city-safari-brisbane-
+ 2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 09-26-pokemon-go-city-safari-brisbane-2026/city-safari-brisbane-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:City Safari — Brisbane\, Australia - Pok
+ émon GO City Safari
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-09-26-pokemon-go-city-safari-brisbane-2026/city-sa
+ fari-brisbane-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-city-safari-marseille-2026
+SEQUENCE:0
+DTSTAMP:20260926T175836Z
+DTSTART:20260926T080000Z
+DTEND:20260927T160000Z
+SUMMARY:City Safari — Marseille\, France - Pokémon GO City Safari
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-city-safari-ma
+ rseille-2026/">Marseille\, France - Pokémon GO City Safari</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:City Safari
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-city-safari-marseille
+ -2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 09-26-pokemon-go-city-safari-marseille-2026/city-safari-marseille-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:City Safari — Marseille\, France - Poké
+ mon GO City Safari
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-09-26-pokemon-go-city-safari-marseille-2026/city-s
+ afari-marseille-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-city-safari-munich-2026
+SEQUENCE:0
+DTSTAMP:20260926T175836Z
+DTSTART:20260926T080000Z
+DTEND:20260927T160000Z
+SUMMARY:City Safari — Munich\, Germany - Pokémon GO City Safari
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-city-safari-mu
+ nich-2026/">Munich\, Germany - Pokémon GO City Safari</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:City Safari
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-city-safari-munich-20
+ 26/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 09-26-pokemon-go-city-safari-munich-2026/city-safari-munich-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:City Safari — Munich\, Germany - Pokémo
+ n GO City Safari
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-09-26-pokemon-go-city-safari-munich-2026/city-safa
+ ri-munich-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-city-safari-lisbon-2026
+SEQUENCE:0
+DTSTAMP:20260926T175836Z
+DTSTART:20260926T090000Z
+DTEND:20260927T170000Z
+SUMMARY:City Safari — Lisbon\, Portugal - Pokémon GO City Safari
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-city-safari-li
+ sbon-2026/">Lisbon\, Portugal - Pokémon GO City Safari</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:City Safari
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-city-safari-lisbon-20
+ 26/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 09-26-pokemon-go-city-safari-lisbon-2026/city-safari-lisbon-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:City Safari — Lisbon\, Portugal - Pokém
+ on GO City Safari
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-09-26-pokemon-go-city-safari-lisbon-2026/city-safa
+ ri-lisbon-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-go-city-safari-rio-de-janeiro-2026
+SEQUENCE:0
+DTSTAMP:20260926T175836Z
+DTSTART:20260926T130000Z
+DTEND:20260927T210000Z
+SUMMARY:City Safari — Rio de Janeiro\, Brazil - Pokémon GO City Safari
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-go-city-safari-ri
+ o-de-janeiro-2026/">Rio de Janeiro\, Brazil - Pokémon GO City Safari</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:City Safari
+URL;VALUE=URI:https://leekduck.com/events/pokemon-go-city-safari-rio-de-ja
+ neiro-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 09-26-pokemon-go-city-safari-rio-de-janeiro-2026/city-safari-rio-de-janeir
+ o-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:City Safari — Rio de Janeiro\, Brazil - 
+ Pokémon GO City Safari
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-09-26-pokemon-go-city-safari-rio-de-janeiro-2026/c
+ ity-safari-rio-de-janeiro-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

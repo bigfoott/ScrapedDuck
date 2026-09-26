@@ -1,0 +1,331 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Raid Battles
+X-WR-CALNAME:Pokémon Go — Raid Battles
+X-WR-CALDESC:Pokémon Go Raid Battles events.
+BEGIN:VEVENT
+UID:scraped-duck-mega-malamar-in-mega-raids-september-2026
+SEQUENCE:0
+DTSTAMP:20260926T175836Z
+DTSTART:20260923T060000Z
+DTEND:20260929T220000Z
+SUMMARY:Raid Battles — Mega Malamar in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-malamar-in-mega-raid
+ s-september-2026/">Mega Malamar in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-malamar-in-mega-raids-septe
+ mber-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Malamar in Mega Raid
+ s
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-xurkitree-pheromosa-buzzwole-in-5-star-raid-battles-septe
+ mber-2026
+SEQUENCE:0
+DTSTAMP:20260926T175836Z
+DTSTART:20260923T060000Z
+DTEND:20260929T220000Z
+SUMMARY:Raid Battles — Xurkitree\, Pheromosa\, and Buzzwole in 5-star Ra
+ id Battles
+DESCRIPTION:<a href="https://leekduck.com/events/xurkitree-pheromosa-buzzw
+ ole-in-5-star-raid-battles-september-2026/">Xurkitree\, Pheromosa\, and Bu
+ zzwole in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/xurkitree-pheromosa-buzzwole-in-
+ 5-star-raid-battles-september-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/buzzwole-xurkitree-pherom
+ osa-ultra-beasts.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Xurkitree\, Pheromosa\, a
+ nd Buzzwole in 5-star Raid Battles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/b
+ uzzwole-xurkitree-pheromosa-ultra-beasts.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-shadow-thundurus-incarnate-forme-in-shadow-raids-septembe
+ r-2026
+SEQUENCE:0
+DTSTAMP:20260926T175836Z
+DTSTART:20260909T060000Z
+DTEND:20261006T220000Z
+SUMMARY:Raid Battles — Shadow Thundurus (Incarnate Forme) in Shadow Raid
+ s
+DESCRIPTION:<a href="https://leekduck.com/events/shadow-thundurus-incarnat
+ e-forme-in-shadow-raids-september-2026/">Shadow Thundurus (Incarnate Forme
+ ) in Shadow Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/shadow-thundurus-incarnate-forme
+ -in-shadow-raids-september-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Shadow Thundurus (Incarna
+ te Forme) in Shadow Raids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-victreebel-in-mega-raids-september-2026
+SEQUENCE:0
+DTSTAMP:20260926T175836Z
+DTSTART:20260930T060000Z
+DTEND:20261006T220000Z
+SUMMARY:Raid Battles — Mega Victreebel in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-victreebel-in-mega-r
+ aids-september-2026/">Mega Victreebel in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-victreebel-in-mega-raids-se
+ ptember-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Victreebel in Mega R
+ aids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-xerneas-in-5-star-raid-battles-september-2026
+SEQUENCE:0
+DTSTAMP:20260926T175836Z
+DTSTART:20260930T060000Z
+DTEND:20261006T220000Z
+SUMMARY:Raid Battles — Xerneas in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/xerneas-in-5-star-raid-ba
+ ttles-september-2026/">Xerneas in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/xerneas-in-5-star-raid-battles-s
+ eptember-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/xerneas-woods.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Xerneas in 5-star Raid Ba
+ ttles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/x
+ erneas-woods.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-blastoise-in-mega-raids-october-2026
+SEQUENCE:0
+DTSTAMP:20260926T175836Z
+DTSTART:20261007T060000Z
+DTEND:20261013T220000Z
+SUMMARY:Raid Battles — Mega Blastoise in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-blastoise-in-mega-ra
+ ids-october-2026/">Mega Blastoise in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-blastoise-in-mega-raids-oct
+ ober-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Blastoise in Mega Ra
+ ids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-yveltal-in-5-star-raid-battles-october-2026
+SEQUENCE:0
+DTSTAMP:20260926T175836Z
+DTSTART:20261007T060000Z
+DTEND:20261013T220000Z
+SUMMARY:Raid Battles — Yveltal in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/yveltal-in-5-star-raid-ba
+ ttles-october-2026/">Yveltal in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/yveltal-in-5-star-raid-battles-o
+ ctober-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/yveltal-2.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Yveltal in 5-star Raid Ba
+ ttles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/y
+ veltal-2.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-dialga-in-5-star-raid-battles-october-2026
+SEQUENCE:0
+DTSTAMP:20260926T175836Z
+DTSTART:20261014T060000Z
+DTEND:20261020T220000Z
+SUMMARY:Raid Battles — Dialga in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/dialga-in-5-star-raid-bat
+ tles-october-2026/">Dialga in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/dialga-in-5-star-raid-battles-oc
+ tober-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Dialga in 5-star Raid Bat
+ tles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/d
+ ialgaraids.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-dragonite-in-mega-raids-october-2026
+SEQUENCE:0
+DTSTAMP:20260926T175836Z
+DTSTART:20261014T060000Z
+DTEND:20261020T220000Z
+SUMMARY:Raid Battles — Mega Dragonite in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-dragonite-in-mega-ra
+ ids-october-2026/">Mega Dragonite in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-dragonite-in-mega-raids-oct
+ ober-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Dragonite in Mega Ra
+ ids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-charizard-x-mega-charizard-y-in-mega-raids-october-2
+ 026
+SEQUENCE:0
+DTSTAMP:20260926T175836Z
+DTSTART:20261021T060000Z
+DTEND:20261027T220000Z
+SUMMARY:Raid Battles — Mega Charizard X and Mega Charizard Y in Mega Rai
+ ds
+DESCRIPTION:<a href="https://leekduck.com/events/mega-charizard-x-mega-cha
+ rizard-y-in-mega-raids-october-2026/">Mega Charizard X and Mega Charizard 
+ Y in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-charizard-x-mega-charizard-
+ y-in-mega-raids-october-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Charizard X and Mega
+  Charizard Y in Mega Raids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-palkia-in-5-star-raid-battles-october-2026
+SEQUENCE:0
+DTSTAMP:20260926T175836Z
+DTSTART:20261021T060000Z
+DTEND:20261027T220000Z
+SUMMARY:Raid Battles — Palkia in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/palkia-in-5-star-raid-bat
+ tles-october-2026/">Palkia in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/palkia-in-5-star-raid-battles-oc
+ tober-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/palkiaraid.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Palkia in 5-star Raid Bat
+ tles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/p
+ alkiaraid.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-shadow-landorus-incarnate-forme-in-shadow-raids-october-2
+ 026
+SEQUENCE:0
+DTSTAMP:20260926T175836Z
+DTSTART:20261007T060000Z
+DTEND:20261103T220000Z
+SUMMARY:Raid Battles — Shadow Landorus (Incarnate Forme) in Shadow Raids
+DESCRIPTION:<a href="https://leekduck.com/events/shadow-landorus-incarnate
+ -forme-in-shadow-raids-october-2026/">Shadow Landorus (Incarnate Forme) in
+  Shadow Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/shadow-landorus-incarnate-forme-
+ in-shadow-raids-october-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Shadow Landorus (Incarnat
+ e Forme) in Shadow Raids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-giratina-origin-forme-in-5-star-raid-battles-october-2026
+SEQUENCE:0
+DTSTAMP:20260926T175836Z
+DTSTART:20261028T060000Z
+DTEND:20261103T220000Z
+SUMMARY:Raid Battles — Giratina (Origin Forme) in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/giratina-origin-forme-in-
+ 5-star-raid-battles-october-2026/">Giratina (Origin Forme) in 5-star Raid 
+ Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/giratina-origin-forme-in-5-star-
+ raid-battles-october-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/giratinaoriginforme.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Giratina (Origin Forme) i
+ n 5-star Raid Battles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ iratinaoriginforme.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-sableye-in-mega-raids-october-2026
+SEQUENCE:0
+DTSTAMP:20260926T175836Z
+DTSTART:20261028T060000Z
+DTEND:20261103T220000Z
+SUMMARY:Raid Battles — Mega Sableye in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-sableye-in-mega-raid
+ s-october-2026/">Mega Sableye in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-sableye-in-mega-raids-octob
+ er-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Sableye in Mega Raid
+ s
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
