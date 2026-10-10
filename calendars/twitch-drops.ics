@@ -1,0 +1,34 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Twitch Drops
+X-WR-CALNAME:Pokémon Go — Twitch Drops
+X-WR-CALDESC:Pokémon Go Twitch Drops events.
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-night-out-2026-twitch-drops
+SEQUENCE:0
+DTSTAMP:20261010T190751Z
+DTSTART:20261025T023000Z
+DTEND:20261025T065900Z
+SUMMARY:Twitch Drops — Twitch Drops for Pokémon Night Out 2026
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-night-out-2026-tw
+ itch-drops/">Twitch Drops for Pokémon Night Out 2026</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Twitch Drops
+URL;VALUE=URI:https://leekduck.com/events/pokemon-night-out-2026-twitch-dr
+ ops/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 10-24-pokemon-night-out-2026-twitch-drops/pokemon-night-out.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Twitch Drops — Twitch Drops for Pokémon
+  Night Out 2026
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-10-24-pokemon-night-out-2026-twitch-drops/pokemon-
+ night-out.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
