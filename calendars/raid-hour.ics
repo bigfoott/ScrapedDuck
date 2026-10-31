@@ -1,0 +1,74 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Raid Hour
+X-WR-CALNAME:Pokémon Go — Raid Hour
+X-WR-CALDESC:Pokémon Go Raid Hour events.
+BEGIN:VEVENT
+UID:scraped-duck-raidhour20261104
+SEQUENCE:0
+DTSTAMP:20261031T180458Z
+DTSTART:20261104T180000Z
+DTEND:20261104T190000Z
+SUMMARY:Raid Hour — Giratina (Altered Forme) Raid Hour
+DESCRIPTION:<a href="https://leekduck.com/events/raidhour20261104/">Girati
+ na (Altered Forme) Raid Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Hour
+URL;VALUE=URI:https://leekduck.com/events/raidhour20261104/
+IMAGE:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Hour — Giratina (Altered Forme) Rai
+ d Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ aidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raidhour20261118
+SEQUENCE:0
+DTSTAMP:20261031T180458Z
+DTSTART:20261118T180000Z
+DTEND:20261118T190000Z
+SUMMARY:Raid Hour — Cresselia and Darkrai Raid Hour
+DESCRIPTION:<a href="https://leekduck.com/events/raidhour20261118/">Cresse
+ lia and Darkrai Raid Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Hour
+URL;VALUE=URI:https://leekduck.com/events/raidhour20261118/
+IMAGE:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Hour — Cresselia and Darkrai Raid H
+ our
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ aidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raidhour20261125
+SEQUENCE:0
+DTSTAMP:20261031T180458Z
+DTSTART:20261125T180000Z
+DTEND:20261125T190000Z
+SUMMARY:Raid Hour — Deoxys (Normal\, Defense\, Attack\, and Speed Formes
+ ) Raid Hour
+DESCRIPTION:<a href="https://leekduck.com/events/raidhour20261125/">Deoxys
+  (Normal\, Defense\, Attack\, and Speed Formes) Raid Hour</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Hour
+URL;VALUE=URI:https://leekduck.com/events/raidhour20261125/
+IMAGE:https://cdn.leekduck.com/assets/img/events/raidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Hour — Deoxys (Normal\, Defense\, A
+ ttack\, and Speed Formes) Raid Hour
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ aidhour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

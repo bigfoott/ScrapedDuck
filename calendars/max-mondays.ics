@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Max Mondays
+X-WR-CALNAME:Pokémon Go — Max Mondays
+X-WR-CALDESC:Pokémon Go Max Mondays events.
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-11-02
+SEQUENCE:0
+DTSTAMP:20261031T180458Z
+DTSTART:20261102T060000Z
+DTEND:20261102T210000Z
+SUMMARY:Max Mondays — Dynamax Machop during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-11-02/">
+ Dynamax Machop during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-11-02/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Machop during Max 
+ Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-11-16
+SEQUENCE:0
+DTSTAMP:20261031T180458Z
+DTSTART:20261116T060000Z
+DTEND:20261116T210000Z
+SUMMARY:Max Mondays — Max Monday: Pokémon to be announced
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-11-16/">
+ Max Monday: Pokémon to be announced</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-11-16/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Max Monday: Pokémon to be
+  announced
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-11-23
+SEQUENCE:0
+DTSTAMP:20261031T180458Z
+DTSTART:20261123T060000Z
+DTEND:20261123T210000Z
+SUMMARY:Max Mondays — Dynamax Espurr during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-11-23/">
+ Dynamax Espurr during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-11-23/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Espurr during Max 
+ Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-11-30
+SEQUENCE:0
+DTSTAMP:20261031T180458Z
+DTSTART:20261130T060000Z
+DTEND:20261130T210000Z
+SUMMARY:Max Mondays — Dynamax Cryogonal during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-11-30/">
+ Dynamax Cryogonal during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-11-30/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Cryogonal during M
+ ax Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

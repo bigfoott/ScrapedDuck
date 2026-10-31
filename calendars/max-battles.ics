@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Max Battles
+X-WR-CALNAME:Pokémon Go — Max Battles
+X-WR-CALDESC:Pokémon Go Max Battles events.
+BEGIN:VEVENT
+UID:scraped-duck-eternamax-eternatus-max-battles-2026
+SEQUENCE:0
+DTSTAMP:20261031T180458Z
+DTSTART:20261121T110000Z
+DTEND:20261121T140000Z
+SUMMARY:Max Battles — Eternamax Eternatus Returns
+DESCRIPTION:<a href="https://leekduck.com/events/eternamax-eternatus-max-b
+ attles-2026/">Eternamax Eternatus Returns</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Battles
+URL;VALUE=URI:https://leekduck.com/events/eternamax-eternatus-max-battles-
+ 2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 11-16-dynamax-trails-2026/dynamax-trails-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Battles — Eternamax Eternatus Return
+ s
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-11-16-dynamax-trails-2026/dynamax-trails-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
