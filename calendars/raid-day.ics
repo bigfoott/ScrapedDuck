@@ -1,0 +1,114 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Raid Day
+X-WR-CALNAME:Pokémon Go — Raid Day
+X-WR-CALDESC:Pokémon Go Raid Day events.
+BEGIN:VEVENT
+UID:scraped-duck-clefable-super-mega-raid-day-2026
+SEQUENCE:0
+DTSTAMP:20261114T202504Z
+DTSTART:20261128T140000Z
+DTEND:20261128T170000Z
+SUMMARY:Raid Day — Clefable Super Mega Raid Day
+DESCRIPTION:<a href="https://leekduck.com/events/clefable-super-mega-raid-
+ day-2026/">Clefable Super Mega Raid Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/clefable-super-mega-raid-day-202
+ 6/
+IMAGE:https://cdn.leekduck.com/assets/img/events/clefable-super-mega-raid-
+ day-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Clefable Super Mega Raid Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/c
+ lefable-super-mega-raid-day-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raid-day-december-2026
+SEQUENCE:0
+DTSTAMP:20261114T202504Z
+DTSTART:20261219T140000Z
+DTEND:20261219T170000Z
+SUMMARY:Raid Day — Raid Day
+DESCRIPTION:<a href="https://leekduck.com/events/raid-day-december-2026/">
+ Raid Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/raid-day-december-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Raid Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-super-mega-raid-day-january-2027
+SEQUENCE:0
+DTSTAMP:20261114T202504Z
+DTSTART:20270109T140000Z
+DTEND:20270109T170000Z
+SUMMARY:Raid Day — Super Mega Raid Day
+DESCRIPTION:<a href="https://leekduck.com/events/super-mega-raid-day-janua
+ ry-2027/">Super Mega Raid Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/super-mega-raid-day-january-2027
+ /
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Super Mega Raid Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-super-mega-raid-day-january-30-2027
+SEQUENCE:0
+DTSTAMP:20261114T202504Z
+DTSTART:20270130T140000Z
+DTEND:20270130T170000Z
+SUMMARY:Raid Day — Super Mega Raid Day
+DESCRIPTION:<a href="https://leekduck.com/events/super-mega-raid-day-janua
+ ry-30-2027/">Super Mega Raid Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/super-mega-raid-day-january-30-2
+ 027/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Super Mega Raid Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-raid-day-february-2027
+SEQUENCE:0
+DTSTAMP:20261114T202504Z
+DTSTART:20270213T140000Z
+DTEND:20270213T170000Z
+SUMMARY:Raid Day — Raid Day
+DESCRIPTION:<a href="https://leekduck.com/events/raid-day-february-2027/">
+ Raid Day</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Day
+URL;VALUE=URI:https://leekduck.com/events/raid-day-february-2027/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Day — Raid Day
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
