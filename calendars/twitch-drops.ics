@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Twitch Drops
+X-WR-CALNAME:Pokémon Go — Twitch Drops
+X-WR-CALDESC:Pokémon Go Twitch Drops events.
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-latin-america-international-championships-2027-ti
+ med-research-twitch-drops
+SEQUENCE:0
+DTSTAMP:20261121T101047Z
+DTSTART:20261120T120000Z
+DTEND:20261122T230000Z
+SUMMARY:Twitch Drops — Twitch Drops for 2027 Pokémon Latin America Inte
+ rnational Championships
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-latin-america-int
+ ernational-championships-2027-timed-research-twitch-drops/">Twitch Drops f
+ or 2027 Pokémon Latin America International Championships</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Twitch Drops
+URL;VALUE=URI:https://leekduck.com/events/pokemon-latin-america-internatio
+ nal-championships-2027-timed-research-twitch-drops/
+IMAGE:https://cdn.leekduck.com/assets/img/events/article-images/2026/2026-
+ 11-20-pokemon-latin-america-international-championships-2027-timed-researc
+ h-twitch-drops/2027-laic-go-drops.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Twitch Drops — Twitch Drops for 2027 Pok
+ émon Latin America International Championships
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/a
+ rticle-images/2026/2026-11-20-pokemon-latin-america-international-champion
+ ships-2027-timed-research-twitch-drops/2027-laic-go-drops.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
