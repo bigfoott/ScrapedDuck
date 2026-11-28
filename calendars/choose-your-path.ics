@@ -1,0 +1,110 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Choose Your Path
+X-WR-CALNAME:Pokémon Go — Choose Your Path
+X-WR-CALDESC:Pokémon Go Choose Your Path events.
+BEGIN:VEVENT
+UID:scraped-duck-choose-your-path-daydream-destinations-2026-12-15
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261215T100000Z
+DTEND:20261221T200000Z
+SUMMARY:Choose Your Path — Choose Your Path: Daydream Destinations (Dece
+ mber 15\, 2026)
+DESCRIPTION:<a href="https://leekduck.com/events/choose-your-path-daydream
+ -destinations-2026-12-15/">Choose Your Path: Daydream Destinations (Decemb
+ er 15\, 2026)</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Choose Your Path
+URL;VALUE=URI:https://leekduck.com/events/choose-your-path-daydream-destin
+ ations-2026-12-15/
+IMAGE:https://cdn.leekduck.com/assets/img/events/choose-your-path-daydream
+ -destinations-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Choose Your Path — Choose Your Path: Day
+ dream Destinations (December 15\, 2026)
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/c
+ hoose-your-path-daydream-destinations-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-choose-your-path-daydream-destinations-2027-01-12
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20270112T100000Z
+DTEND:20270118T200000Z
+SUMMARY:Choose Your Path — Choose Your Path: Daydream Destinations (Janu
+ ary 12\, 2027)
+DESCRIPTION:<a href="https://leekduck.com/events/choose-your-path-daydream
+ -destinations-2027-01-12/">Choose Your Path: Daydream Destinations (Januar
+ y 12\, 2027)</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Choose Your Path
+URL;VALUE=URI:https://leekduck.com/events/choose-your-path-daydream-destin
+ ations-2027-01-12/
+IMAGE:https://cdn.leekduck.com/assets/img/events/choose-your-path-daydream
+ -destinations-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Choose Your Path — Choose Your Path: Day
+ dream Destinations (January 12\, 2027)
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/c
+ hoose-your-path-daydream-destinations-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-choose-your-path-daydream-destinations-2027-01-26
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20270126T100000Z
+DTEND:20270201T200000Z
+SUMMARY:Choose Your Path — Choose Your Path: Daydream Destinations (Janu
+ ary 26\, 2027)
+DESCRIPTION:<a href="https://leekduck.com/events/choose-your-path-daydream
+ -destinations-2027-01-26/">Choose Your Path: Daydream Destinations (Januar
+ y 26\, 2027)</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Choose Your Path
+URL;VALUE=URI:https://leekduck.com/events/choose-your-path-daydream-destin
+ ations-2027-01-26/
+IMAGE:https://cdn.leekduck.com/assets/img/events/choose-your-path-daydream
+ -destinations-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Choose Your Path — Choose Your Path: Day
+ dream Destinations (January 26\, 2027)
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/c
+ hoose-your-path-daydream-destinations-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-choose-your-path-daydream-destinations-2027-02-16
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20270216T100000Z
+DTEND:20270221T200000Z
+SUMMARY:Choose Your Path — Choose Your Path: Daydream Destinations (Febr
+ uary 16\, 2027)
+DESCRIPTION:<a href="https://leekduck.com/events/choose-your-path-daydream
+ -destinations-2027-02-16/">Choose Your Path: Daydream Destinations (Februa
+ ry 16\, 2027)</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Choose Your Path
+URL;VALUE=URI:https://leekduck.com/events/choose-your-path-daydream-destin
+ ations-2027-02-16/
+IMAGE:https://cdn.leekduck.com/assets/img/events/choose-your-path-daydream
+ -destinations-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Choose Your Path — Choose Your Path: Day
+ dream Destinations (February 16\, 2027)
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/c
+ hoose-your-path-daydream-destinations-2026.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

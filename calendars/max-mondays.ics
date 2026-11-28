@@ -1,0 +1,115 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Max Mondays
+X-WR-CALNAME:Pokémon Go — Max Mondays
+X-WR-CALDESC:Pokémon Go Max Mondays events.
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-11-30
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261130T060000Z
+DTEND:20261130T210000Z
+SUMMARY:Max Mondays — Dynamax Cryogonal during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-11-30/">
+ Dynamax Cryogonal during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-11-30/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Cryogonal during M
+ ax Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-12-07
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261207T060000Z
+DTEND:20261207T210000Z
+SUMMARY:Max Mondays — Dynamax Deino during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-12-07/">
+ Dynamax Deino during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-12-07/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Deino during Max M
+ onday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-12-14
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261214T060000Z
+DTEND:20261214T210000Z
+SUMMARY:Max Mondays — Dynamax Eevee during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-12-14/">
+ Dynamax Eevee during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-12-14/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Eevee during Max M
+ onday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-12-21
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261221T060000Z
+DTEND:20261221T210000Z
+SUMMARY:Max Mondays — Dynamax Alolan Sandshrew during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-12-21/">
+ Dynamax Alolan Sandshrew during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-12-21/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Alolan Sandshrew d
+ uring Max Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-max-mondays-2026-12-28
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261228T060000Z
+DTEND:20261228T210000Z
+SUMMARY:Max Mondays — Dynamax Magikarp during Max Monday
+DESCRIPTION:<a href="https://leekduck.com/events/max-mondays-2026-12-28/">
+ Dynamax Magikarp during Max Monday</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Max Mondays
+URL;VALUE=URI:https://leekduck.com/events/max-mondays-2026-12-28/
+IMAGE:https://cdn.leekduck.com/assets/img/events/max-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Max Mondays — Dynamax Magikarp during Ma
+ x Monday
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ax-battles-kanto.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

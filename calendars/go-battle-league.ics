@@ -1,0 +1,372 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — GO Battle League
+X-WR-CALNAME:Pokémon Go — GO Battle League
+X-WR-CALDESC:Pokémon Go GO Battle League events.
+BEGIN:VEVENT
+UID:scraped-duck-gbl-daydream-destinations_great-league-mega-edition_ultra
+ -league-mega-edition_master-league-mega-edition-split-1
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261201T210000Z
+DTEND:20261208T210000Z
+SUMMARY:GO Battle League — Great League: Mega Edition\, Ultra League: Me
+ ga Edition\, and Master League: Mega Edition | Daydream Destinations
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-daydream-destinations
+ _great-league-mega-edition_ultra-league-mega-edition_master-league-mega-ed
+ ition-split-1/">Great League: Mega Edition\, Ultra League: Mega Edition\, 
+ and Master League: Mega Edition | Daydream Destinations</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-daydream-destinations_great-
+ league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-s
+ plit-1/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League: Mega Ed
+ ition\, Ultra League: Mega Edition\, and Master League: Mega Edition | Day
+ dream Destinations
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-daydream-destinations_great-league-mega-edition_mount
+ ain-cup-great-league-edition
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261208T210000Z
+DTEND:20261215T210000Z
+SUMMARY:GO Battle League — Great League: Mega Edition and Mountain Cup: 
+ Great League Edition | Daydream Destinations
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-daydream-destinations
+ _great-league-mega-edition_mountain-cup-great-league-edition/">Great Leagu
+ e: Mega Edition and Mountain Cup: Great League Edition | Daydream Destinat
+ ions</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-daydream-destinations_great-
+ league-mega-edition_mountain-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League: Mega Ed
+ ition and Mountain Cup: Great League Edition | Daydream Destinations
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-daydream-destinations_ultra-league-mega-edition_holid
+ ay-cup-great-league-edition
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261215T210000Z
+DTEND:20261222T210000Z
+SUMMARY:GO Battle League — Ultra League: Mega Edition and Holiday Cup: G
+ reat League Edition | Daydream Destinations
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-daydream-destinations
+ _ultra-league-mega-edition_holiday-cup-great-league-edition/">Ultra League
+ : Mega Edition and Holiday Cup: Great League Edition | Daydream Destinatio
+ ns</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-daydream-destinations_ultra-
+ league-mega-edition_holiday-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-le
+ ague-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Ultra League: Mega Ed
+ ition and Holiday Cup: Great League Edition | Daydream Destinations
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-ultra-league-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-daydream-destinations_master-league-mega-edition_holi
+ day-cup-great-league-edition
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261222T210000Z
+DTEND:20261229T210000Z
+SUMMARY:GO Battle League — Master League: Mega Edition and Holiday Cup: 
+ Great League Edition | Daydream Destinations
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-daydream-destinations
+ _master-league-mega-edition_holiday-cup-great-league-edition/">Master Leag
+ ue: Mega Edition and Holiday Cup: Great League Edition | Daydream Destinat
+ ions</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-daydream-destinations_master
+ -league-mega-edition_holiday-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Master League: Mega E
+ dition and Holiday Cup: Great League Edition | Daydream Destinations
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-daydream-destinations_great-league-mega-edition_ultra
+ -league-mega-edition_master-league-mega-edition-split-2
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261229T210000Z
+DTEND:20270105T210000Z
+SUMMARY:GO Battle League — Great League: Mega Edition\, Ultra League: Me
+ ga Edition\, and Master League: Mega Edition | Daydream Destinations
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-daydream-destinations
+ _great-league-mega-edition_ultra-league-mega-edition_master-league-mega-ed
+ ition-split-2/">Great League: Mega Edition\, Ultra League: Mega Edition\, 
+ and Master League: Mega Edition | Daydream Destinations</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-daydream-destinations_great-
+ league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-s
+ plit-2/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League: Mega Ed
+ ition\, Ultra League: Mega Edition\, and Master League: Mega Edition | Day
+ dream Destinations
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-daydream-destinations_great-league-mega-edition_fight
+ ing-cup-great-league-edition
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20270105T210000Z
+DTEND:20270112T210000Z
+SUMMARY:GO Battle League — Great League: Mega Edition and Fighting Cup: 
+ Great League Edition | Daydream Destinations
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-daydream-destinations
+ _great-league-mega-edition_fighting-cup-great-league-edition/">Great Leagu
+ e: Mega Edition and Fighting Cup: Great League Edition | Daydream Destinat
+ ions</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-daydream-destinations_great-
+ league-mega-edition_fighting-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League: Mega Ed
+ ition and Fighting Cup: Great League Edition | Daydream Destinations
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-daydream-destinations_ultra-league-mega-edition_jungl
+ e-cup-great-league-edition
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20270112T210000Z
+DTEND:20270119T210000Z
+SUMMARY:GO Battle League — Ultra League: Mega Edition and Jungle Cup: Gr
+ eat League Edition | Daydream Destinations
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-daydream-destinations
+ _ultra-league-mega-edition_jungle-cup-great-league-edition/">Ultra League:
+  Mega Edition and Jungle Cup: Great League Edition | Daydream Destinations
+ </a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-daydream-destinations_ultra-
+ league-mega-edition_jungle-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-le
+ ague-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Ultra League: Mega Ed
+ ition and Jungle Cup: Great League Edition | Daydream Destinations
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-ultra-league-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-daydream-destinations_master-league-mega-edition_mast
+ er-league
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20270119T210000Z
+DTEND:20270126T210000Z
+SUMMARY:GO Battle League — Master League: Mega Edition and Master League
+  | Daydream Destinations
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-daydream-destinations
+ _master-league-mega-edition_master-league/">Master League: Mega Edition an
+ d Master League | Daydream Destinations</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-daydream-destinations_master
+ -league-mega-edition_master-league/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Master League: Mega E
+ dition and Master League | Daydream Destinations
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-daydream-destinations_great-league-mega-edition_ultra
+ -league-mega-edition_master-league-mega-edition-split-3
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20270126T210000Z
+DTEND:20270202T210000Z
+SUMMARY:GO Battle League — Great League: Mega Edition\, Ultra League: Me
+ ga Edition\, and Master League: Mega Edition | Daydream Destinations
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-daydream-destinations
+ _great-league-mega-edition_ultra-league-mega-edition_master-league-mega-ed
+ ition-split-3/">Great League: Mega Edition\, Ultra League: Mega Edition\, 
+ and Master League: Mega Edition | Daydream Destinations</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-daydream-destinations_great-
+ league-mega-edition_ultra-league-mega-edition_master-league-mega-edition-s
+ plit-3/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League: Mega Ed
+ ition\, Ultra League: Mega Edition\, and Master League: Mega Edition | Day
+ dream Destinations
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-daydream-destinations_great-league-mega-edition_maste
+ r-league
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20270202T210000Z
+DTEND:20270209T210000Z
+SUMMARY:GO Battle League — Great League: Mega Edition and Master League 
+ | Daydream Destinations
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-daydream-destinations
+ _great-league-mega-edition_master-league/">Great League: Mega Edition and 
+ Master League | Daydream Destinations</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-daydream-destinations_great-
+ league-mega-edition_master-league/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League: Mega Ed
+ ition and Master League | Daydream Destinations
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-daydream-destinations_ultra-league-mega-edition_love-
+ cup-great-league-edition_2027-go-euic-cup
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20270209T210000Z
+DTEND:20270216T210000Z
+SUMMARY:GO Battle League — Ultra League: Mega Edition\, Love Cup: Great 
+ League Edition\, and 2027 GO EUIC Cup | Daydream Destinations
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-daydream-destinations
+ _ultra-league-mega-edition_love-cup-great-league-edition_2027-go-euic-cup/
+ ">Ultra League: Mega Edition\, Love Cup: Great League Edition\, and 2027 G
+ O EUIC Cup | Daydream Destinations</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-daydream-destinations_ultra-
+ league-mega-edition_love-cup-great-league-edition_2027-go-euic-cup/
+IMAGE:https://cdn.leekduck.com/assets/img/events/go-battle-league-ultra-le
+ ague-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Ultra League: Mega Ed
+ ition\, Love Cup: Great League Edition\, and 2027 GO EUIC Cup | Daydream D
+ estinations
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ o-battle-league-ultra-league-machamp-swampert.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-daydream-destinations_master-league-mega-edition_mega
+ -catch-cup-great-league-edition_2027-go-euic-cup
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20270216T210000Z
+DTEND:20270223T210000Z
+SUMMARY:GO Battle League — Master League: Mega Edition\, Mega Catch Cup:
+  Great League Edition\, and 2027 GO EUIC Cup | Daydream Destinations
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-daydream-destinations
+ _master-league-mega-edition_mega-catch-cup-great-league-edition_2027-go-eu
+ ic-cup/">Master League: Mega Edition\, Mega Catch Cup: Great League Editio
+ n\, and 2027 GO EUIC Cup | Daydream Destinations</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-daydream-destinations_master
+ -league-mega-edition_mega-catch-cup-great-league-edition_2027-go-euic-cup/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattleleague-master-key
+ .jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Master League: Mega E
+ dition\, Mega Catch Cup: Great League Edition\, and 2027 GO EUIC Cup | Day
+ dream Destinations
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattleleague-master-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-gbl-daydream-destinations_great-league-mega-edition_ultra
+ -league-mega-edition_master-league-mega-edition_mega-catch-cup-great-leagu
+ e-edition
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20270223T210000Z
+DTEND:20270302T210000Z
+SUMMARY:GO Battle League — Great League: Mega Edition\, Ultra League: Me
+ ga Edition\, Master League: Mega Edition\, and Mega Catch Cup: Great Leagu
+ e Edition | Daydream Destinations
+DESCRIPTION:<a href="https://leekduck.com/events/gbl-daydream-destinations
+ _great-league-mega-edition_ultra-league-mega-edition_master-league-mega-ed
+ ition_mega-catch-cup-great-league-edition/">Great League: Mega Edition\, U
+ ltra League: Mega Edition\, Master League: Mega Edition\, and Mega Catch C
+ up: Great League Edition | Daydream Destinations</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:GO Battle League
+URL;VALUE=URI:https://leekduck.com/events/gbl-daydream-destinations_great-
+ league-mega-edition_ultra-league-mega-edition_master-league-mega-edition_m
+ ega-catch-cup-great-league-edition/
+IMAGE:https://cdn.leekduck.com/assets/img/events/gobattle-greatleague-key.
+ jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:GO Battle League — Great League: Mega Ed
+ ition\, Ultra League: Mega Edition\, Master League: Mega Edition\, and Meg
+ a Catch Cup: Great League Edition | Daydream Destinations
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/g
+ obattle-greatleague-key.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR

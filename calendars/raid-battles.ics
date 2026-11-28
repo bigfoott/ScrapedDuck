@@ -1,0 +1,328 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ScrapedDuck//Scraped LeekDuck Events//EN
+NAME:Pokémon Go — Raid Battles
+X-WR-CALNAME:Pokémon Go — Raid Battles
+X-WR-CALDESC:Pokémon Go Raid Battles events.
+BEGIN:VEVENT
+UID:scraped-duck-shadow-tornadus-incarnate-forme-in-shadow-raids-november-
+ 16-2026
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261116T060000Z
+DTEND:20261201T220000Z
+SUMMARY:Raid Battles — Shadow Tornadus (Incarnate Forme) in Shadow Raids
+DESCRIPTION:<a href="https://leekduck.com/events/shadow-tornadus-incarnate
+ -forme-in-shadow-raids-november-16-2026/">Shadow Tornadus (Incarnate Forme
+ ) in Shadow Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/shadow-tornadus-incarnate-forme-
+ in-shadow-raids-november-16-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/tornadus.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Shadow Tornadus (Incarnat
+ e Forme) in Shadow Raids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/t
+ ornadus.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-deoxys-normal-defense-attack-speed-formes-in-5-star-raid-
+ battles-november-2026
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261125T060000Z
+DTEND:20261201T220000Z
+SUMMARY:Raid Battles — Deoxys (Normal\, Defense\, Attack\, and Speed For
+ mes) in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/deoxys-normal-defense-att
+ ack-speed-formes-in-5-star-raid-battles-november-2026/">Deoxys (Normal\, D
+ efense\, Attack\, and Speed Formes) in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/deoxys-normal-defense-attack-spe
+ ed-formes-in-5-star-raid-battles-november-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/deoxys-all-formes.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Deoxys (Normal\, Defense\
+ , Attack\, and Speed Formes) in 5-star Raid Battles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/d
+ eoxys-all-formes.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-metagross-in-mega-raids-november-2026
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261125T060000Z
+DTEND:20261201T220000Z
+SUMMARY:Raid Battles — Mega Metagross in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-metagross-in-mega-ra
+ ids-november-2026/">Mega Metagross in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-metagross-in-mega-raids-nov
+ ember-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Metagross in Mega Ra
+ ids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-slowbro-in-mega-raids-december-2026
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261202T060000Z
+DTEND:20261208T220000Z
+SUMMARY:Raid Battles — Mega Slowbro in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-slowbro-in-mega-raid
+ s-december-2026/">Mega Slowbro in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-slowbro-in-mega-raids-decem
+ ber-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Slowbro in Mega Raid
+ s
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-regidrago-in-5-star-raid-battles-december-2026
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261202T060000Z
+DTEND:20261208T220000Z
+SUMMARY:Raid Battles — Regidrago in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/regidrago-in-5-star-raid-
+ battles-december-2026/">Regidrago in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/regidrago-in-5-star-raid-battles
+ -december-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/regidrago.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Regidrago in 5-star Raid 
+ Battles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/r
+ egidrago.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-gengar-in-mega-raids-december-2026
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261209T060000Z
+DTEND:20261215T220000Z
+SUMMARY:Raid Battles — Mega Gengar in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-gengar-in-mega-raids
+ -december-2026/">Mega Gengar in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-gengar-in-mega-raids-decemb
+ er-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Gengar in Mega Raids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-pokemon-champions-celebration-5-star-raid-battles-decembe
+ r-2026
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261209T060000Z
+DTEND:20261215T220000Z
+SUMMARY:Raid Battles — Pokémon Champions Celebration 5-star Raid Battle
+ s
+DESCRIPTION:<a href="https://leekduck.com/events/pokemon-champions-celebra
+ tion-5-star-raid-battles-december-2026/">Pokémon Champions Celebration 5-
+ star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/pokemon-champions-celebration-5-
+ star-raid-battles-december-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/events-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Pokémon Champions Celebr
+ ation 5-star Raid Battles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/e
+ vents-default-img.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-ho-oh-in-5-star-raid-battles-december-2026
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261216T060000Z
+DTEND:20261222T220000Z
+SUMMARY:Raid Battles — Ho-Oh in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/ho-oh-in-5-star-raid-batt
+ les-december-2026/">Ho-Oh in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/ho-oh-in-5-star-raid-battles-dec
+ ember-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/hooh.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Ho-Oh in 5-star Raid Batt
+ les
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/h
+ ooh.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-skarmory-in-mega-raids-december-2026
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261216T060000Z
+DTEND:20261222T220000Z
+SUMMARY:Raid Battles — Mega Skarmory in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-skarmory-in-mega-rai
+ ds-december-2026/">Mega Skarmory in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-skarmory-in-mega-raids-dece
+ mber-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Skarmory in Mega Rai
+ ds
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-lugia-in-5-star-raid-battles-december-2026
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261223T060000Z
+DTEND:20261229T220000Z
+SUMMARY:Raid Battles — Lugia in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/lugia-in-5-star-raid-batt
+ les-december-2026/">Lugia in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/lugia-in-5-star-raid-battles-dec
+ ember-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/lugia-raids.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Lugia in 5-star Raid Batt
+ les
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/l
+ ugia-raids.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-glalie-in-mega-raids-december-2026
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261223T060000Z
+DTEND:20261229T220000Z
+SUMMARY:Raid Battles — Mega Glalie in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-glalie-in-mega-raids
+ -december-2026/">Mega Glalie in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-glalie-in-mega-raids-decemb
+ er-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Glalie in Mega Raids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-shadow-dialga-in-shadow-raids-december-2026
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261202T060000Z
+DTEND:20270105T220000Z
+SUMMARY:Raid Battles — Shadow Dialga in Shadow Raids
+DESCRIPTION:<a href="https://leekduck.com/events/shadow-dialga-in-shadow-r
+ aids-december-2026/">Shadow Dialga in Shadow Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/shadow-dialga-in-shadow-raids-de
+ cember-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/dialgaraids.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Shadow Dialga in Shadow R
+ aids
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/d
+ ialgaraids.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-mega-falinks-in-mega-raids-december-2026
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261230T060000Z
+DTEND:20270105T220000Z
+SUMMARY:Raid Battles — Mega Falinks in Mega Raids
+DESCRIPTION:<a href="https://leekduck.com/events/mega-falinks-in-mega-raid
+ s-december-2026/">Mega Falinks in Mega Raids</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/mega-falinks-in-mega-raids-decem
+ ber-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/mega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Mega Falinks in Mega Raid
+ s
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/m
+ ega-default.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+BEGIN:VEVENT
+UID:scraped-duck-tornadus-thundurus-landorus-therian-formes-in-5-star-raid
+ -battles-december-2026
+SEQUENCE:0
+DTSTAMP:20261128T132501Z
+DTSTART:20261230T060000Z
+DTEND:20270105T220000Z
+SUMMARY:Raid Battles — Tornadus\, Thundurus\, and Landorus (Therian Form
+ es) in 5-star Raid Battles
+DESCRIPTION:<a href="https://leekduck.com/events/tornadus-thundurus-landor
+ us-therian-formes-in-5-star-raid-battles-december-2026/">Tornadus\, Thundu
+ rus\, and Landorus (Therian Formes) in 5-star Raid Battles</a>
+ORGANIZER;CN="LeekDuck c/o ScrapedDuck":
+CATEGORIES:Raid Battles
+URL;VALUE=URI:https://leekduck.com/events/tornadus-thundurus-landorus-ther
+ ian-formes-in-5-star-raid-battles-december-2026/
+IMAGE:https://cdn.leekduck.com/assets/img/events/tornadus-thundurus-landor
+ us-go-tour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TITLE:Raid Battles — Tornadus\, Thundurus\, an
+ d Landorus (Therian Formes) in 5-star Raid Battles
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://leekduck.com/assets/img/favicon/fav
+ icon-16x16.png
+X-GOOGLE-CALENDAR-CONTENT-URL:https://cdn.leekduck.com/assets/img/events/t
+ ornadus-thundurus-landorus-go-tour.jpg
+X-GOOGLE-CALENDAR-CONTENT-TYPE:image/*
+END:VEVENT
+X-ORIGIN:https://leekduck.com/events/
+X-GENERATOR:ScrapedDuck
+X-GENERATOR-URL:https://github.com/bigfoott/ScrapedDuck
+END:VCALENDAR
